@@ -1,8 +1,5 @@
 <template>
   <ul class="d-flex flex-wrap">
-    <div>
-      <button v-on:click="getCourseData">Get Course Data</button>
-    </div>
     <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3 mx-auto scratch-no-1">
       <div class="card">
         <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
@@ -46,13 +43,8 @@
         courseDataList: []
       };
     },
-    methods: {
-      getCourseData() {
-        // fetch("course.json")
-        // .then(response => response.json())
-        // .then(data => (this.courseDataList = data));
-        axios.get("course.json").then(response => (this.courseDataList = response.data));
-      }
+    mounted () {
+      axios.get("course.json").then(response => (this.courseDataList = response.data));
     }
   }
 </script>
