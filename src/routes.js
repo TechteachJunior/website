@@ -4,6 +4,7 @@ import TypingCourses from './components/TypingCourses'
 import ProgramCourses from './components/ProgramCourses'
 import GoogleDriveCourses from './components/GoogleDrive'
 import About from './components/About'
+import InstagramPage from './components/InstagramPage'
 export const routes = [
   {
      path: '/',
@@ -29,5 +30,10 @@ export const routes = [
     path: '/about',
     name: 'About',
     component: About
+  }
+  ,{
+    path: '/instagram-page',
+    name: 'InstagramPage',
+    component: InstagramPage
   }
 ];
