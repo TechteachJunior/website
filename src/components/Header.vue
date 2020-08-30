@@ -3,7 +3,7 @@
     <div>
       <b-navbar toggleable="lg">
           <router-link to="/" class="logo d-flex align-items-center" aria-label="Tech Teach Logo">
-            <img class="img-fluid" src="../assets/images/tech-teach-logo.png" style="width: 60px;">
+            <img class="img-fluid" src="../assets/images/Logo_TechTeach.png" style="width: 60px;">
             <div class="d-flex flex-column logo-text ml-3">
               <div>TechTeach</div>
               <div><small>Aprende a programar y diviertete</small></div>

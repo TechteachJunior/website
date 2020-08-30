@@ -38,24 +38,24 @@
   }
   header {
     nav {
-      background-color: $purple-light;
+      background-color: $blue;
       a {
         &:hover {
           text-decoration: none;
         }
       }
       .logo-text {
-        color: $blue;
+        color: $yellow;
         font-weight: 700;
       }
       .nav-link {
-        color: $blue !important;
+        color: $yellow !important;
         font-weight: 700;
         &:hover, &:active {
-          border-bottom: 2px solid $yellow;
+          border-bottom: 2px solid $purple-light;
         }
         a {
-          color: $blue !important;
+          color: $yellow !important;
           font-weight: 700;
           text-decoration: none;
         }

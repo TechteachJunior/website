@@ -33,7 +33,7 @@
             <article id="learning-options">
                <h1>Empezar por aquí</h1>
                <div class="content">
-                  <Courses />
+                  <CoursesBegin />
                </div>
             </article>
             <article id="courses">
@@ -55,11 +55,13 @@
 <script>
    import ChatBox from '../components/ChatBox'
    import Courses from '../components/Courses'
+   import CoursesBegin from '../components/CoursesBegin'
    export default {
       name: 'Home',
       components: {
          ChatBox,
-         Courses
+         Courses,
+         CoursesBegin
       }
    }
 </script>
