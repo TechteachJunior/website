@@ -1,8 +1,8 @@
 <template>
-  <ul class="d-flex flex-wrap">
+  <ul class="d-flex flex-wrap scratch-list">
     <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3">
       <div class="card">
-        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" v-bind:src="courseData.logo"><span class="ml-3 course-title">{{courseData.name}}</span></div>
+        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
         <div class="card-body">
           <div class="text-center">
             <b-button id="show-btn" @click="$bvModal.show('courseDescription')"><img class="img-fluid" v-bind:src="courseData.image"></b-button>
@@ -44,40 +44,7 @@
       };
     },
     mounted () {
-      axios.get("course.json").then(response => (this.courseDataList = response.data.begin));
+      axios.get("course.json").then(response => (this.courseDataList = response.data.scratch));
     }
   }
 </script>
-<style lang="scss">
-  @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Poppins:wght@400;700&display=swap');
-
-  $blue: #282C82;
-  $purple: #4F539E;
-  $purple-light: #A5B4E5;
-  $yellow: #F8EB7C;
-  $light: #FAF6F6;
-
-  #learning-options, #courses {
-    h1 {
-      padding: 20px 0;
-    }
-    .content {
-      background-color: $blue;
-      padding: 2rem 0;
-    }
-  }
-  #courseDescription {
-    font-size: 1.2em;
-    .course-logo {
-      max-width: 40px;
-      float: left;
-    }
-    .modal-body {
-      .course-image {
-        img {
-          max-width: 250px;
-        }
-      }
-    }
-  }
-</style>

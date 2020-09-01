@@ -4,15 +4,18 @@
       <Header />
     </div>
     <router-view></router-view>
+    <Footer />
   </div>
 </template>
 
 <script>
   import Header from './components/Header'
+  import Footer from './components/Footer'
   export default {
     name: 'app',
     components: {
-      Header
+      Header,
+      Footer
     }
   }
 </script>
@@ -25,6 +28,14 @@
   $yellow: #F8EB7C;
   $light: #FAF6F6;
 
+  .container-fluid{
+    padding: 0 !important;
+  } 
+  .title {
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+  }
   #app {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -108,5 +119,39 @@
       }
     }
   } 
+  .content {
+    ul {
+      padding: 0;
+      li {
+        list-style: none;
+        margin-top: 1rem;
+      }
+    }
+    .card {
+      .card-header {
+        .course-logo {
+          max-width: 40px;
+          float: left;
+        }
+      }
+      .card-body {
+        padding: 0;
+        button {
+          padding: 0;
+          border: none;
+        }
+      }
+      .card-footer {
+        .course-type {
+          background-color: transparent;
+          width: 0;
+          height: 0;
+          border-left: 20px solid transparent;
+          border-right: 20px solid transparent;
+          border-bottom: 30px solid #F8EB7C
+        }
+      }
+    }
+  }
 </style>
 

@@ -1,6 +1,6 @@
 <template>
   <ul class="d-flex flex-wrap">
-    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3 mx-auto scratch-no-1">
+    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3">
       <div class="card">
         <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
         <div class="card-body">

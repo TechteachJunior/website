@@ -31,22 +31,52 @@
             </div>
             </article>
             <article id="learning-options">
-               <h1>Empezar por aquí</h1>
-               <div class="content">
-                  <CoursesBegin />
-               </div>
+              <div class="title">
+                <h2>Empezar por aquí</h2>
+              </div>
+              <div class="content">
+                <CoursesBegin />
+              </div>
             </article>
             <article id="courses">
-               <h1>Cursos</h1>
-               <div class="content">
-                  <Courses />
-               </div>
+              <div class="title">
+                <h2>Los cursos</h2>
+              </div>
+              <div class="content">
+                <Courses />
+              </div>
+            </article>
+            <article id="discoverMore">
+              <div class="title">
+                <h2>Descrube más</h2>
+              </div>
+              <div class="content">
+                
+              </div>
+            </article>
+            <article id="info">
+              <div class="content">
+                
+              </div>
+            </article>
+            <article id="artWall">
+              <div class="title">
+                <h2>Mural de arte</h2>
+              </div>
+              <div class="content">
+                
+              </div>
+            </article>
+            <article id="otherLearn">
+              <div class="title">
+                <h2>¿Qué aprenden tus compañeras y compañeros virtuales</h2>
+              </div>
+              <div class="content">
+                
+              </div>
             </article>
          </section>
       </main>
-      <footer>
-         
-      </footer>
       <!--This is what it's really about!-->
       <ChatBox class="fixed-bottom mb-5"/>
    </div>
