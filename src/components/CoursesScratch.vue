@@ -1,12 +1,12 @@
 <template>
   <ul class="d-flex flex-wrap scratch-list">
-    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3">
+    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-6 col-xl-3">
       <div class="card">
-        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
+        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class=" course-title">{{courseData.name}}</span></div>
         <div class="card-body">
           <div class="text-center">
-            <b-button id="show-btn" @click="$bvModal.show('courseDescription')"><img class="img-fluid" v-bind:src="courseData.image"></b-button>
-            <b-modal size="lg" id="courseDescription" hide-footer>
+            <b-button id="show-btn" @click="$bvModal.show('{{courseData.id}}')"><img class="img-fluid" v-bind:src="courseData.image"></b-button>
+            <b-modal size="lg" v-bind:id="courseData.id" hide-footer>
               <template v-slot:modal-title>
                 <div class="d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
               </template>
@@ -38,9 +38,10 @@
   import axios from 'axios';
   export default {
     name: "Course",
+    props: ['button'],
     data() {
       return {
-        courseDataList: []
+        courseDataList: [],
       };
     },
     mounted () {

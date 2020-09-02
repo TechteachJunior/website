@@ -5,7 +5,7 @@
         <section role="section">
           <article id="scratchCourses">
             <div class="title">
-              <img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><h2>Scratch</h2>
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/scratch-logo.png"><h2>Scratch</h2>
             </div>
             <div class="content">
               <CoursesScratch />
@@ -13,7 +13,7 @@
           </article>
           <article id="codeOrgCourses">
             <div class="title">
-              <img class="img-fluid course-logo" src="../assets/images/logos/code-org.png"><h2>Code Org</h2>
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/code-org.png"><h2>Code Org</h2>
             </div>
             <div class="content">
               <CoursesCodeOrg />
@@ -48,6 +48,9 @@
     .sub-header {
       padding: 2rem 2rem;
       background-color: $yellow;
+      @media (min-width: 992px) {
+        padding-top: calc(90px + 2rem);
+      }
       h1 {
         font-family: 'Cabin Sketch', cursive;
         font-weight:  400;
@@ -55,46 +58,13 @@
         color: $blue;
       }
     }
-    .title {
-      padding: 1rem 2rem;
-      display: flex;
-      align-items: center;
-    }
-    .course-logo {
+    .course-logo-header {
       max-width: 70px;
       margin-right: 15px;
     }
     .content {
       background-color: $purple-light;
       padding: 2rem 0;
-    }
-    li {
-      list-style: none;
-    }
-    .card {
-      .card-header {
-        .course-logo {
-          max-width: 40px;
-          float: left;
-        }
-      }
-      .card-body {
-        padding: 0;
-        button {
-          padding: 0;
-          border: none;
-        }
-      }
-      .card-footer {
-        .course-type {
-          background-color: transparent;
-          width: 0;
-          height: 0;
-          border-left: 20px solid transparent;
-          border-right: 20px solid transparent;
-          border-bottom: 30px solid #F8EB7C
-        }
-      }
     }
   }
 </style>

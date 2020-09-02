@@ -27,7 +27,10 @@
   $purple-light: #A5B4E5;
   $yellow: #F8EB7C;
   $light: #FAF6F6;
+  $coral: #ff8552;
+  $red: #e84855;
 
+ 
   .container-fluid{
     padding: 0 !important;
   } 
@@ -35,6 +38,10 @@
     padding: 1rem 2rem;
     display: flex;
     align-items: center;
+    color: $purple;
+    h2 {
+      font-weight: 700;
+    }
   }
   #app {
     font-family: 'Poppins', sans-serif;
@@ -56,25 +63,46 @@
         }
       }
       .logo-text {
-        color: $yellow;
+        color: $light;
         font-weight: 700;
       }
+      &.navbar {
+        @media (min-width: 992px) {
+          z-index: 1;
+          width: 100%;
+          position: fixed;
+        }
+      }
+      &.navbar-light .navbar-toggler {
+        background-color: $purple-light;
+      }
       .nav-link {
-        color: $yellow !important;
+        color: $light !important;
         font-weight: 700;
+         border-bottom: 2px solid transparent;
         &:hover, &:active {
-          border-bottom: 2px solid $purple-light;
+          border-bottom: 2px solid $yellow;
         }
         a {
-          color: $yellow !important;
+          color: $light !important;
           font-weight: 700;
           text-decoration: none;
+        }
+      }
+      .dropdown-menu {
+        background-color: $purple-light;
+        a {
+          color: $blue;
+          font-weight: 700;
         }
       }
     }
   }
   .sub-header {
     background-color: $blue;
+    @media (min-width: 992px) {
+      padding-top: 90px;
+    }
   }
   #question {
     background-color: $yellow;
@@ -101,6 +129,11 @@
         border-right: 100px solid transparent;
         border-bottom: 150px solid $yellow;
         line-height: 150px;
+        display: flex;
+        justify-content: center;
+        span {
+          margin-top: 1rem;
+        }
       }
       &.typing-link {
         background-color: $purple-light;
@@ -112,7 +145,7 @@
       }
       &.google-drive-link {
         background-color: $purple;
-        color: $yellow;
+        color: $yellow !important;
         height: 150px;
         width: 150px;
         line-height: 150px;
@@ -120,6 +153,8 @@
     }
   } 
   .content {
+    background-color: $blue;
+    padding: 2rem 0;
     ul {
       padding: 0;
       li {
@@ -128,14 +163,21 @@
       }
     }
     .card {
+      height: 100%;
+      border-radius: 0;
       .card-header {
+        font-weight: 700;
         .course-logo {
           max-width: 40px;
+          margin-right: 15px;
           float: left;
         }
       }
       .card-body {
         padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         button {
           padding: 0;
           border: none;
@@ -152,6 +194,45 @@
         }
       }
     }
+  }
+  .modal {
+    font-size: 1.2em;
+    .course-logo {
+      max-width: 40px;
+      float: left;
+    }
+    .modal-body {
+      .course-image {
+        img {
+          max-width: 250px;
+        }
+      }
+    }
+    .btn-secondary {
+      border-radius: 0;
+      background-color: $blue;
+      border-color: $blue;
+      color: $light;
+      &:hover {
+        background-color: $purple-light;
+        border-color: $purple-light;
+        color: $blue;
+      } 
+    }
+  }
+  .btn-secondary {
+    border-radius: 0;
+    background-color: $blue;
+    border-color: $blue;
+    color: $light;
+    &:hover {
+      background-color: $purple-light;
+      border-color: $purple-light;
+      color: $blue;
+    }
+  }
+  a {
+    color: $blue !important;
   }
 </style>
 

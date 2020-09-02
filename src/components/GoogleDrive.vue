@@ -1,11 +1,68 @@
 <template>
-   <div class="wrapper">
-      <h1>Google Drive Courses</h1>
+   <div class="container-fluid" id="coursesPage">   
+      <main role="main">
+        <div class="sub-header"><h1>Google</h1></div>
+        <section role="section">
+          <article id="googleCourses">
+            <div class="title">
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/google.png"><h2>Google Drive</h2>
+            </div>
+            <div class="content">
+              <CoursesGoogle />
+            </div>
+          </article>
+           <article id="googleCourses">
+            <div class="title">
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/google.png"><h2>Google Presentation</h2>
+            </div>
+            <div class="content">
+              <CoursesGoogle />
+            </div>
+          </article>
+        </section>
+      </main>
    </div>
 </template>
 
 <script>
-   export default {
-      name: 'GoogleDriveCourses'
-   }
+  import CoursesGoogle from '../components/CoursesGoogle'
+  export default {
+    name: 'GoogleDriveCourses',
+    components: {
+      CoursesGoogle
+    }
+  }
 </script>
+<style lang="scss">
+  @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Poppins:wght@400;700&display=swap');
+
+  $blue: #282C82;
+  $purple: #4F539E;
+  $purple-light: #A5B4E5;
+  $yellow: #F8EB7C;
+  $light: #FAF6F6;
+
+  #coursesPage {
+    .sub-header {
+      padding: 2rem 2rem;
+      background-color: $yellow;
+      @media (min-width: 992px) {
+        padding-top: calc(90px + 2rem);
+      }
+      h1 {
+        font-family: 'Cabin Sketch', cursive;
+        font-weight:  400;
+        font-size: 2.6667em;
+        color: $blue;
+      }
+    }
+    .course-logo-header {
+      max-width: 70px;
+      margin-right: 15px;
+    }
+    .content {
+      background-color: $purple-light;
+      padding: 2rem 0;
+    }
+  }
+</style>

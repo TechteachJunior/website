@@ -1,8 +1,8 @@
 <template>
   <ul class="d-flex flex-wrap">
-    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-3">
+    <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-6 col-xl-3">
       <div class="card">
-        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class="ml-3 course-title">{{courseData.name}}</span></div>
+        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" src="../assets/images/logos/scratch-logo.png"><span class=" course-title">{{courseData.name}}</span></div>
         <div class="card-body">
           <div class="text-center">
             <b-button id="show-btn" @click="$bvModal.show('courseDescription')"><img class="img-fluid" v-bind:src="courseData.image"></b-button>
@@ -57,55 +57,5 @@
   $yellow: #F8EB7C;
   $light: #FAF6F6;
 
-  #learning-options, #courses {
-    h1 {
-      padding: 20px 0;
-    }
-    .content {
-      background-color: $blue;
-      padding: 2rem 0;
-    }
-    li {
-      list-style: none;
-    }
-    .card {
-      .card-header {
-        .course-logo {
-          max-width: 40px;
-          float: left;
-        }
-      }
-      .card-body {
-        padding: 0;
-        button {
-          padding: 0;
-          border: none;
-        }
-      }
-      .card-footer {
-        .course-type {
-          background-color: transparent;
-          width: 0;
-          height: 0;
-          border-left: 20px solid transparent;
-          border-right: 20px solid transparent;
-          border-bottom: 30px solid #F8EB7C
-        }
-      }
-    }
-  }
-  #courseDescription {
-    font-size: 1.2em;
-    .course-logo {
-      max-width: 40px;
-      float: left;
-    }
-    .modal-body {
-      .course-image {
-        img {
-          max-width: 250px;
-        }
-      }
-    }
-  }
+
 </style>
