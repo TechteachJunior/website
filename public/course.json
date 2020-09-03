@@ -3,7 +3,7 @@
   {
     "id": 1,
     "name": "¿Cómo comenzar?",
-    "logo":"",
+    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/571fa86e-530b-4a29-b5d5-6e588ebf4194/como_comenzar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T173553Z&X-Amz-Expires=86400&X-Amz-Signature=2485633e092c3ebc7d9e6e7b6f90e7c390dcf6fd6de3285e8a68b33ebd826b73&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22como_comenzar.jpg%22",
     "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
     "level": "Fácil",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Crea una cuenta en Google",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX2lxur4ALMi3AKGENkQn-sF_ZfSG8RIEV4w&usqp=CAU",
+    "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
     "image":"https://uc2948f16bd2eb07e3b9211310af.previews.dropboxusercontent.com/p/thumb/AA6eby74qSligaGo5N7qLQysum0WiPztFhtj8fYL__hyXVODqj7KkyMJrOw2RLG9PyZFrv_W7vDVEdxNikDmT5XWwGLdfs0wCNoo1An_PnDfE89eJSvLx6vA0SF6IElsD6VHqyVqKYAfX73MBvympiT1buQCtV2n9Vj-LTkC-ueeoTUua9OyTvWK3n7-AWMwLy7rMLjLD7HykhG95IiJmtkumyslmBxutv1KL90gARc659QwX4BdKXGmPOx_E2449dQwEhrfSatePVhNambmrskAHoBUL5vF3EMFbdnWAh3oZq15nXfQYRzVGxAqUhknISWfm3YgOoF8tImvBm_-Yu8ubdQ_mRWAuL9BlBmklygsJmUsqjZfTQ48_G3qsk3XBv0/p.png?fv_content=true&size_mode=5",
     "description": "Lorem ipsum lore lol",
     "level": "Fácil",
@@ -21,7 +21,7 @@
   {
     "id": 3,
     "name": "Fiesta de baile 1",
-    "logo":"https://code.org/images/logo.svg",
+    "logo":"https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
     "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ada30ab1-dbef-43da-ab6a-73f78ffe4705/codeorg-fiesta-de-baile-1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200830T181816Z&X-Amz-Expires=86400&X-Amz-Signature=88a728cade1ee65eaaf93bf259f873ce358f6db8fa34839cd349c636d5ab665e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-1.jpeg%22",
     "description": "Lorem ipsum lore lol",
     "level": "Fácil",
@@ -30,7 +30,7 @@
   {
     "id": 4,
     "name": "Gmail",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX2lxur4ALMi3AKGENkQn-sF_ZfSG8RIEV4w&usqp=CAU",
+    "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
     "image":"https://uc2948f16bd2eb07e3b9211310af.previews.dropboxusercontent.com/p/thumb/AA6eby74qSligaGo5N7qLQysum0WiPztFhtj8fYL__hyXVODqj7KkyMJrOw2RLG9PyZFrv_W7vDVEdxNikDmT5XWwGLdfs0wCNoo1An_PnDfE89eJSvLx6vA0SF6IElsD6VHqyVqKYAfX73MBvympiT1buQCtV2n9Vj-LTkC-ueeoTUua9OyTvWK3n7-AWMwLy7rMLjLD7HykhG95IiJmtkumyslmBxutv1KL90gARc659QwX4BdKXGmPOx_E2449dQwEhrfSatePVhNambmrskAHoBUL5vF3EMFbdnWAh3oZq15nXfQYRzVGxAqUhknISWfm3YgOoF8tImvBm_-Yu8ubdQ_mRWAuL9BlBmklygsJmUsqjZfTQ48_G3qsk3XBv0/p.png?fv_content=true&size_mode=5",
     "description": "Lorem ipsum lore lol",
     "level": "Fácil",
@@ -41,7 +41,7 @@
   {
     "id": 1,
     "name": "Crea animaciones que hablan",
-    "logo":"n",
+    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bde0257f-9903-48c9-aa47-35d7b1a72644/animacion_que_habla.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200830T175427Z&X-Amz-Expires=86400&X-Amz-Signature=ab7b5cdac855d05bc5939721f77141059a8f4b3617e1162fc4e7a0906c697050&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22animacion_que_habla.jpg%22",
     "description": "Lorem ipsum",
     "level": "Fácil",
@@ -50,7 +50,7 @@
   {
     "id": 2,
     "name": "Imagina un mundo",
-    "logo":"n",
+    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
     "description": "Lorem ipsum lore lol",
     "level": "Intermedio",
@@ -59,7 +59,7 @@
   {
     "id": 3,
     "name": "Imagina un mundo",
-    "logo":"n",
+    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
     "description": "Lorem ipsum lore lol",
     "level": "Intermedio",
@@ -68,7 +68,7 @@
   {
     "id": 4,
     "name": "Imagina un mundo",
-    "logo":"n",
+    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
     "description": "Lorem ipsum lore lol",
     "level": "Intermedio",
@@ -342,14 +342,131 @@
   ]
   ,
   "google":[ 
-  {
-    "id": 1,
-    "name": "Code Org",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTX2lxur4ALMi3AKGENkQn-sF_ZfSG8RIEV4w&usqp=CAU",
-    "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5860d79a-b2d1-4e52-9620-bc891c2c9a7d/juego-aventura.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180328Z&X-Amz-Expires=86400&X-Amz-Signature=ef7049c9da79f3e86ab515de16f47dbbdd2de2bd9fdbd29a9845d86ada888268&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego-aventura.jpg%22",
-    "description": "Lorem ipsum",
-    "level": "Fácil",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
-  }
+    {
+      "id": "one",
+      "name": "Crear una cuenta de Google",
+      "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc2f1ff7a2785542eb3e3eb0aa92.previews.dropboxusercontent.com/p/thumb/AA5yZayoHZqTYVUD5oniizkliKdjwc3kZm8D0PSFKITzbucVIDpR4r6ogEB2phPX139kJM-pjbFp18At1oZuubL1EikxIwnjk1KqUYMzL-BFOc1lHvsJaGz1i57B3yCTamVfWtmTftAEO2f_W8JU9MIPco2pJI2gwdNMzLZbNwDzFZmrHuwZOaJl5J5BnDo1ZJsVqZpKMUrlONEO5RoDKfPLyfbhXQhF_fjn7U73jjJy8-BJdC4PaUxKxv_0iX_BmhI50sRiP5V4_IIF7QX1oyMsjrfoGmZX-EjqPIuGsDhbnox6IC8RfVIeQO9Mfco79Nek_1PGJuPuutLmiIvaDHGnZTSrhx0-d3XAFld37zKvqOXBPdL8b5Ef27S02NCM7G0/p.png?fv_content=true&size_mode=5",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear una cuenta de Google.",
+      "level": "Fácil",
+      "url": "https://youtu.be/dEwY4wAoaXk"
+    },
+    {
+      "id": "two",
+      "name": "Aplicaciones de Google",
+      "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc68699953afc0851bb9ad0857e2.previews.dropboxusercontent.com/p/thumb/AA4Ck9Dgi2tuhsXPFsKmClh1uKHEeFmmpwFGHf79MKg26MqNr9atc6zLM1wO1f7X7OX0RqNgmgDiUBv0x-uFhmVv7qs5jTB8tDgLu5yPk-gNJlXA_YP0gGSvijDSOro8xHd2oeD2TYX3ZBxADIHNeHW6sZXjrVO0Fk9pu0hxfmmYEXyjcfzdGBWLwxLhve16k-SRUkwxC41H4z-8S1v_AP6Jbpdcpo0QTw-EHvfRrVElszvjg5LYoVsEtEUSWoOBlKJ1jupB5VPx5VjJ_dKuFRpi7RcXPRp0tFsr76oyoUBxpYfOJom7KNBp-F6lCXfMcRo0PT28xwkJjPlRdnfJy2nZVuqCHjlEzVYhSGEw1l-L2q-F-GrQn35-4D-MwQOIW6Y/p.png?fv_content=true&size_mode=5",
+      "description": "En este video Profe Suzy va a explicar algunas cosas sobre las aplicaciones de Google.",
+      "level": "Fácil",
+      "url": "https://youtu.be/zPz8WYsoHD8"
+    },
+    {
+      "id": "three",
+      "name": "Usar Gmail",
+      "logo":"https://www.dropbox.com/s/d9ksf7m30pqbbpm/google.png?dl=0",
+      "image":"https://www.dropbox.com/s/rug7uvzv23muaiv/gmail.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar algunas cosas sobre Gmail.",
+      "level": "Fácil",
+      "url": "https://youtu.be/lrkKCaLFKv8"
+    },
+    {
+      "id": "four",
+      "name": "Crear diapositivas",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/y0iabwokg0jvvc0/crear%20diapositivas.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear diapositivas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/UTSotX_Saa4"
+    },
+    {
+      "id": "five",
+      "name": "Insertar imágenes",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/6q52gatic5ewr6u/insertar%20im%C3%A1genes.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/EDb1SY1Toxk"
+    },
+    {
+      "id": "six",
+      "name": "Usar temas",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/dlj1y8953t351g4/usar%20temas.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar temas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "seven",
+      "name": "Usar transiciones",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/p9rhqz7d6gd2vht/usar%20transiciones.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar transiciones en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "eight",
+      "name": "Editar texto",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/3qorzx2mspdx8fu/editar%20texto.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes editar texto en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "nine",
+      "name": "Explorar",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/ir32cjxd645phci/explorar.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón de explorar en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "ten",
+      "name": "Presentación completa",
+      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
+      "image":"https://www.dropbox.com/s/2jdu5vdfnfuare6/presentaci%C3%B3n%20completa.png?dl=0",
+      "description": "En este video Profe Suzy va a crear una presentación completa en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "eleven",
+      "name": "Salto de página",
+      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
+      "image":"https://www.dropbox.com/s/l98mccn5guofcas/salto%20de%20p%C3%A1gina.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes hacer un salto de página en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "twelve",
+      "name": "Insertar imágenes",
+      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
+      "image":"https://www.dropbox.com/s/li43uocoxh07gzd/insertar%20imagenes%20gd.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "thirteen",
+      "name": "Explorar",
+      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
+      "image":"https://www.dropbox.com/s/mehrlrd42ptyv94/explorar%20gd.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón explorar en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "fourteen",
+      "name": "Fuente de letras",
+      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
+      "image":"https://www.dropbox.com/s/w0ll7a5ighvtqxo/fuente%20de%20letras.png?dl=0",
+      "description": "En este video Profe Suzy va a explicar cómo puedes cambiar fuentes de letras en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    }
   ]
 }

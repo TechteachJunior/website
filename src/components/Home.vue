@@ -32,7 +32,7 @@
             </article>
             <article id="learning-options">
               <div class="title">
-                <h2>Empezar por aquí</h2>
+                <h2><i class="fas fa-star"></i>Empezar por aquí</h2>
               </div>
               <div class="content">
                 <CoursesBegin />
