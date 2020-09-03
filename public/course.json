@@ -79,7 +79,7 @@
     {
       "id": "one",
       "name": "¿Cómo comenzar?",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/571fa86e-530b-4a29-b5d5-6e588ebf4194/como_comenzar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T173553Z&X-Amz-Expires=86400&X-Amz-Signature=2485633e092c3ebc7d9e6e7b6f90e7c390dcf6fd6de3285e8a68b33ebd826b73&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22como_comenzar.jpg%22",
       "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
       "level": "Fácil",
@@ -88,7 +88,7 @@
     {
       "id": "two",
       "name": "Crea animaciones que hablen",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bde0257f-9903-48c9-aa47-35d7b1a72644/animacion_que_habla.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181412Z&X-Amz-Expires=86400&X-Amz-Signature=594a599ba1866384d4b2a0179647f5354f72e191fb94d17ba84dc571701746bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22animacion_que_habla.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -97,7 +97,7 @@
     {
       "id": "three",
       "name": "Cuentos que hablen",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd894072-d540-41fe-9cef-8805cbdab821/cuentos_que_hablen.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181443Z&X-Amz-Expires=86400&X-Amz-Signature=92891bc3b52cb9eec13d6864f4c6d7b9f757e03b778de92537d53171981d1200&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cuentos_que_hablen.png%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -106,7 +106,7 @@
     {
       "id": "four",
       "name": "Anima un nombre",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26ba7f33-69a6-4b74-9d16-b1988422217e/anima_un_nombre.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181848Z&X-Amz-Expires=86400&X-Amz-Signature=c6371229eae5a5388576b4d34de77c0129dc6936bdeec49e12fb5a7db7d608a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_un_nombre.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -115,7 +115,7 @@
     {
       "id": "five",
       "name": "Crea música",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e5505a7-d18a-4e2c-b5dc-887e092a0ab0/crea_musica.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184543Z&X-Amz-Expires=86400&X-Amz-Signature=a8a2df353b1d274f416cb070c0a5d7d435185c45fce6ff1f33fb1d5dd97147fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22crea_musica.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -124,7 +124,7 @@
     {
       "id": "six",
       "name": "Crea una historia",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39f82235-3f3e-46fb-822c-7c8e203b8858/crea_una_historia.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184631Z&X-Amz-Expires=86400&X-Amz-Signature=1d1f02da66d0185627e47aff225fde96d413486a00b3e72e73b5fa6b1dc8a9b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22crea_una_historia.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -133,7 +133,7 @@
     {
       "id": "seven",
       "name": "Juego de pong",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4d8a3f67-2336-4202-bd02-c694ff6cddc5/scratch_juego_de_pong.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184657Z&X-Amz-Expires=86400&X-Amz-Signature=a12fd1a203e5c777e8aad6248fdd25ce72d3a3b996d54d69bc7668d14ff0bed3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_juego_de_pong.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -142,7 +142,7 @@
     {
       "id": "eight",
       "name": "Cambiar tamaño",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/354dcc85-84c7-4e2c-8c01-fb45ff27be69/Cambiar_tamano.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190233Z&X-Amz-Expires=86400&X-Amz-Signature=9e8d46fb35b649986a78e6824ee60d1a2314e1e2aee88e60786ba10409f280ce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Cambiar_taman%25CC%2583o.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -151,7 +151,7 @@
     {
       "id": "nine",
       "name": "Deslizar alrededor",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9861ff3-1f89-430b-94ac-6540a44c79cb/deslizar_alrededor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190254Z&X-Amz-Expires=86400&X-Amz-Signature=95cf43f61566763ff36a21dddf853e73a52eee5cd89555033cd9af9a3dfb1c50&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22deslizar_alrededor.jpg%22",
       "description": "Cambiar de posición",
       "level": "Fácil",
@@ -160,7 +160,7 @@
     {
       "id": "ten",
       "name": "Grabar un sonido",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f5f6fe2-97a1-4932-a63d-83307db55732/grabar_sonido.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190620Z&X-Amz-Expires=86400&X-Amz-Signature=3ef8f927a629e423c3d9eb939be2e5cfc938979e8906b633f667d3b15a117335&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22grabar_sonido.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -169,7 +169,7 @@
     {
       "id": "eleven",
       "name": "Hazlo girar",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/123f3c04-39d7-4f57-95f8-2e29ecaf4063/hazlo_girar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190641Z&X-Amz-Expires=86400&X-Amz-Signature=ca748258e8c5f911b0f8cf6d66672df2db01da50f5fd6e109aa228a54ef9ad37&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22hazlo_girar.jpg%22",
       "description": "Gira a tu personaje",
       "level": "Fácil",
@@ -178,7 +178,7 @@
     {
       "id": "twelve",
       "name": "Ocultar y mostrar",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37924a1d-b744-40c1-9978-78997b5b6a2a/ocultar_mostrar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190701Z&X-Amz-Expires=86400&X-Amz-Signature=f2b507845ca91487db257444d1ecff0edc81db7b6ffb702ce44f23ee402e0fec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ocultar_mostrar.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
@@ -187,7 +187,7 @@
     {
       "id": "thirteen",
       "name": "Anima un objeto",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6789af12-58cc-42e3-b424-0946e2079a62/anima_objeto.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190719Z&X-Amz-Expires=86400&X-Amz-Signature=d3f25c2639ecc25c0f84308557aeb4fb6d4b148ba389c55196946feb760153c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_objeto.jpg%22",
       "description": "Cambia de animación al objeto y aprende a utilizar la animación deseada ",
       "level": "Fácil",
@@ -196,7 +196,7 @@
     {
       "id": "fourteen",
       "name": "Usar las flechas",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/15613a45-de65-410e-9534-e563660012bd/usar_flechas.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190748Z&X-Amz-Expires=86400&X-Amz-Signature=b105b8208b8d990504fb2256b465c90b8cc5ea0ef9e41ce0b72a2ae3712f5423&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22usar_flechas.jpg%22",
       "description": "Aprende a elegir la dirección del personaje con las flechas",
       "level": "Fácil",
@@ -205,7 +205,7 @@
     {
       "id": "fifteen",
       "name": "Añade efectos",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a315a6b4-8ac4-4d04-a5f4-128b2ac2c441/anade_efectos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190805Z&X-Amz-Expires=86400&X-Amz-Signature=72ec49116085355a99c4967bdaf97334a65dcfae79d4da31a617c89745f42ed2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22an%25CC%2583ade_efectos.jpg%22",
       "description": "Aprende a añadir efectos a los objetos ",
       "level": "Fácil",
@@ -214,7 +214,7 @@
     {
       "id": "sixteen",
       "name": "Sensor de video",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da0d120f-24ad-4a52-9ade-36857c67951f/sensor_de_video.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175300Z&X-Amz-Expires=86400&X-Amz-Signature=06553215edaeec1c3534fa2dc6c089d7f869be16879ffd4cd8643be57affedf8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22sensor_de_video.jpg%22",
       "description": "Divertido al crear e interactuar, corto y facil de seguir",
       "level": "Fácil",
@@ -223,7 +223,7 @@
     {
       "id": "seventeen",
       "name": "Agrega un objeto",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/184be05c-e4b8-4c1f-8999-8490f2aae3bc/agrega_objeto.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175410Z&X-Amz-Expires=86400&X-Amz-Signature=857c161e816c45d247a37d6f487658cb074e17f991608f4ce70564fbc23b45d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22agrega_objeto.jpg%22",
       "description": "Elige un personaje",
       "level": "Fácil",
@@ -232,7 +232,7 @@
     {
       "id": "eighteen",
       "name": "Agrega un fondo",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1378d596-6c71-487b-8f09-5e22ce86c159/agrega_fondo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175515Z&X-Amz-Expires=86400&X-Amz-Signature=96b9f075981641f4c69cdaca4cbd0bcaf24892751b584fa1cb1a63902d82d9e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22agrega_fondo.jpg%22",
       "description": "Elige un personaje",
       "level": "Fácil",
@@ -241,7 +241,7 @@
     {
       "id": "nineteen",
       "name": "Imagina un mundo",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/224f473a-74fb-4719-9ac7-e9e35d5be978/scratch_imagina_un_mundo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175557Z&X-Amz-Expires=86400&X-Amz-Signature=c24be91be6250686da0b41a368c95ce89a7b4297d1a2af205160f279eeb71042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_imagina_un_mundo.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -250,7 +250,7 @@
     {
       "id": "twenty",
       "name": "Programa una caricatura",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5218804-dc1c-428d-8926-dd286537b62a/programa_caricatura.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190837Z&X-Amz-Expires=86400&X-Amz-Signature=4dc86159393ad8fe7916e24bd7fc67e6c900e1c11c61bb8f8147d58d1046d4b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22programa_caricatura.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -259,7 +259,7 @@
     {
       "id": "twentyone",
       "name": "Haz un juego de perseguir",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d03349b-cee4-4ad1-b044-d9a91e932145/haz_un_juego_perseguir.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175818Z&X-Amz-Expires=86400&X-Amz-Signature=a2baa7f0bfd3c1a6f76941db3c3b5af0c2f9077ab511fe0526ff692338d4919c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22haz_un_juego_perseguir.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -268,7 +268,7 @@
     {
       "id": "twentytwo",
       "name": "Anima un personaje",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/28515e3a-e2bc-4f7c-865b-28f773d91c29/anima_personaje.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175929Z&X-Amz-Expires=86400&X-Amz-Signature=726656c94389246b6a83707fcd92acef25d01acce66a268f4de04d5216cd1065&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_personaje.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -277,7 +277,7 @@
     {
       "id": "twentytree",
       "name": "Haz un juego de cliquear",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96271501-4ecf-44b4-9527-b6132d79b144/juego_de_cliquear.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180036Z&X-Amz-Expires=86400&X-Amz-Signature=a6066b32bc1aad0ad14cb7c789790a32a1ab1ebfb9b8b110c75068e88d1a0389&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego_de_cliquear.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -286,7 +286,7 @@
     {
       "id": "twentyfour",
       "name": "Hazlo volar",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e048659-a4ef-439d-9b35-cc475b09efc2/scratch_hazlo_volar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180144Z&X-Amz-Expires=86400&X-Amz-Signature=0f8cee6788395160f296b2c58536fba5f078fa6f00c6b7fb452971facdda0ced&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_hazlo_volar.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -295,7 +295,7 @@
     {
       "id": "twentyfive",
       "name": "Anima un juego de aventura",
-      "logo": "n",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5860d79a-b2d1-4e52-9620-bc891c2c9a7d/juego-aventura.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180328Z&X-Amz-Expires=86400&X-Amz-Signature=ef7049c9da79f3e86ab515de16f47dbbdd2de2bd9fdbd29a9845d86ada888268&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego-aventura.jpg%22",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
@@ -306,7 +306,7 @@
     {
       "id": "one",
       "name": "Fiesta de baile",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e38f682-0a91-49ca-b6e1-9d1814e320a0/codeorg-fiesta-de-baile-1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T230118Z&X-Amz-Expires=86400&X-Amz-Signature=7bbe7390122e4bbeac2e0dc536ff25447f71da90f7801e73c3a6632a8cf5a06a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-1.gif%22",
       "description": "Usarás bloques de código para crear una fiesta de baile. Vas a elegir diferentes bailarines, cambiar sus movimientos de baile y hacerlos responder a la música.",
       "level": "Intermedio",
@@ -315,7 +315,7 @@
     {
       "id": "two",
       "name": "Código Flappy",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e8249d3-5379-4b51-943a-de1012c844de/flappy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234607Z&X-Amz-Expires=86400&X-Amz-Signature=67e08c14e21882137668455723db235d1b1f1336795bedade0db6e6eecdd091f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22flappy.jpg%22",
       "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
       "level": "Intermedio",
@@ -324,7 +324,7 @@
     {
       "id": "three",
       "name": "Star Wars",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/293800d1-70a3-4069-90ba-2d614759ce94/starwars.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234503Z&X-Amz-Expires=86400&X-Amz-Signature=e1cfa425c5ee1156573ea2611b2f9cc965fcb2496cfb451a29eefad5d4c5b17f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22starwars.jpg%22",
       "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
       "level": "Intermedio",
@@ -333,7 +333,7 @@
     {
       "id": "four",
       "name": "Aventurero de Minecraft",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62de5d9c-dae5-413e-9677-c207b72d457c/viaje_del_heroe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234431Z&X-Amz-Expires=86400&X-Amz-Signature=87a29b3bc693e45917d4ea15e07ac64bc88bd26436fa7fe7cc3f4fcc115deb49&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22viaje_del_heroe.jpg%22",
       "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
       "level": "Intermedio",
@@ -342,7 +342,7 @@
     {
       "id": "five",
       "name": "Juego de baloncesto",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6c5ff28-7c80-4b74-aaea-99c2cadd1404/juego_baloncesto.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234534Z&X-Amz-Expires=86400&X-Amz-Signature=f91cfa9671c71d6d1ab0fa6ae2277545e1ca58ebf71f1f8fb23421136568bc08&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego_baloncesto.png%22",
       "description": "¡Vas a crear tu propio juego de baloncesto!",
       "level": "Intermedio",
@@ -351,7 +351,7 @@
     {
       "id": "six",
       "name": "Fiesta de Baile 2",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/03df9b6d-639e-435a-86d7-8711739ef3df/codeorg-fiesta-de-baile-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234337Z&X-Amz-Expires=86400&X-Amz-Signature=406300b85df784bffdcd794625671da3709b8a4657e2dd33658894bd4205044e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-2.png%22",
       "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
       "level": "Intermedio",
@@ -360,7 +360,7 @@
     {
       "id": "seven",
       "name": "Angry Bird Laberinto",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4ec5d1f-7dcc-43af-875e-3a9edea74c76/laberinto_angry_bird.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234622Z&X-Amz-Expires=86400&X-Amz-Signature=d81a20dae11f8125ef564d2c9731c0290ed371e3b72e9f88326acd44164d7c4d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22laberinto_angry_bird.png%22",
       "description": "¿Conoces Angry Bird? En esta clase vas a guiar un Angry Bird a través de un laberinto para golpear al cerdo verde.",
       "level": "Intermedio",
@@ -369,7 +369,7 @@
     {
       "id": "eight",
       "name": "Juego de Disney",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a35413d5-cb9b-46a5-9802-c1e6b2fc60ea/Laberinto_Disney.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234713Z&X-Amz-Expires=86400&X-Amz-Signature=e389ad6e54a76f2054d5594e9b7da9a012e7bc1537fff812078250bf7a005dbc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Laberinto_Disney.jpg%22",
       "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
       "level": "Intermedio",
@@ -378,7 +378,7 @@
     {
       "id": "nine",
       "name": "Diseñador de Minecraft",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d7bac321-71d6-479d-adcb-701f2601bbf3/disenador_de_minecraft.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234449Z&X-Amz-Expires=86400&X-Amz-Signature=a844e2fef9f75260742e507840f99ccc52a20edd8570307984d5e14b0a97a23e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22disenador_de_minecraft.jpg%22",
       "description": "¡El juego de Minecraft se congeló! ¿Ayudarás en añadir movimiento al mundo Minecraft otra vez? ",
       "level": "Intermedio",
@@ -387,7 +387,7 @@
     {
       "id": "ten",
       "name": "Crea tu juego",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d00fdf26-9dcc-4ff8-b51d-69b20d6155e8/lab_juegos_clasico.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234727Z&X-Amz-Expires=86400&X-Amz-Signature=7c76b49bd797e77039523af73c2bfeb9d41aa1141c1e836f7f6933802e292ea6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_clasico.png%22",
       "description": "En esta clase ¡vas a crear tu propio juego! ¿Estás list@? ",
       "level": "Intermedio",
@@ -396,7 +396,7 @@
     {
       "id": "eleven",
       "name": "Frozen",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed2b6a06-7337-4e37-a0f3-166181f815a2/frozen.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234519Z&X-Amz-Expires=86400&X-Amz-Signature=d71710573e735bce8240ca17c5cf09eb903a008804253bca7136e114cf3f6e4c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22frozen.jpg%22",
       "description": "¿Estás list@ para entrar a un mundo congelado? En esta clase vas a dibujar con Elsa en patines.",
       "level": "Intermedio",
@@ -414,7 +414,7 @@
     {
       "id": "thirteen",
       "name": "Juego de Gumball",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/12423aec-2b2d-4ffb-bd15-6b2d66c810a4/lab_juegos_gumball.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234817Z&X-Amz-Expires=86400&X-Amz-Signature=c1c5add08c831848e59b8d7dac677a81923e87622926e31893718d52028a410b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_gumball.png%22",
       "description": "En esta clase van a crear un juego de Gumball. ¡Buena suerte!",
       "level": "Intermedio",
@@ -423,7 +423,7 @@
     {
       "id": "fourteen",
       "name": "Minecraft: Viaje del Heroé",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62de5d9c-dae5-413e-9677-c207b72d457c/viaje_del_heroe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234913Z&X-Amz-Expires=86400&X-Amz-Signature=7e43717691e4f901a95e1b74a052ea1b499aa9746a8fe50569c570b3124ecdce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22viaje_del_heroe.jpg%22",
       "description": "¿Alguien sabe cómo escribir código en Minecraft? Bueno, eso vas a aprender en esta clase.",
       "level": "Intermedio",
@@ -432,7 +432,7 @@
     {
       "id": "fifteen",
       "name": "Artista",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb195808-fcf4-49ca-b5af-3bc4246a54db/Artista.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234846Z&X-Amz-Expires=86400&X-Amz-Signature=7dd67c838133214e613c81c62d11609e6ff46b3d194ddb3a80fc4edb1494a99b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Artista.jpg%22",
       "description": "¿Programación y dibujar una buena combinación? ¡Si! Ya vas a ver en esta clase.",
       "level": "Intermedio",
@@ -441,7 +441,7 @@
     {
       "id": "sixteen",
       "name": "La Era de Hielo",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ed3d2fd-2f83-4f0d-ad42-a6e648f80810/lab_juegos_iceage.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234831Z&X-Amz-Expires=86400&X-Amz-Signature=1be102800c2817a35a937b8ed7907649eefd2ca579a8e839567a57f5902cce25&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_iceage.png%22",
       "description": "¿List@ para una aventura en hielo? Vas a crear tu propio juego en la era de hielo.",
       "level": "Intermedio",
@@ -450,7 +450,7 @@
     {
       "id": "seventeen",
       "name": "Inteligencia Artificial",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b9f9d13-5492-47ba-b052-b3e845687df6/inteligencia-artificial-oceano.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234403Z&X-Amz-Expires=86400&X-Amz-Signature=b7189804f3123546fce505131b64581041d2eb5a1ca3ba618fa72b85fa4f9216&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22inteligencia-artificial-oceano.png%22",
       "description": "¡Limpiemos el océano! En esta actividad programarás o entrenarás a inteligencia artificial para identificar peces o basura.",
       "level": "Intermedio",
@@ -459,7 +459,7 @@
     {
       "id": "eighteen",
       "name": "Juego de Deportes",
-      "logo": "",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
       "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/425b1053-2650-48fc-90a3-e270745f9ce3/combina_deportes.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234549Z&X-Amz-Expires=86400&X-Amz-Signature=a68bc7945d1c420c70af900b787ab4902526979c5e692ecae76d2cf623db9225&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22combina_deportes.png%22",
       "description": "¡Programa tu propio juego de deporte!",
       "level": "Intermedio",

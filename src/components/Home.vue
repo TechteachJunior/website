@@ -24,17 +24,13 @@
             </div>
             </article>
             <article id="menu-learning-option">
-            <div class="d-flex flex-column flex-md-row justify-content-around">
-               <div class="d-flex mb-2 mb-sm-0 justify-content-center align-items-center mx-auto text-center"><router-link to="program-courses" class="programming-link"><span>Programar</span></router-link></div>
-               <!-- <div class="d-flex justify-content-center align-items-center text-center"><router-link to="typing-courses" class="typing-link">Type</router-link></div> -->
-               <div class="d-flex justify-content-center align-items-center mx-auto text-center"><router-link to="google-drive-courses" class="google-drive-link"><span>Google</span></router-link></div>
-            </div>
+              <MenuOptions />
             </article>
             <article id="learning-options">
               <div class="title">
                 <h2><i class="fas fa-star"></i>Empezar por aquí</h2>
               </div>
-              <div class="content">
+              <div class="content coral-background">
                 <CoursesBegin />
               </div>
             </article>
@@ -50,28 +46,7 @@
               <div class="title">
                 <h2>Descrube más</h2>
               </div>
-              <div class="content">
-                
-              </div>
-            </article>
-            <article id="info">
-              <div class="content">
-                
-              </div>
-            </article>
-            <article id="artWall">
-              <div class="title">
-                <h2>Mural de arte</h2>
-              </div>
-              <div class="content">
-                
-              </div>
-            </article>
-            <article id="otherLearn">
-              <div class="title">
-                <h2>¿Qué aprenden tus compañeras y compañeros virtuales</h2>
-              </div>
-              <div class="content">
+              <div class="content yellow-background">
                 
               </div>
             </article>
@@ -86,12 +61,14 @@
    import ChatBox from '../components/ChatBox'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
+   import MenuOptions from '../components/MenuOptions'
    export default {
       name: 'Home',
       components: {
          ChatBox,
          Courses,
-         CoursesBegin
+         CoursesBegin,
+         MenuOptions
       }
    }
 </script>

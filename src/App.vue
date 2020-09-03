@@ -113,6 +113,7 @@
       font-size: 2.6667em;
     }
   }
+  
   #menu-learning-option {
     background-color: $light;
     padding: 2rem 0;
@@ -152,9 +153,19 @@
       }
     }
   } 
+  .course-level {
+    color: $purple;
+    font-weight: 700;
+  }
   .content {
     background-color: $blue;
     padding: 2rem 0;
+    &.coral-background {
+      background-color: $coral;
+    }
+    &.yellow-background {
+      background-color: $yellow;
+    }
     ul {
       padding: 0;
       li {
@@ -165,8 +176,10 @@
     .card {
       height: 100%;
       border-radius: 0;
+      border-color: $light;
       .card-header {
         font-weight: 700;
+        border: none;
         .course-logo {
           max-width: 40px;
           margin-right: 15px;
@@ -184,6 +197,7 @@
         }
       }
       .card-footer {
+        border: none;
         .course-type {
           background-color: transparent;
           width: 0;

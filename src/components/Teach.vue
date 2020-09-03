@@ -24,17 +24,13 @@
             </div>
             </article>
             <article id="menu-learning-option">
-            <div class="d-flex flex-column flex-md-row justify-content-around">
-               <div class="d-flex justify-content-center align-items-center mx-auto text-center"><router-link to="program-courses" class="programming-link"><span>Programar</span></router-link></div>
-               <!-- <div class="d-flex justify-content-center align-items-center text-center"><router-link to="typing-courses" class="typing-link">Type</router-link></div> -->
-               <div class="d-flex justify-content-center align-items-center mx-auto text-center"><router-link to="google-drive-courses" class="google-drive-link"><span>Google Drive</span></router-link></div>
-            </div>
+              <MenuOptions />
             </article>
             <article id="learning-options">
               <div class="title">
                 <h2>Empezar por aquí</h2>
               </div>
-              <div class="content">
+              <div class="content coral-background">
                 <CoursesBegin />
               </div>
             </article>
@@ -50,15 +46,7 @@
               <div class="title">
                 <h2>Descrube más</h2>
               </div>
-              <div class="content">
-                
-              </div>
-            </article>
-            <article id="otherLearn">
-              <div class="title">
-                <h2>¿Qué enseñan otros y otros tutores?</h2>
-              </div>
-              <div class="content">
+              <div class="content yellow-background">
                 
               </div>
             </article>
@@ -74,12 +62,14 @@
    import ChatBox from '../components/ChatBox'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
+   import MenuOptions from '../components/MenuOptions'
    export default {
       name: 'Teach',
       components: {
          ChatBox,
          Courses,
-         CoursesBegin
+         CoursesBegin,
+         MenuOptions
       }
    }
 

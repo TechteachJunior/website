@@ -13,10 +13,10 @@
           </article>
            <article id="googleCourses">
             <div class="title">
-              <img class="img-fluid course-logo-header" src="../assets/images/logos/google.png"><h2>Google Presentation</h2>
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/google-presentations.png"><h2>Google Presentations</h2>
             </div>
             <div class="content">
-              <CoursesGoogle />
+              <CoursesGooglePresentations />
             </div>
           </article>
         </section>
@@ -26,10 +26,12 @@
 
 <script>
   import CoursesGoogle from '../components/CoursesGoogle'
+  import CoursesGooglePresentations from '../components/CoursesGooglePresentations'
   export default {
     name: 'GoogleDriveCourses',
     components: {
-      CoursesGoogle
+      CoursesGoogle,
+      CoursesGooglePresentations
     }
   }
 </script>
