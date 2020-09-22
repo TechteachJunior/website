@@ -29,6 +29,7 @@
   $light: #FAF6F6;
   $coral: #ff8552;
   $red: #e84855;
+  $black: #212529;
 
  
   .container-fluid{
@@ -166,6 +167,9 @@
     &.yellow-background {
       background-color: $yellow;
     }
+    a:hover {
+      text-decoration: none;
+    }
     ul {
       padding: 0;
       li {
@@ -179,6 +183,9 @@
       .card-header {
         font-weight: 700;
         border: none;
+        .course-title {
+          color:$black;
+        }
         .course-logo {
           max-width: 40px;
           margin-right: 15px;
@@ -197,6 +204,9 @@
       }
       .card-footer {
         border: none;
+        .decription-text {
+          color: $black;
+        }
         .course-type {
           background-color: transparent;
           width: 0;
@@ -211,6 +221,9 @@
           height: 30px;
           width: 30px;
           line-height: 30px;
+        }
+        .course-type-personalized {
+          max-width: 40px;
         }
       }
     }

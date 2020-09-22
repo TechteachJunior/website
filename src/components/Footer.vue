@@ -1,9 +1,9 @@
 <template>
   <footer>
     <div class="d-flex align-items-center justify-content-center">
-      <span class="instagram"><a href="https://www.instagram.com/techteachjunior/?hl=es" target="_blank">instagram</a></span>
-      <span class="youtube"><a href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank">youtube</a></span>
-      <span class="email"><a href="mailto:info@techteachjunior.com?Subject=Hola Tech teachers">Email</a></span>
+      <span class="instagram"><a href="https://www.instagram.com/techteachjunior/?hl=es" target="_blank"><i class="fab fa-2x fa-instagram"></i></a></span>
+      <span class="youtube"><a href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank"><i class="fab fa-2x fa-youtube"></i></a></span>
+      <span class="email"><a href="mailto:info@techteachjunior.com?Subject=Hola Tech teachers"><i class="fas fa-2x fa-envelope"></i></a></span>
     </div>
   </footer>
 </template>

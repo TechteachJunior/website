@@ -28,7 +28,7 @@
             </article>
             <article id="learning-options">
               <div class="title">
-                <h2>Empezar por aquí</h2>
+                <h2><i class="fas fa-star mr-2"></i>Empezar por aquí</h2>
               </div>
               <div class="content coral-background">
                 <CoursesBegin />
@@ -36,7 +36,7 @@
             </article>
             <article id="courses">
               <div class="title">
-                <h2>Los cursos</h2>
+                <h2><i class="fas fa-shapes mr-2"></i> Los cursos</h2>
               </div>
               <div class="content">
                 <Courses />
@@ -44,32 +44,30 @@
             </article>
             <article id="discoverMore">
               <div class="title">
-                <h2>Descrube más</h2>
+                <h2><i class="fas fa-lightbulb mr-2"></i> Descubre más</h2>
               </div>
               <div class="content yellow-background">
-                
+                <DiscoverMore />
               </div>
             </article>
          </section>
       </main>
-      <!--This is what it's really about!-->
-      <ChatBox class="fixed-bottom mb-5"/>
    </div>
 </template>
 
 <script>
 
-   import ChatBox from '../components/ChatBox'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
    import MenuOptions from '../components/MenuOptions'
+   import DiscoverMore from '../components/DiscoverMore'
    export default {
       name: 'Teach',
       components: {
-         ChatBox,
          Courses,
          CoursesBegin,
-         MenuOptions
+         MenuOptions,
+         DiscoverMore
       }
    }
 
