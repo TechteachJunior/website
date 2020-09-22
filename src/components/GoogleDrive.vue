@@ -11,12 +11,20 @@
               <CoursesGoogle />
             </div>
           </article>
-           <article id="googleCourses">
+          <article id="googleCourses">
             <div class="title">
               <img class="img-fluid course-logo-header" src="../assets/images/logos/google-presentations.png"><h2>Google Presentations</h2>
             </div>
             <div class="content">
               <CoursesGooglePresentations />
+            </div>
+          </article>
+          <article id="googleCourses">
+            <div class="title">
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/google-docs.png"><h2>Google Documents</h2>
+            </div>
+            <div class="content">
+              <CoursesGoogleDocs />
             </div>
           </article>
         </section>
@@ -27,11 +35,13 @@
 <script>
   import CoursesGoogle from '../components/CoursesGoogle'
   import CoursesGooglePresentations from '../components/CoursesGooglePresentations'
+  import CoursesGoogleDocs from '../components/CoursesGoogleDocs'
   export default {
     name: 'GoogleDriveCourses',
     components: {
       CoursesGoogle,
-      CoursesGooglePresentations
+      CoursesGooglePresentations,
+      CoursesGoogleDocs
     }
   }
 </script>

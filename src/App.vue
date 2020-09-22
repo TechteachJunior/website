@@ -175,7 +175,6 @@
     }
     .card {
       height: 100%;
-      border-radius: 0;
       border-color: $light;
       .card-header {
         font-weight: 700;
@@ -205,6 +204,13 @@
           border-left: 20px solid transparent;
           border-right: 20px solid transparent;
           border-bottom: 30px solid #F8EB7C
+        }
+        .course-type-google {
+          background-color: $purple;
+          color: $yellow !important;
+          height: 30px;
+          width: 30px;
+          line-height: 30px;
         }
       }
     }

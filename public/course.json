@@ -4,7 +4,7 @@
     "id": 1,
     "name": "¿Cómo comenzar?",
     "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-    "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/571fa86e-530b-4a29-b5d5-6e588ebf4194/como_comenzar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T173553Z&X-Amz-Expires=86400&X-Amz-Signature=2485633e092c3ebc7d9e6e7b6f90e7c390dcf6fd6de3285e8a68b33ebd826b73&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22como_comenzar.jpg%22",
+    "image":"https://uc0284e5911a2dbf67b91f99102e.previews.dropboxusercontent.com/p/thumb/AA6MI79iAx0B_-olI5asJ1HCA1PBKy3cfM-2iUZmDhOk7jcnx9mktvqDcnWdp6uWTHOy4p_xYyj5lNGeFXjYf8KdWBP6-2UXJELqZaAjtT_GWjSWLZxkfwlfoijpQKjwJCdcjFcVVhuEBcFmDdZzY8LGeVdFLmwBGM6o4AUh65a2gUWKODIswzViEcPguCr5U64e7go8EJM6po8hSKkbf7FPJd_4NbjK6MwbZB5mQC2morkL6d8h749gEDN2zQRIa3jmy3Qj_Um2gVP4FLjlf7TkBp0jOhWuGtU_l0yhiZLEtjyscfjgxR-c7aqw2d02Kjj9_EK2uVZGnRQwWh02XJQOXUbr7Gi9yMgqkKXrxCY7zPG_li4Rz5xZAA0HnE9R_caa_lk15e8CqufBLILjqA9I/p.jpeg?fv_content=true&size_mode=5",
     "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
     "level": "Fácil",
     "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
@@ -22,7 +22,7 @@
     "id": 3,
     "name": "Fiesta de baile 1",
     "logo":"https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-    "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ada30ab1-dbef-43da-ab6a-73f78ffe4705/codeorg-fiesta-de-baile-1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200830T181816Z&X-Amz-Expires=86400&X-Amz-Signature=88a728cade1ee65eaaf93bf259f873ce358f6db8fa34839cd349c636d5ab665e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-1.jpeg%22",
+    "image":"https://ucef9b1ea22cf516054d90437975.previews.dropboxusercontent.com/p/thumb/AA7jCNXc2Tjmeexx_wNnI7z9vfOg7eOsmjbtTimdb0Bw5EV9KADrzxgvsPgerp5RWbRcCkVaTfucxR4VBfIf-VzrL88vEw0Sj3yO0u3YMqyBy2wICK-dmpwE4ne0sGO0Rbla_ViZs1X4IeGP43AIV1CQrya0cEJmGQvyjd84qJwFggoD39X_mlB1ee3X5OtOo4bWjAdqzGI2p12EUCZs0s5Fd1Vi34hQySp-oYt3CeczhwoMvGEo4QGGIS2vvo8ZV3c6rALZEeMHGx7VyAlYGGMjyHUNfyLWc78OTTL-3np_ucJAqwbqc-4ZCMTy4MIfughGp9IXWe9G3feTRCiTlXypbD9S6NQCz8hJ1MYqRB3jlQRxwNXA_wTTqAkXC_c-DlV6mMQqc4BiQxXSZCifsS86/p.jpeg?fv_content=true&size_mode=5",
     "description": "Lorem ipsum lore lol",
     "level": "Fácil",
     "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1"
@@ -80,7 +80,7 @@
       "id": "one",
       "name": "¿Cómo comenzar?",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/571fa86e-530b-4a29-b5d5-6e588ebf4194/como_comenzar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T173553Z&X-Amz-Expires=86400&X-Amz-Signature=2485633e092c3ebc7d9e6e7b6f90e7c390dcf6fd6de3285e8a68b33ebd826b73&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22como_comenzar.jpg%22",
+      "image": "https://uc0284e5911a2dbf67b91f99102e.previews.dropboxusercontent.com/p/thumb/AA6MI79iAx0B_-olI5asJ1HCA1PBKy3cfM-2iUZmDhOk7jcnx9mktvqDcnWdp6uWTHOy4p_xYyj5lNGeFXjYf8KdWBP6-2UXJELqZaAjtT_GWjSWLZxkfwlfoijpQKjwJCdcjFcVVhuEBcFmDdZzY8LGeVdFLmwBGM6o4AUh65a2gUWKODIswzViEcPguCr5U64e7go8EJM6po8hSKkbf7FPJd_4NbjK6MwbZB5mQC2morkL6d8h749gEDN2zQRIa3jmy3Qj_Um2gVP4FLjlf7TkBp0jOhWuGtU_l0yhiZLEtjyscfjgxR-c7aqw2d02Kjj9_EK2uVZGnRQwWh02XJQOXUbr7Gi9yMgqkKXrxCY7zPG_li4Rz5xZAA0HnE9R_caa_lk15e8CqufBLILjqA9I/p.jpeg?fv_content=true&size_mode=5",
       "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
@@ -89,7 +89,7 @@
       "id": "two",
       "name": "Crea animaciones que hablen",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bde0257f-9903-48c9-aa47-35d7b1a72644/animacion_que_habla.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181412Z&X-Amz-Expires=86400&X-Amz-Signature=594a599ba1866384d4b2a0179647f5354f72e191fb94d17ba84dc571701746bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22animacion_que_habla.jpg%22",
+      "image": "https://uc799d48771e4359023b9b41c660.previews.dropboxusercontent.com/p/thumb/AA6K8hljKZGABS-dDt-JyF0zT9nTPzz79bIzMgZcRnntBV9elm3h5ca-qzZdlVlp_EFCPhFb5Zo2eJ6RhkkDFPDgb2LrnZyH07-D7KKNTBCvsVLd4P9hltCOA9F2TXeSvUzhN2ovtRGhuOSzeDgqKL0eTrAbNhvDPFGfdLWs902IIPj6U6s6Y39MJX6gPS1O7o6Cr3jDq9u5deNbVQgCz7J0lIZdq7LWJWVWSOvM-Ca6iBr_d-Gy1VaU9Jmg1ClSJYpxibDW78xVtJEBWUZE92RRrYz3bTRPKrxXb_HQqpLL4Sv1pUoML5flWdnMoJqfh3W1q1lsw4nnKVVZk0dI-9KCJmJbMNuTEvIRxHHUd0fOam-UhvsAxUELGk9oZIE0Ag4/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animations-that-talk"
@@ -98,7 +98,7 @@
       "id": "three",
       "name": "Cuentos que hablen",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd894072-d540-41fe-9cef-8805cbdab821/cuentos_que_hablen.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181443Z&X-Amz-Expires=86400&X-Amz-Signature=92891bc3b52cb9eec13d6864f4c6d7b9f757e03b778de92537d53171981d1200&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cuentos_que_hablen.png%22",
+      "image": "https://ucbd6f4487114a6fc8d08ab32015.previews.dropboxusercontent.com/p/thumb/AA4Z8RokD_h8nfrrHiHjgR0Aa0zoXZplHU0WTTMQBWJ0Kau21xTC5J1Not8eIOzpP4SaVGrS2pZdZbtIEyGvt3BXO4ejGW2Ej8oN0lDCkhOV8gEOS5HdLDQ0aT_6WW2Rv9AxeXI3LrXb1HK0bRf8U4WnfJCp6kaGVv3GpL9MwUYT0hey2Nl5SfPdSPHB9Guti9rUpN5GckTi8NISD_LYwHsuUZZVs6aaMhHmFPBsgmWRDWmFT6aL5Cba6u3RQYxyzwoIEmSBe_LRUCWcX_qqHTYLAvMZnvHkmKf_iW4KmkFNDI90ocPWiag1lj308nlueRLfGeroSkgI-Q76DFVu1z4u06YsSr-JMyyZJBiDYe0jU7N_c495W0NgWWQGE43KL-OYEO0ds0V90N7qRYBpKfHm/p.png?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=talking"
@@ -107,7 +107,7 @@
       "id": "four",
       "name": "Anima un nombre",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26ba7f33-69a6-4b74-9d16-b1988422217e/anima_un_nombre.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T181848Z&X-Amz-Expires=86400&X-Amz-Signature=c6371229eae5a5388576b4d34de77c0129dc6936bdeec49e12fb5a7db7d608a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_un_nombre.jpg%22",
+      "image": "https://uc48c9fd7a34af26ecc243f14777.previews.dropboxusercontent.com/p/thumb/AA4sxuhCSUZFHs6WFiQoRywLo6X0UjvoMlK_TkoXSYFU_gQzfArMQricVHOwcTlU-bG701SLBaIHfnz-JR3Ds7uWBTrE0PJ5Dcx05qjSu8EY0Lrhn5yIXWuV-04S25yh9PtYsJi3zFsf97okk_zU9bO4Onb7KUcEkEkpKXj5FYecESr5zzgELQTTjnD92XlEU5A0FbW1pULxnL-FCLW_6OXGwf0_eMQKSCZ1L8C6QLFGcR5ymAh8zasMFNY6TmNrTfQ6Ht1CFBQmx0pyWdErsi48ny5lRFXhBl0QWbFtlFtNNlQ9dbORKPv4jaCKlPU14edFc4qYkYBnJUWGMynp0Lm5gzBD6PMx9pgJQcrFdsYl43HAJez5iyCq73R5K9gbHmGTQOpU9MeOzGH4FB1FgKwO/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=name"
@@ -116,7 +116,7 @@
       "id": "five",
       "name": "Crea música",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e5505a7-d18a-4e2c-b5dc-887e092a0ab0/crea_musica.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184543Z&X-Amz-Expires=86400&X-Amz-Signature=a8a2df353b1d274f416cb070c0a5d7d435185c45fce6ff1f33fb1d5dd97147fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22crea_musica.jpg%22",
+      "image": "https://uce41c87ec871c0c78d7b970e725.previews.dropboxusercontent.com/p/thumb/AA7WULvwqvv1f1mfQyl-noanwnD2O7NZP-28Xa2EgbZoDMwLwILgyfkqEo8xsX5h0clS_oIOZorL_TuqyqCMGWTEI6i8gWPE5QbrfizpJynQHI8zvB1t54EL_JhE1zc6xjFpEBLE3GUFGRU5jFksYJm9WrLXtTdsWzi3cYTVhAdCHBMzF85UhqMIr7gYPnN5fP0BiU8dRrrj9BF3TOrMCwbPwpnQTaMHI-8RVZxWmouXGQukBVEu7vapMtq1JyDQ1dy561zbyXDN7u3Ssg-mfRihGJtvdiuV63CS9kvCuZ_LtHHY-RLZUFkQGuBYZgPZmqQ2Z4hCr-Zo2dncRlh8_BFOmmO3tuRT_tYZ96rGPvq9-lsnVEd8qSBCWVfzq_idZKQIL5V5KIzD4H_nZaEJicjX/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=music"
@@ -125,7 +125,7 @@
       "id": "six",
       "name": "Crea una historia",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39f82235-3f3e-46fb-822c-7c8e203b8858/crea_una_historia.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184631Z&X-Amz-Expires=86400&X-Amz-Signature=1d1f02da66d0185627e47aff225fde96d413486a00b3e72e73b5fa6b1dc8a9b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22crea_una_historia.jpg%22",
+      "image": "https://uc34c1e407caa509a4d6725d9701.previews.dropboxusercontent.com/p/thumb/AA4zS-f8bjpnQoAw895pRHwA4gri1mL98SpxoxhjCKM5z-qiI07a5pRyDGmXqIG5f1GFfRKNq3jAdSSyRIMlyJSKI_r-xUgz4O593GB7a9vE3FbMnbLUCq8mBcpI_NcO3_CSOXW79MqfSLf4-2Aex6NvjhmDUNmDOii09Eq5FPRDMg3vHUCUtJ3cqllX_JWBc3Hrfo5sTvPd-jLFIHVa1VjrLq7BHGy47VZyMhGsUjhxHAX_f5-BDPmsUiI2eTWkg6q0nlsTH86q83-KiFPPr_Yund3wcEIoNLABLa-Pa5oNYFrEqnjvA9zAR108cpjRdGYOwAUnQm5xyO4AiicluOy9BECnOmRkSn6XywAduePvBCR60JGxNuiv9Nh_nGbG7xEjOLjAcfUS4e0DZciy5Roc/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story"
@@ -134,7 +134,7 @@
       "id": "seven",
       "name": "Juego de pong",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4d8a3f67-2336-4202-bd02-c694ff6cddc5/scratch_juego_de_pong.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T184657Z&X-Amz-Expires=86400&X-Amz-Signature=a12fd1a203e5c777e8aad6248fdd25ce72d3a3b996d54d69bc7668d14ff0bed3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_juego_de_pong.jpg%22",
+      "image": "https://uc7929de46c230905a09b5748e9f.previews.dropboxusercontent.com/p/thumb/AA62me86YQz2lKkuvLyP5o0bcNiy9q7MZ2Nr-R1yLzAbIDLDQ8nsWZ4P8Quu3oZ18PZKj3TAUNqlhgxQ8d-pAdoZdrLSgt-4PXnyQXTret3HFsICp8_WvJ4tCuZ92wBevrbPufn_qVG-Sivf09SPjaNtpSK3fwnzQZ4cEyTb7V9B37sdEbBF_8ZObEPe3-IpeikMczVFc6-AD3Izb8JrGl5czJV4V7ToXRLwlooK7017fptCPRoDdjaBlIgI-s6Lz_ewAiLnDdecvvA-ANFq6r-KF8OtjibV_brVwEuYtnQSPvz_tp4wOtuqmGrN7HFO4ctxhTqO1qz7GQkTlJbLIABI6XdTn6oN59nBhRxwF93KHWrYOrb7F0KtEud16FisBdLF7RSM57xJbvBRQGBbpjQv/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=pong"
@@ -143,7 +143,7 @@
       "id": "eight",
       "name": "Cambiar tamaño",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/354dcc85-84c7-4e2c-8c01-fb45ff27be69/Cambiar_tamano.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190233Z&X-Amz-Expires=86400&X-Amz-Signature=9e8d46fb35b649986a78e6824ee60d1a2314e1e2aee88e60786ba10409f280ce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Cambiar_taman%25CC%2583o.jpg%22",
+      "image": "https://ucccee37b13ac7f34971b2ee2ce1.previews.dropboxusercontent.com/p/thumb/AA7F3jxWYtzIxENmNYIYxQfOMipelSuriHHdVY3pJtKHiU1EdpksN4Prc8THmuzBvFyk6KzCk76N8GbeTJtU4eZKxtEKWrsgHisRMhafKJHHbVOvDOVMLK1fnIosm-UugFVGU0Ttec9MRtQWfxgMDNbXBoLWSpIQ77qqHwT9sGIucBRpM-1jjvaPFy7LPsjjSANTXjMDK9WHyrJF7DDqCUS5ZymVkESyySEQ6DgyZNpcSP3mpoqfrJ6cMjYBIpup0BtYBDbdRD5iLxHpcAW2WP0h5Vk_IYI8JhVbPQkbAVudlP6DFvOKe02xHBDSOdJHoQCGWLoeU1o2r0Sr0LV-e1TMfiT1AFqaUm3bdc4wnbBde9rCAie5FkLnmu8VK9IbryxBDVFZ-JXe_Fh9tkuBvA2b/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=change-size"
@@ -152,7 +152,7 @@
       "id": "nine",
       "name": "Deslizar alrededor",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9861ff3-1f89-430b-94ac-6540a44c79cb/deslizar_alrededor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190254Z&X-Amz-Expires=86400&X-Amz-Signature=95cf43f61566763ff36a21dddf853e73a52eee5cd89555033cd9af9a3dfb1c50&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22deslizar_alrededor.jpg%22",
+      "image": "https://ucf70440c4b8d9f9d0c51408a0c6.previews.dropboxusercontent.com/p/thumb/AA7I7FVCR1v3yQsIm8EvJQjsfnx5gJk-LWLZSeAzVUAxMVLLzSd542vn9h5f7BibUqZDZBp6M3Y7ApWIoIhRBBBqa87REOURwbz-VfxNR8VxVlGYaCOHqugdu-PnLcI5_thiCFmxDvDNQFk73mA25FnA3snG45jP04Uyh9qgImH4pe5rDrgjXdGJwDsaGteBKT4BSbmZBgYOW9AydBmxTvYOHHMYGV53bQAikGE3_FGOPm1YSgFQFh2n4qDeM-9BOKYDfSJLwb83_BtgIrGiRLNiY9Qw5HGZ7lvN4CH3838vqWYdRqLSH91wHLzHATfES7YAQzsclp_Id7masr1Yi7j9mIA5-7KBXJM5u3ZA9qh1am-26velOdTH0Yg1cLwqdR9j7TmlUREuiEhmlBSvhZff/p.jpeg?fv_content=true&size_mode=5",
       "description": "Cambiar de posición",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=glide-around"
@@ -161,7 +161,7 @@
       "id": "ten",
       "name": "Grabar un sonido",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f5f6fe2-97a1-4932-a63d-83307db55732/grabar_sonido.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190620Z&X-Amz-Expires=86400&X-Amz-Signature=3ef8f927a629e423c3d9eb939be2e5cfc938979e8906b633f667d3b15a117335&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22grabar_sonido.jpg%22",
+      "image": "https://uc739c50c1dae81595960918bc8c.previews.dropboxusercontent.com/p/thumb/AA7dFONBZvWE2_58Y_8-spzkheWMZTLbzlAkE0p0A20NIXGD-R9_F5qpCrXm2yAntX4p9OHVyYdig03yysOad4Dfe60c2_ns1vK40EjuGZroxYKp0cLxlXQnrhx68U17BacwrFGiQurMlAPnzg-QsRl9h9kp7vreMWZKkVestkzppe40Q7tWQV_b0OlqzCystVUCBCU13P9VZJ8rkHEt0GEm2O3fI93XkB0arme1YzxzkdXEsjhGLmQ0HQS5HAA0nR12XWanZwCK8oAMsyL4wdivbJGuGXCm-n26MfdejlkPu7CnBYMI_3L5cNr5jGYxqPF3Wgcy3xrU45qZwvpbRqJDwZzZe9pcSQXrGF4xx9HhQOEUxTu7kzOYgrQqBO8j0o51BWe5CLULyhufTgLiIEBB/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=record-a-sound"
@@ -170,7 +170,7 @@
       "id": "eleven",
       "name": "Hazlo girar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/123f3c04-39d7-4f57-95f8-2e29ecaf4063/hazlo_girar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190641Z&X-Amz-Expires=86400&X-Amz-Signature=ca748258e8c5f911b0f8cf6d66672df2db01da50f5fd6e109aa228a54ef9ad37&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22hazlo_girar.jpg%22",
+      "image": "https://ucf503d07d1a20683fa9ac8c386b.previews.dropboxusercontent.com/p/thumb/AA4CKswAnpuIEkHfKdPzHYwCXm_vyWvOne-Jp3O0coEJNDRZXDHW_ZX6nkFkkYqNSh8b28wgZyZXVkO0yqhw2svSo1aElvv-3xJnBjWQ0F0GaSKAApJEVfxMN61XfaOsgK3PAaclXX-c_t_AMFnNxsPrwChOHz5qgL-SY1MpTyTQP_VIa-L8mgBM1xxMyFlG9u1K_3SM9mqW8iLRdmNNsaEfdPej5_VY20MK0GiCGeLJhG7Qmeqo4fg8RYvNRSeY6AoFFRbRI-EToQcMvwX9joyIqa_1Q7nFp8kQ4c273iXtCQfNstapWiCtjFa_56j6jFpPXS-KihN0no9smAsjSVBS8ckHuzf2PgqxoYt-ZtLmHsRdCYexb1wlVfnNqx34jSqUczM7AokZ6hMLd8c5ZbF_/p.jpeg?fv_content=true&size_mode=5",
       "description": "Gira a tu personaje",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-spin"
@@ -179,7 +179,7 @@
       "id": "twelve",
       "name": "Ocultar y mostrar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37924a1d-b744-40c1-9978-78997b5b6a2a/ocultar_mostrar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190701Z&X-Amz-Expires=86400&X-Amz-Signature=f2b507845ca91487db257444d1ecff0edc81db7b6ffb702ce44f23ee402e0fec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ocultar_mostrar.jpg%22",
+      "image": "https://ucab5e9001513788aa4521067ce8.previews.dropboxusercontent.com/p/thumb/AA4EGzZOSny9iuas77ZJQ6S7986wGDOEcdVpCenaNPSKZR-UGC8ow0VEYcoIAmIEsRl12GS41WYi65IbnxO0dNSvZhEB1v_JBejrsK3-8mKbcajjSp6GX1p2LlbW-qSnQGbXukeh3t0nyVgZK3S4T_4Ch-5Ct_UgGdqbMB31Gk6uXNAHKMAd5Uhr1SIJbW-kW1NF2TU9qIgguvFe7A_xQZJ58peuEpOOxigGBQhztJHnVLy3eWzxZHjQTj4N0gfdUjc91pvKDiXpgVHskAeg6E2IkZubWm6SveMm6sajATd5DGe9P35wIs5y5P5bgN7t_Lob0eXfL5fjfWb5djf8_bAxCkx_Ks-BtwMhj4s1bzNy3JIDweeddG0D6-uD-fbO1FBnso72x0akr7CIV_19RJ2p/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=hide"
@@ -188,7 +188,7 @@
       "id": "thirteen",
       "name": "Anima un objeto",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6789af12-58cc-42e3-b424-0946e2079a62/anima_objeto.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190719Z&X-Amz-Expires=86400&X-Amz-Signature=d3f25c2639ecc25c0f84308557aeb4fb6d4b148ba389c55196946feb760153c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_objeto.jpg%22",
+      "image": "https://uc7d02e4332fb49569ce5110c653.previews.dropboxusercontent.com/p/thumb/AA4GsMp4X5KzndZVxkZqy_u5dEryR56tydlzM4MZ1Ny54ZJpkQJXCHwu_u1ILbefIQlPvwW0E1QV7JYj2DW78evztKwOwG5pKY1UWnm3NVaJ8wbUpvbZ3GTk2KtoIrWYVMtdwqK2C0u5r3vzt--dvhPbLhYEp8NYruPl08PjTloz0VKsL8EjrMhRQ18J3koiTsgqnhWFDa43Y7o0uGP8mk_fbfo57NbFuuUE6mbLFeAQxeF01acRhLh7cE03Y8-BWzE4-M-237UWYHJKooMCffwnPdnidc9ukbVZw3A2Dmvm7sK0M1yhzma_8M0LSpboIQydCbRqATpn2wFBCRo4kcTZP2UUiXp1Vea8Z-OIX7s9uO9rBN89AAkB-UwWe0I3ps1_Sfi9mqbzUmbZWsJmHfub/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Cambia de animación al objeto y aprende a utilizar la animación deseada ",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-sprite"
@@ -197,7 +197,7 @@
       "id": "fourteen",
       "name": "Usar las flechas",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/15613a45-de65-410e-9534-e563660012bd/usar_flechas.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190748Z&X-Amz-Expires=86400&X-Amz-Signature=b105b8208b8d990504fb2256b465c90b8cc5ea0ef9e41ce0b72a2ae3712f5423&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22usar_flechas.jpg%22",
+      "image": "https://uc9a8654cf114471fb5c0c9b4570.previews.dropboxusercontent.com/p/thumb/AA7lyciZu_Eerf7Xam5s0sVP0e6zgcUZBbCMfe2f8CpHTk_Ifj0-9DxtytX7h2GIiJthJcaePEAo3KF0w56FeN-YpeuDy4eLtGqPG7-TQVXvqu0CwBPbNy5G9-zc71W0HnJKzkNn1oBIt1eOkiC9oI8sg1b_UdAS5YW9ZOIRqaAmzgK8J926H5TVaRSDYpxrep4bFfLqqtGc8QlzYGMw10btoeD0gTOw918jbqrraSvkLPrviZJe6O5p7XjgGcmd_p9TDtYJ0wwK17M3kG3bNOa1aCjfLLGaXddMYxS9DG6mE2ncJNgbhUjO-Q6werde5qkxSq3ZWpM5P_7AHIacB6SQ7SuwBufp7WOHzcDhyPcMf0DY4nsBw1loLvGsOFzeexjlw_9QbsWA5bFGN-eYbM6c/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Aprende a elegir la dirección del personaje con las flechas",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys"
@@ -206,7 +206,7 @@
       "id": "fifteen",
       "name": "Añade efectos",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a315a6b4-8ac4-4d04-a5f4-128b2ac2c441/anade_efectos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190805Z&X-Amz-Expires=86400&X-Amz-Signature=72ec49116085355a99c4967bdaf97334a65dcfae79d4da31a617c89745f42ed2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22an%25CC%2583ade_efectos.jpg%22",
+      "image": "https://ucee53add148e08b9c9a2526d481.previews.dropboxusercontent.com/p/thumb/AA47pJTCjPSjD4Z00zSmJJPtSiOf5pnpJ-Hwbc1AxIYsf8KX9wxa5ApUeT4KNjCRr0NzbaIHtpFF-qGu0olvF6KKoQG0_tH_qUc_l7RtfDVhI-r8TTLx70qpIP7CPt2B2dDJUPDPwXAdx_pSleNNztxNVeBBdTjrxL5AomNyps6VuZlgrbk8PvfPXIviu7Yl9gvMXRhuHHyhG0XRIIA_3c64KZVxiVOaZWECgcvrNx1H0CnKWUXR8fN8WdntWQlDFi5SuJ4FKNkUhSpU2-_70-N8P84ufEEYPUNX7Cibcu3XlbHIUlEfn0Anm8h3aTFJZi4ZX_ocV87Jq59DmKgBEJldUDB2VzPc_HKFxP899LFdsEdj3JXidn6kIF8cXgG2TVbIM7L9McitiybIodDlCku_/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Aprende a añadir efectos a los objetos ",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-effects"
@@ -215,7 +215,7 @@
       "id": "sixteen",
       "name": "Sensor de video",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da0d120f-24ad-4a52-9ade-36857c67951f/sensor_de_video.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175300Z&X-Amz-Expires=86400&X-Amz-Signature=06553215edaeec1c3534fa2dc6c089d7f869be16879ffd4cd8643be57affedf8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22sensor_de_video.jpg%22",
+      "image": "https://ucdaf88663b31e6b93f6d0891a12.previews.dropboxusercontent.com/p/thumb/AA4sTcS68mPOk4rpmjpDEokdQTGkazEchefdZUH3aecj_Akbv0_YcaeoBZDoqFFomyFd4RQevoK06jGw0kKnrpYbB0IH-5WglkFhbCniT5v6llQKIOwQQAV1MWWuf-3-6B6UvzGHZnunarz0cLjoildX4U00GR1j1A6MRQr6-Q9hj_1A_ITFPqvpaPmecdYCN3ipAPqnm52Oi_rZqRDZYyqrby2Egp6z81esA5JgVO3RHadfRnuJrl3EZpDzUjeVMIrW-b0ILfHNzkOw-JkM0MpdkmJ3exZiBQPNLbF2NdeOUzOCgk_8aw044WfUvTuDZ2UFcuhz0SwYBfycstazbSoHBk4GJJzz_woGJ1pdKshBmxE43rMRaNrTHqyOHKrpbgQYNgPfTEbekHinnlpsNE_G/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Divertido al crear e interactuar, corto y facil de seguir",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=video-sensing"
@@ -224,7 +224,7 @@
       "id": "seventeen",
       "name": "Agrega un objeto",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/184be05c-e4b8-4c1f-8999-8490f2aae3bc/agrega_objeto.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175410Z&X-Amz-Expires=86400&X-Amz-Signature=857c161e816c45d247a37d6f487658cb074e17f991608f4ce70564fbc23b45d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22agrega_objeto.jpg%22",
+      "image": "https://uc40803c6ab7acf217055faf3411.previews.dropboxusercontent.com/p/thumb/AA4mjuJWiadZ0FUVrLYOvYNUgM7i33G_EE4SPNHDqTQxu8p2kIBHB3ffRLZXWWELGXrBQWHc84DAkMf49d3NVILdXGKV8EHzAZWi9smHxCWuJmjbwLTinLn_hN8iazGVSBYfdNK_V6VPnd1NttLXAllwIIevaSi-jpm3gOPOXOk5a4RsBtKPkw3_v-qIJZb2m-shnUq_wflyCrhu-RUL-s8-3CKbf6ojzhrPVjqRfQLddUDepbATQi6NFqujBOyfH74o7kKNjI2UmjIgr0sRm2nStLBhCNFAfJ_GLTk8tkPc3NG2mMqYmPLUzNJmvdPjLD3jp69ibsQP6X0cAPdzl5raiJTgNL6P5VsITo1P2yLZLU0y1j6h_J5mP3HajO42YSw7sFSdEC3aqYJjgDUQVhm6/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Elige un personaje",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-sprite"
@@ -233,7 +233,7 @@
       "id": "eighteen",
       "name": "Agrega un fondo",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1378d596-6c71-487b-8f09-5e22ce86c159/agrega_fondo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175515Z&X-Amz-Expires=86400&X-Amz-Signature=96b9f075981641f4c69cdaca4cbd0bcaf24892751b584fa1cb1a63902d82d9e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22agrega_fondo.jpg%22",
+      "image": "https://uc5a8b1aa128c4be01665b459458.previews.dropboxusercontent.com/p/thumb/AA5AFIhRBJ7n0PwXINFQgm-ocOV6o5SwbUE-JVJ5VI_34zKbnqa9axVktsuzJP1AFhKv2Wh0EvAxdyeIz2HyhT4vI1xYWzlkQVMIJFwkFea9ZRxQqr60q-Omh7LT83NdUIxVnWJfUUAbjP-zkoJSTUDMW4F0PQxwtMy9GC0g6UE5N6KpGax0y4xmxqDKdAuEGLvlux5pPi09yhI6akImwpo13JUnHijKogs8_O-0kNy3vIRzVqHzwQIJe8eNeR3Pb4w_1yz6ewu8YnzAVPSlmpEd7e6JyxbJzOr1FLxte4ABj9mN2khwfoE9ruI0rli7cjjC8vfKBW3d6iuQJUJuzPuTuJx37uUcIZH9jd306MTTC60JN7oEvw2EhO09k5Rb3sPNJlc7YRI8p-A3tC-Nbthq/p.jpeg?fv_content=true&size_mode=5",
       "description": "Elige un personaje",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-backdrop"
@@ -242,7 +242,7 @@
       "id": "nineteen",
       "name": "Imagina un mundo",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/224f473a-74fb-4719-9ac7-e9e35d5be978/scratch_imagina_un_mundo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175557Z&X-Amz-Expires=86400&X-Amz-Signature=c24be91be6250686da0b41a368c95ce89a7b4297d1a2af205160f279eeb71042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_imagina_un_mundo.jpg%22",
+      "image": "https://uc691e33deb08fb6bdafb7d21446.previews.dropboxusercontent.com/p/thumb/AA7WF03fVjZv3XOBUdSpiaNliFiyG2Pu6EGb4As9CmEpz5cxC_y7mR1ZhRcS9wJAl8z_B8y_h4l6Z3wyQnjsapWGTnKmexowDmLKV6jdC4c0Wrq735penOsiTKWPx0i6IaY_Pq5A5V1resSbi-nJQNR3BKihza5mouhOg8ZBNNSyd7LsQ5FaVG2phsUPlAgaH0UbuCvczrXAWgA4TTnoJThMNAD7Q76UQUPEeHb2gIvTO4ZdrNtqG7iIcHVFtVHbbN1RJvvCMV1rrp1A2siRcBXVspdnZMIdttq3_VO3Tf8URZtlEhNrJiwsh3hB9FV7CBpk8eWLo-GLnuwSQ0SdyOmW1WfERgYvNBuLOg4Ux9z82fFBPmP4sDBic0ia1PKnYsZWuWukRi-9k3enSl5y-7_Y/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
@@ -251,7 +251,7 @@
       "id": "twenty",
       "name": "Programa una caricatura",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5218804-dc1c-428d-8926-dd286537b62a/programa_caricatura.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T190837Z&X-Amz-Expires=86400&X-Amz-Signature=4dc86159393ad8fe7916e24bd7fc67e6c900e1c11c61bb8f8147d58d1046d4b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22programa_caricatura.jpg%22",
+      "image": "https://uc2225a127150b70b8ffcf92678d.previews.dropboxusercontent.com/p/thumb/AA7ZJyHSf3PXBs9JZANGQNMb-9cTi-CTfGcj2hbfuFWhN_7CqGqnri4AsNvRpD2FbVJkBsDJO_f7cNWug4juXaWIZwrUtl3xNNs7Vwuk4rJCs_JYQ7GsojImzuxaEgt-WaS4CyLPEBhnR9zlNgI-RL9M9m5yxVZpyEwzABdOPo2_b5A5B12VJVQIUn5ta8dQ0NoK3JawFW0kgWzNyG530EHGVUCwRl0tYzC7RQQD0y46SFFap9ge1R50a1nUNQt_egZGxJALnqs-KvhyGVz5fTUiYt9_84BS8wA7JkOYjhcB2bUPaKcd0dRgfT-fCd-3FTqtr_-hqtogsihfkS4rg2DI1i6hWuIOSXcnZUCAy577NYz8TylcPoW39H2IG0quMy9Ocofi2UIO2FULoTSvznzu/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/331474033/editor?tutorial=code-cartoon"
@@ -260,7 +260,7 @@
       "id": "twentyone",
       "name": "Haz un juego de perseguir",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d03349b-cee4-4ad1-b044-d9a91e932145/haz_un_juego_perseguir.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175818Z&X-Amz-Expires=86400&X-Amz-Signature=a2baa7f0bfd3c1a6f76941db3c3b5af0c2f9077ab511fe0526ff692338d4919c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22haz_un_juego_perseguir.jpg%22",
+      "image": "https://uccf7f5ffcdfaafabfba7e293409.previews.dropboxusercontent.com/p/thumb/AA4qPTdltJh5l1o8eLp0JOaCKOvDfTOdH-pbhWN0hvHhfnBE9Er5BLz2tiqoLecNCvB6Cq2kn1C3PQmZl3urZAKTuujzpr0gA7rPbV4aauBM5lODmKpzGW8RUKI1n4uTDzCPop1vxIJj7VxF4mOwYHNo9mfXV95moNw7rnKiAuAE8s8YHVor8iOzN7PuTeEEli2cWNJhK1QHVlx9gufQj7uRh7oObfTSbOEjGMNfWjdcm2D2LJN4AwMjgeF6T-DxgrY3qbTuf0neFi6WEH6SkdxlhbeeQChAQgu8jIw-v1QfWi0UbiC06le53f0NUZ3ioN4ujKvvo1t6j_9pmSQd7qgk__nk-HE_mdQX6RAh4vrR-NdQ5sehQ67TVd-I6RUgxqjrB0_5XQY6biwGgbCZfpVF/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=chase-game"
@@ -269,7 +269,7 @@
       "id": "twentytwo",
       "name": "Anima un personaje",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/28515e3a-e2bc-4f7c-865b-28f773d91c29/anima_personaje.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T175929Z&X-Amz-Expires=86400&X-Amz-Signature=726656c94389246b6a83707fcd92acef25d01acce66a268f4de04d5216cd1065&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22anima_personaje.jpg%22",
+      "image": "https://uce9f81f0d1b8dca21f1d71362b6.previews.dropboxusercontent.com/p/thumb/AA7k--avMjfSs7p0csLXdF1v6nL6ZN1Z9j4V6IXfz3f32euZ5PDkwtNJb-kiOhLLGeUB_UYJPvjRq224LD7vjvRR1aC_4dL9HRsfMsEqLMfNDjFFTCGNsy4dcDoGQzT4djqQ1Pmw_dD4xC7TaYwuNr6jDUsEOyzdiX6BSSA0L-ElKyNUkUs4viP-Jm9HL8BSTMy9rmhn5nFxBo7eI8F14yoXyPvz7TLZTePcRibjvqsTcEtfTLOe7E92EX4ggfijXNnXs6BYgl0j2XXQo7I8mGnv_kZZDlK8yJl51jvceMTPwHH4tyS3Z1k3ggiKY5t_lIpUfdynI3mggDZxNQNP13OHVEP7CRrwzZnXlmdAZiQlihHyc1fxpkk0sUXmlwoNOw4q53spomRAOkrPtC9ZRUcp/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character"
@@ -278,7 +278,7 @@
       "id": "twentytree",
       "name": "Haz un juego de cliquear",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96271501-4ecf-44b4-9527-b6132d79b144/juego_de_cliquear.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180036Z&X-Amz-Expires=86400&X-Amz-Signature=a6066b32bc1aad0ad14cb7c789790a32a1ab1ebfb9b8b110c75068e88d1a0389&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego_de_cliquear.jpg%22",
+      "image": "https://uc335218fcc5dee5c4b34a1e8f42.previews.dropboxusercontent.com/p/thumb/AA7G6saObX294hNJhVf_k7hfb-NhcV6L6Slp5EKYShOO18cgqcPDdXLg5JqH5wa3jmo6nnjz0vnpOaH38AMjqK9aiyXXYbxFzMw92AQugpQdSTQFiViarwQ8allCjzFtIQY7R0CIR2xTLQVr5qkFqR0NDEMO_ChDWWWIIrwPPevFYHglAKxE2s8xqW3i_PD_fYVuOCSafAcOlt-5h46BK9L77dO9CYwTYyqpmLjDVSHeWR2MbsM3qN60aUXC-p0s-hWC85jkV9PQCnShUJ9VOt8ZWG4-Q2AZtj19w0fGBM35NQesSZiXa475OWEXT_qms3100qEXFPUwnsUlbdbOt_6fPE4xXPlk0KDnGd0FBCwwKg2a9LfW-8l78SccAYdHxiwmuvgHpl8Jg3mX2AoE4AhX/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=clicker-game"
@@ -287,7 +287,7 @@
       "id": "twentyfour",
       "name": "Hazlo volar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e048659-a4ef-439d-9b35-cc475b09efc2/scratch_hazlo_volar.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180144Z&X-Amz-Expires=86400&X-Amz-Signature=0f8cee6788395160f296b2c58536fba5f078fa6f00c6b7fb452971facdda0ced&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22scratch_hazlo_volar.jpg%22",
+      "image": "https://uc82f0740b7318bc529dd5fab33f.previews.dropboxusercontent.com/p/thumb/AA6KSRoTCw_IxKRY4PTTVflYcfbfZY4W079su2fqfFGTZ-W1P2uOop2TSyaLsxll_1HYb5CWu3ZjiRmrFSPmiwxkQqAtjwlgfSSITSZ6riJgoTM6pp4TNuJCEV2JS85kOMBDtZZhB8VuoUc1reXZOLjBKYeTU39RxAH5MGSgp43ec3KAyxhLee-j83YFyggCwfEIhmTI-AiWjvKgWuTGDI8ejt903DDjIl2GDcFUCTdrsafYwhmQJGsX-IbP0bt-u7Me0zpLin3tyaceqWxUwLqlOm1lreXFrHzWyu5bNzOqkeMgVHeqBmS7EDrJUADXGi7-aPMfOI8G9gkVPyb4-sZPNCDxtFXKxkrIVhmyTmoHVdWc9_g7_Fe9_8LcW2uo6b9FiwO6Y3qLnthzTJWTWp5P/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-fly"
@@ -296,7 +296,7 @@
       "id": "twentyfive",
       "name": "Anima un juego de aventura",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5860d79a-b2d1-4e52-9620-bc891c2c9a7d/juego-aventura.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200901%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200901T180328Z&X-Amz-Expires=86400&X-Amz-Signature=ef7049c9da79f3e86ab515de16f47dbbdd2de2bd9fdbd29a9845d86ada888268&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego-aventura.jpg%22",
+      "image": "https://uc1e9af959d19954950ddd7ab27e.previews.dropboxusercontent.com/p/thumb/AA40c2DKgDqyD7u8Fo_NnCCYKP-e1iuQiFYO9ya99JU3c-sUwG-Jf_X0Lv5_VZIfyVWQJGmAUfPq6Ny7-PCyWT_LtFWdgvoYnjxsugRtasDRZkIdBG-KCmyP9_hau_AVaBVqICZeROyc5jFvEiJDCHTYJ1WqMW2HC7nboomlGiST6MsVlBNSGMr5dXMvMoQ-5J7LOG8Sgnq2FrUV4wwpsgp2bGKSyUJRIs5GHlMBn0SZ-4tywWmxk_B3X34rUBpbwiiwt4hD3_bH0GPYKhINldnsE7GBGVIV8QhIE9QcZV8RYnUT9rQyzWCyOM2DJcV0si73s1IUVdC4yv1OUHdLLDsPE1ouL7ftF1_ve2nbXPthdm3sUR2ABtJY1AZe-yXacKPzIX-ly0URrgr5WGSVZF56/p.jpeg?fv_content=true&size_mode=5",
       "description": "Lorem ipsum lore lol",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-an-adventure-game"
@@ -307,7 +307,7 @@
       "id": "one",
       "name": "Fiesta de baile",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e38f682-0a91-49ca-b6e1-9d1814e320a0/codeorg-fiesta-de-baile-1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T230118Z&X-Amz-Expires=86400&X-Amz-Signature=7bbe7390122e4bbeac2e0dc536ff25447f71da90f7801e73c3a6632a8cf5a06a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-1.gif%22",
+      "image": "https://ucef9b1ea22cf516054d90437975.previews.dropboxusercontent.com/p/thumb/AA7jCNXc2Tjmeexx_wNnI7z9vfOg7eOsmjbtTimdb0Bw5EV9KADrzxgvsPgerp5RWbRcCkVaTfucxR4VBfIf-VzrL88vEw0Sj3yO0u3YMqyBy2wICK-dmpwE4ne0sGO0Rbla_ViZs1X4IeGP43AIV1CQrya0cEJmGQvyjd84qJwFggoD39X_mlB1ee3X5OtOo4bWjAdqzGI2p12EUCZs0s5Fd1Vi34hQySp-oYt3CeczhwoMvGEo4QGGIS2vvo8ZV3c6rALZEeMHGx7VyAlYGGMjyHUNfyLWc78OTTL-3np_ucJAqwbqc-4ZCMTy4MIfughGp9IXWe9G3feTRCiTlXypbD9S6NQCz8hJ1MYqRB3jlQRxwNXA_wTTqAkXC_c-DlV6mMQqc4BiQxXSZCifsS86/p.jpeg?fv_content=true&size_mode=5",
       "description": "Usarás bloques de código para crear una fiesta de baile. Vas a elegir diferentes bailarines, cambiar sus movimientos de baile y hacerlos responder a la música.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1"
@@ -316,7 +316,7 @@
       "id": "two",
       "name": "Código Flappy",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e8249d3-5379-4b51-943a-de1012c844de/flappy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234607Z&X-Amz-Expires=86400&X-Amz-Signature=67e08c14e21882137668455723db235d1b1f1336795bedade0db6e6eecdd091f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22flappy.jpg%22",
+      "image": "https://uc27f9a2a97f7756d7c6a797aa84.previews.dropboxusercontent.com/p/thumb/AA6f7FNvImDjQ2UJZrHJZ1G7N8bGEjVV8GchAw-nHncMpu9mAXiXznjEMT7iYH9t1WqMj9jaMhmPNRgjXMW40bEGO4juBmQqxTt31uPFQAKAKQGtk5BWFsZyzDWInoFKkuaR38FqqUoA1X1Rj11veZ5JnkzshHEGBoX0qXhynrF-rfdgfqLSLkqnGLzF9sluP8RctEXmT_xqwkF4z5aps4kCQkQ_jqbc4jB2K-kKoI-jvzG9SguRSeiRMUiYJQ7maozKniPFK1qU2jO989GKd1bEHgCAAWlTy1A2i9iao_za0pSCtRtRimy6z_YpRM1G5DTw8OMa9I6J1lVqc-tCQuj46udQ4jWltiPiN-_Gz1KjicfGbR2Nbc0n1uF9-qbt9yu7shELtMZ8v8aMlJo2az6L/p.jpeg?fv_content=true&size_mode=5",
       "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
       "level": "Intermedio",
       "url": "https://studio.code.org/flappy/1"
@@ -325,7 +325,7 @@
       "id": "three",
       "name": "Star Wars",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/293800d1-70a3-4069-90ba-2d614759ce94/starwars.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234503Z&X-Amz-Expires=86400&X-Amz-Signature=e1cfa425c5ee1156573ea2611b2f9cc965fcb2496cfb451a29eefad5d4c5b17f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22starwars.jpg%22",
+      "image": "https://uc68295617439207b367be1a7e1d.previews.dropboxusercontent.com/p/thumb/AA4DuMESXT2Am2i8TUMjfpD37_P7pp72UXEjrImstI15BRmTN6Esgub8uyjVRb7HvMpLMRytKhlokyzrIrpwNP20Lwq5brxUVM9sEvwTTAjExF4r8JyCabF1eskg7S9l5gY6FvmpXf22jfYw-N9rRvum0UmX3IjC11w2i6cbWV5tlal6FKtFRagesPzwvKYNg-eqvL6YkRSe2VEzyFExIqzOMSuehBZxmzMQonuKfIsRwIOUbxfdHcsi5ZRGqvfq1fHftJYfRnAuiU7-ejIzSSSMxq7eFm7o8kye15QqbQcYgsKARBRaGsXAk6cUcQkPOOW8w3A8MLkATXUEoOjTKjAZgGzJ9IZI9vol-0y7rT_KlAERQy4YMgesY_-mMgCi_4xoFrmzp8eQ7Nyadofi5Dhp/p.jpeg?fv_content=true&size_mode=5",
       "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1"
@@ -334,7 +334,7 @@
       "id": "four",
       "name": "Aventurero de Minecraft",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62de5d9c-dae5-413e-9677-c207b72d457c/viaje_del_heroe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234431Z&X-Amz-Expires=86400&X-Amz-Signature=87a29b3bc693e45917d4ea15e07ac64bc88bd26436fa7fe7cc3f4fcc115deb49&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22viaje_del_heroe.jpg%22",
+      "image": "https://ucbdebd42c3eefbeed2ed194ffcd.previews.dropboxusercontent.com/p/thumb/AA7YRA4PRSFlAro92dy5dJ-w7Zx4juYz2XieccxGX6YSL1F7tBwBFmjFJ_L2AmXxkWwdYcVwqDDAvQjwrzQv2bp1uYJ_Ldu4xZmHdD4OFpQKnTamyuIMcQZOABuVmGgXbmcf7LsbCNY1XGASOqH6kr065v1tmoM1WD7FTLj_VAS7COeQga71f9N2DLPxWf2WuhuZaDbrPMBM8Ha3QVigD0KNx5DPzBAhym1MvGuKogOz7QkHA8I02ooxrB9HlVpkt_nLbPHmKFRgf8c-liBJe7dVy3rHhlUzLJbtwIhdrRIV1piPmxRRYRXwKjJm4JAnL9AmWo71lkxCmUoKxD01guzaenMhqEH1a0zOhVUU5CRhguhAF9wSdB9E-xHW3cB2FvvKAGfW33nfYtUMkNTBVSrv/p.png?fv_content=true&size_mode=5",
       "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/mc/stage/1/puzzle/1"
@@ -343,7 +343,7 @@
       "id": "five",
       "name": "Juego de baloncesto",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6c5ff28-7c80-4b74-aaea-99c2cadd1404/juego_baloncesto.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234534Z&X-Amz-Expires=86400&X-Amz-Signature=f91cfa9671c71d6d1ab0fa6ae2277545e1ca58ebf71f1f8fb23421136568bc08&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22juego_baloncesto.png%22",
+      "image": "https://uc6b50e862acd0f0023e041746cf.previews.dropboxusercontent.com/p/thumb/AA45A9xmylJs9pf18rojdCw56-X2xWg0CMmKDEnCeNS0IewE9Imvptxd_npAx05mmJ_Gbii-GEQInsESeU51c0jHtzF1UglSNiempn79R0tCqFtz6CRsYSePuU9KkLEZcmZ0M4-pc8Vd_C2Fg2TycxsIFNTQTUapU5A4h5vpSNxzaOtJfKo5CmSLr5nzPp8j7FgFT85iCBssXoEjhHdKsmCKLqVcdCCR25o1PybyKyxBiq3RKkJiAMu_fTqBqYxAQA_dWydupixpc7L0MVEN0mL5s4rjj1_coR_klQXlMXMhMOBOnp5Epu60vHkow8l2Bh4_dYUIw6c_hCCrmT7z89j0kr8UC2vru24YGRNKGje8FIc87E_UFRX4J3ccQGYTrhEUPjf0L29crUdEAZ4LBvic/p.png?fv_content=true&size_mode=5",
       "description": "¡Vas a crear tu propio juego de baloncesto!",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/basketball/stage/1/puzzle/1"
@@ -352,7 +352,7 @@
       "id": "six",
       "name": "Fiesta de Baile 2",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/03df9b6d-639e-435a-86d7-8711739ef3df/codeorg-fiesta-de-baile-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234337Z&X-Amz-Expires=86400&X-Amz-Signature=406300b85df784bffdcd794625671da3709b8a4657e2dd33658894bd4205044e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22codeorg-fiesta-de-baile-2.png%22",
+      "image": "https://uc78aaec8170ff8031aba66dbf81.previews.dropboxusercontent.com/p/thumb/AA7O4-zc8pvL3GGJGigmyPlrtdLy3LZ7et1O58oL1UTt74t5pi48JEgDPccSDA_c1puHjF6A6WJw3HyD22MJbIg2Ruqo9P2eD003iZO-xXkNu19eiiK67trvAWIEEeJejE_taDSF0k4923oLLtnCJKTiJZpinbI_udg3ylWVl3PkAnQqKJELfvP38cQ196SUuY0v2dkUI70eIx6kGmTluuRpyubneqfoua4WDqqhKUVUkN4yEBnVkjrDs2wl6d_llQNEWPST0ObYJqGiSRp3mgjWZbwTO71XF632yhac4_8n9Z6h-W4QS1_s_ulDsyG3biQWNqmrwnwvlg-GkMDLd4kl99EW6DXhCFph9krTLtNlhQ26HoVc1V_jcteHgNOGy6OFB6JNGPmGJzhNJw-n7gV5/p.png?size=2048x1536&size_mode=3",
       "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2"
@@ -361,7 +361,7 @@
       "id": "seven",
       "name": "Angry Bird Laberinto",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4ec5d1f-7dcc-43af-875e-3a9edea74c76/laberinto_angry_bird.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234622Z&X-Amz-Expires=86400&X-Amz-Signature=d81a20dae11f8125ef564d2c9731c0290ed371e3b72e9f88326acd44164d7c4d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22laberinto_angry_bird.png%22",
+      "image": "https://uc9284bd234d0ecc3afa7037db7b.previews.dropboxusercontent.com/p/thumb/AA7sLrlpWXTwK1-c7lf28tJ4OQe0kM32hgrXPwXqTgmTnWWj6QJfpiamHAbkzgjPZVyx0JeEQvIf0XtImRtRGFNHywlfT6zYm2__HCmnYZopm4PGXWqGEh50mVB1idIoLEb3_1fvkYBLim7jq4W8Dy9RA3BiYtImrQvvzgs8yC-o8zlDbAj-GIGKmmd5YI1pZFkSuxMhURF39Cg0XyIDh82u5lZD5vi7BeNM-7PRCYAsqNEsSBa7WujDTXlU_zSl6z2wcLW20j-_n9fpxYlFtAiotO07gRVmhpB9wo6_jgJMjuTwAqB762A0NTbSOWuUuYjS9frOV8vOWsZLyKE8ssVLCLjMYN5jb4IXqlPDd4hQwF5C-4vNar1WFt7LF-kj0bX9f7MshQU3LjZ6IIwWdIiR/p.png?fv_content=true&size_mode=5",
       "description": "¿Conoces Angry Bird? En esta clase vas a guiar un Angry Bird a través de un laberinto para golpear al cerdo verde.",
       "level": "Intermedio",
       "url": "https://studio.code.org/hoc/1"
@@ -370,7 +370,7 @@
       "id": "eight",
       "name": "Juego de Disney",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a35413d5-cb9b-46a5-9802-c1e6b2fc60ea/Laberinto_Disney.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234713Z&X-Amz-Expires=86400&X-Amz-Signature=e389ad6e54a76f2054d5594e9b7da9a012e7bc1537fff812078250bf7a005dbc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Laberinto_Disney.jpg%22",
+      "image": "https://uc8b16187df02be93402074fb1a7.previews.dropboxusercontent.com/p/thumb/AA7N9_Umc0x2l7oy5piYHezkouiAEiKl6RAtPGdjIZs7PUEhDXhfWk4cN-wSzMplPJmk1jzhlmbQrstKKp-U6Q6ni4mqxvQD1ohUEs-aB3o2sudk6fReFNbby2jGtJGP_2vsHCbH3kAycWY7nFdF-IDFZYwuTelkGmCPEC8nPvbsXJfELF_32CYfJyPHJ6h19aY_DF80yk6w9sIuw4MCImJHMclYEp9hyIc0thtPNJoNweTUb8-DMSBlRV3cw_6tDIw9oiAytgR3P3HJR_TL04CrT_txMbVFddPIfqVofh8pGBMV35PiKMThUYdh4cqlXQfG2lBAFogr8812gMcRu0ktmGLLD68Z22OvOVT5a0KViHdu4vBYbNtki3Ry6FQ5jn7aSUoOlQZC_pAxwOj0HsCx/p.jpeg?size=2048x1536&size_mode=3",
       "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1"
@@ -379,7 +379,7 @@
       "id": "nine",
       "name": "Diseñador de Minecraft",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d7bac321-71d6-479d-adcb-701f2601bbf3/disenador_de_minecraft.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234449Z&X-Amz-Expires=86400&X-Amz-Signature=a844e2fef9f75260742e507840f99ccc52a20edd8570307984d5e14b0a97a23e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22disenador_de_minecraft.jpg%22",
+      "image": "https://uc1b1d9558287b04a508d308f2e4.previews.dropboxusercontent.com/p/thumb/AA4cKzhulCNDyABwvCyxtRg-pN5basvGaLLeCKbsHKX_7dStTIHx5xxbyr1GcppKXcsFNdDs8h_65yuA9Ncof1ungE5kFBhfJ6Kt1l_bIoXo5LYE3xeOs540e-68_7aboHXoL3wQUYrc_F5j4hGWkXxwb7DoV4gagTptXaoo9Av9bSOoK4sYpcg7SEvOnZln_nz9RKPrEooEcVzOWSkhtBSgRgJaA063hXe3SJS0lCuP-QWrqppp3UYCt4J8I1goWOFHHh6HSOOLMU3lJBxPDhfEJOwNOJewxiude-QQMcYG4dx7B7tMxQAppmJIRiOYCogIM1Pc126B5aFsakUtkhTWn53lEsCVKrD3tFsES_KqB6Yt5VfCH-lKr5ZNs69xnScgUKS1KHyoJ9YIRedej2Jv/p.jpeg?fv_content=true&size_mode=5",
       "description": "¡El juego de Minecraft se congeló! ¿Ayudarás en añadir movimiento al mundo Minecraft otra vez? ",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/minecraft/stage/1/puzzle/1"
@@ -388,7 +388,7 @@
       "id": "ten",
       "name": "Crea tu juego",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d00fdf26-9dcc-4ff8-b51d-69b20d6155e8/lab_juegos_clasico.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234727Z&X-Amz-Expires=86400&X-Amz-Signature=7c76b49bd797e77039523af73c2bfeb9d41aa1141c1e836f7f6933802e292ea6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_clasico.png%22",
+      "image": "https://ucf023bd156321938d167ef045c1.previews.dropboxusercontent.com/p/thumb/AA5mq2SZKy6s9wscSXLHWNVBPxyWxrPwZEEaiHLR4UYPQ2e3xlDew3D9G35lD3nCa-uVatDoY_hUpBASj83BPYa-nuK0GNE0wMLcxm_vSpfxB91qbC4mTIxA1GSc0gRy4plfoaPa5HmdT1ClOT7zpfLVWUJWJo5jHv5TEkn2YGHiQ207rG1KqMgXTSSgXpK2fMe2UVAGkPoznX2UY1IX5z0p2CmQY-WAOx1Ejo5ejlvv8EPrwGVfm0DWbDIZZ_s9MDAXAeLwQXkqDGNEU1ktTHkw12I03oD45rcBTFAU16Ns2CkPkXE1bQo1YKdTDePGcK0Ctc92KNf1MN69Ep6Q-9tQElHyrNBn4PBzRvrLVmvtTsVQbZLoLI2FFBibJnfY1hNgt3hnNljxb6i2n9Y5_ZCP/p.png?fv_content=true&size_mode=5",
       "description": "En esta clase ¡vas a crear tu propio juego! ¿Estás list@? ",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/playlab/stage/1/puzzle/1"
@@ -397,7 +397,7 @@
       "id": "eleven",
       "name": "Frozen",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed2b6a06-7337-4e37-a0f3-166181f815a2/frozen.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234519Z&X-Amz-Expires=86400&X-Amz-Signature=d71710573e735bce8240ca17c5cf09eb903a008804253bca7136e114cf3f6e4c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22frozen.jpg%22",
+      "image": "https://uce20fb4c8cb3e6422d666a582ca.previews.dropboxusercontent.com/p/thumb/AA7KJK5kkvdhOO4tqYMPdHSr_16QiWa4N7mAyFYBxpyeY09MQVPUN80Z7BOEcK4VmneGqJPiUHUFENimZ2jfQ7Noe--20VM9H7L_9veet72p-ScJJxL8Uidm9AwaiFFdJBEz8OLMr7WE_7D80Vu2rBRiNaXMTFVsPNNs4SsqpUDJScrwxOqevGcmg-yUfoOFhIF-NANbD6bqoZYDc7zpLrBV-5aCIFsA4XzriUuF02HqIDSe4HB8UA8cidRLZsGqPDtJilBF1Tfd8uRZoPCHCnPTlc1zQyQs1dhO1bTnDDRlU9cWsaNi-2z2X9Ggy6NIpbo9maHiLr2TCNqUS_vZSuNnb4FK0r1z2Jy9D4rzxK-saOdqLCaLTs8VmHnfNObwabbRZZKvderj-yZzjxOmUIAi/p.jpeg?fv_content=true&size_mode=5",
       "description": "¿Estás list@ para entrar a un mundo congelado? En esta clase vas a dibujar con Elsa en patines.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/frozen/stage/1/puzzle/1"
@@ -405,8 +405,8 @@
     {
       "id": "twelve",
       "name": "Minecraft Viaje Aquatico",
-      "logo": "",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/715db396-eeab-4d19-876a-970e1ca5202f/voyage_aquatic_minecraft.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234416Z&X-Amz-Expires=86400&X-Amz-Signature=233fde0129b92429f43da7d819ee67c5d441a8eb6aa23e451b0722016eb2b76f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22voyage_aquatic_minecraft.jpg%22",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
+      "image": "https://ucfadd4f687929fb2a352f9a5cda.previews.dropboxusercontent.com/p/thumb/AA6Ex-XXvJLADV4ehGHiiS7-VRWZmkEqiPwl86kn_GKHZMLDyVmVevVGIbAuDs5zR0rzQY5r7yrOAsNp3cbzjKbDA4PAwWQj8c6Unl1A0gq89ZDlM6pbi4cjjM9noZs9m4qqKFL9hLTIzxV-RDNEwtKuaCtPZo4k6Nj-tLA2H2ASEJ1Hi4zNUJH6Yc4U7Zp9svjwj11EmCRM2RHIfamBxInSijLeES4BFrPZitIQQuy9DxR4bQNTN8_f6Kbgq-U6WT3zTagz5S_eZDEIVRmj36mbBLrXfPUnqpQWGRzGzB6Q5w4ZF1Mjz7xL1OEr34xSkJs3kwxh3iN3Vk5ZSC_nnU2VXk79C481IVo8HQXaXDPxK3ny0Ts4MiX-xu7cFAUNhvaQ4XMG9VcuIxonoLm53Tvg/p.jpeg?fv_content=true&size_mode=5",
       "description": "¡Bienvenid@, aventurer@! Vas a ayudar en una búsqueda para encontrar un tesoro submarino oculto. Todo en el mundo de Minecraft.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/aquatic/stage/1/puzzle/1"
@@ -415,7 +415,7 @@
       "id": "thirteen",
       "name": "Juego de Gumball",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/12423aec-2b2d-4ffb-bd15-6b2d66c810a4/lab_juegos_gumball.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234817Z&X-Amz-Expires=86400&X-Amz-Signature=c1c5add08c831848e59b8d7dac677a81923e87622926e31893718d52028a410b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_gumball.png%22",
+      "image": "https://uc7126433b99b81a3d20f5487fd0.previews.dropboxusercontent.com/p/thumb/AA6vNxvdKz7pE-L_Ai-J4vyT4aKUuUw_kugGryrRMXgaphB92vDfOsHf7r2AD7IXr4FY1jNGEkpEfoirbhAhsDCTXjHaj2gcieb0LlEN3VIK0jTHFova9kI4xUpeK_ioCki1M4qMROy1CL7eq3W6z4749cWoItfDDASM9eD4GZ9DUyLtUuKkaxuA15IUy_2uUEOptWRjSMHVfgByx57tVOv3BhZBd7Jd8Ohc_FIlwYlbNnB5x7TSY7a_GyuSVEy5Pju5awpuJFWh9x3csC1XVu6ZI9VcjqAzTjSQcn8rSwuUl_rYfkiIaHLvzLPloBt_oyWnZEVrDxHcnpJzZdH7CwYvMRJGekOfy03EnHGiz0aQ2UMaCywpEPbxPniCzh-bk7vV6J3kv95kHdLVqTxnhmeM/p.png?fv_content=true&size_mode=5",
       "description": "En esta clase van a crear un juego de Gumball. ¡Buena suerte!",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/gumball/stage/1/puzzle/1"
@@ -424,7 +424,7 @@
       "id": "fourteen",
       "name": "Minecraft: Viaje del Heroé",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62de5d9c-dae5-413e-9677-c207b72d457c/viaje_del_heroe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234913Z&X-Amz-Expires=86400&X-Amz-Signature=7e43717691e4f901a95e1b74a052ea1b499aa9746a8fe50569c570b3124ecdce&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22viaje_del_heroe.jpg%22",
+      "image": "https://ucd3db101648bcde12874223996b.previews.dropboxusercontent.com/p/thumb/AA5bs8oiurl2LKvOU4GUT4hMOzNBY3pv97c5T7f4yZThRwcKu1M2pkjYfSwF9IGVMJ4paFE4rC9qOT5Ur6SzyZaZedSpY8IrMGzHwjzxyMVGz3gwOUPjaEYdjhDePjwSPfYd0KkS21CcWBtdcDTj-92H1ipTDmQyshOxysyarBLaXY3CGXK3E-b4CjM6Fc80o9EWb6aHzno5DB4hFpACZNvw2TksYXOTT-sI6soArgsYqeOdaNClK_ZTctZAQjyBZxrXqOHdZaKmR5t0lmdKam8PRdMx0yS09Qrd8N0PgehBX3tCplJ6NZIJuT31MmunweJc7edLR6tTZsuZhGkTZDoJNk6E629yK0RtfhJvFqJnkDIACSs7Ae0KKz-Ua8oOGYLiiVQtrhMUhKLjJpn-NTc_/p.jpeg?fv_content=true&size_mode=5",
       "description": "¿Alguien sabe cómo escribir código en Minecraft? Bueno, eso vas a aprender en esta clase.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/hero/stage/1/puzzle/1"
@@ -433,7 +433,7 @@
       "id": "fifteen",
       "name": "Artista",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb195808-fcf4-49ca-b5af-3bc4246a54db/Artista.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234846Z&X-Amz-Expires=86400&X-Amz-Signature=7dd67c838133214e613c81c62d11609e6ff46b3d194ddb3a80fc4edb1494a99b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Artista.jpg%22",
+      "image": "https://ucb9e0f1c5c26406c9d381c215a2.previews.dropboxusercontent.com/p/thumb/AA64TcewN-ehONt5UBta5FopcPwyxUZ7cU1PGAIn_AWX8mJEyMVd7qkBUQT2wUoaT0spN022DcD7C8DzfDwpHiPf96zWAioGJVBbxosOYgweCvEA6U9aKfNXzMrvgMh6bM3E_VGxRpgG57C6c1-6MaikdyRE_uVkq0Q_WaGykqBKWEU99zl7rEVbpNsegIajYXtR92CrbfgOi3USigetJ6r9QHedgXZMk_XIFKVy43RWUYiMrunbLsgcZewAuSwshMGwb6MjWWiaK97u1dhiNnZpmfxubfr4IVfCyk3pex9lAlpfmTr55qCUiOCCMlB3n6qesuLbd3H-j_Ve26_M53FsT3Y7N9yL09t1aM2rZdoQFYAh3miFCrD8kcb39XlOvz4HOnsJRpUDhuzoOqwUyidy/p.jpeg?fv_content=true&size_mode=5",
       "description": "¿Programación y dibujar una buena combinación? ¡Si! Ya vas a ver en esta clase.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/artist/stage/1/puzzle/1"
@@ -442,7 +442,7 @@
       "id": "sixteen",
       "name": "La Era de Hielo",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ed3d2fd-2f83-4f0d-ad42-a6e648f80810/lab_juegos_iceage.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234831Z&X-Amz-Expires=86400&X-Amz-Signature=1be102800c2817a35a937b8ed7907649eefd2ca579a8e839567a57f5902cce25&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22lab_juegos_iceage.png%22",
+      "image": "https://uc84ff1e2a4594055535d6393e58.previews.dropboxusercontent.com/p/thumb/AA6gnH5w6Mq-CFogkB6vxajHhn1xjvBYKNlrMgfVuO42PU5d0CbbwaeQf0HU6geOgA-StnZ5npF4jNCi3PEHBO1j5n3XUgD18DGsENctHFYoloAigWgPPU7wfJA1PpAQBhOT6CXb-Qu1mH0tfXy_3apyQ3GuOHTJFUOrbiyC489vHYeoVTaye7XWlT4hQSOcuxus4t14IGolMyQCA_pm9qmc8xxBwgGMlMQeKRYN7irzQd9QPJ5ImrqtS0IwUJIUbLJCGecSqRb5XMcopn73vVO1AroEaUDVoC8oHtCJleKdVL_N5l0K9yboxIQKXL-JfBwNBmt_P9BCWElFVmYQH2PJYnHohuufFyFJbpK5FPf88ug5S80mgtWyouIgl_dm4BPQx9IRQ333awbs4QJmHOZu/p.png?fv_content=true&size_mode=5",
       "description": "¿List@ para una aventura en hielo? Vas a crear tu propio juego en la era de hielo.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/iceage/stage/1/puzzle/1"
@@ -451,7 +451,7 @@
       "id": "seventeen",
       "name": "Inteligencia Artificial",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b9f9d13-5492-47ba-b052-b3e845687df6/inteligencia-artificial-oceano.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234403Z&X-Amz-Expires=86400&X-Amz-Signature=b7189804f3123546fce505131b64581041d2eb5a1ca3ba618fa72b85fa4f9216&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22inteligencia-artificial-oceano.png%22",
+      "image": "https://ucf2c7409b39739bd3f142c24b85.previews.dropboxusercontent.com/p/thumb/AA5iCCDdAqz4F81KKFdrxuDmkKv4_MB_JvfZhXMiGHkX9Xy0t8_A1xjJU72aTwum8UKiax7oVeDQwhyMlcAcfCG1BkOJLv-V-LGn-xCjn7gAINvEtKERkux4QDgxFj4HUvM2rrSpxrAJxEZifHnRZw5Zfe1Sl7AX7DcBznYq6B9YhTvPjVL19VpDDavTIhb5ncAj-4pEp6vWAfosqdn3fF9YJYagX2YlartHEDvkMV5jNZMnnKio9AG6zOuyy5lN7nuxX7RRBtt-blUtWVbubryKt6jm_98nUYrFVbotz01iZxcf5FWB6zU1WhtdQ54qZ6bahqmrnuQRuwWblC-1tTrfINcQ_Ye7VVwha7PF7e6ngy-FXd60xnlFjkfd2R7rCrEK07mZYpkVGY2IbENOi98d/p.png?fv_content=true&size_mode=5",
       "description": "¡Limpiemos el océano! En esta actividad programarás o entrenarás a inteligencia artificial para identificar peces o basura.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/oceans/stage/1/puzzle/1"
@@ -460,7 +460,7 @@
       "id": "eighteen",
       "name": "Juego de Deportes",
       "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
-      "image": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/425b1053-2650-48fc-90a3-e270745f9ce3/combina_deportes.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200902%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200902T234549Z&X-Amz-Expires=86400&X-Amz-Signature=a68bc7945d1c420c70af900b787ab4902526979c5e692ecae76d2cf623db9225&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22combina_deportes.png%22",
+      "image": "https://ucfaa31e9bb9f57a3df0dda76791.previews.dropboxusercontent.com/p/thumb/AA5x2EA9HoZGQaJPAP86Pd1U8TaXxELUao1J8w4SIF8oVwtHDziqoPmRfDS_O66fI9BdrKn2G7F_AxuwTWAcN4VZN4UFRg8UvddGuwN2r8D8x0AoCxLmQiy69xe6TxDaX2Jcqb5L9gmrAVLb39fN0OJAz_dORjmJQ3bezr9jtLdRoU9lMbyEjgTUifWg_GOUZadlf6cgFiZp0YLC6As2Ne6rlvHdxy8ut_AebNvabkiOYrH6jHIpfk-Ti2Qb30oQaiD2ZG0Gs0_CGlK7LOPeD97rjvcM4Qbl-YfJFskoE7SjGREny922usmyUhFec4q7XBvN2AdABi6mZ0XVxAVXtlDxcp4XzF0eP99RFirUDJZUjr6lwNVwadopvYFsGAnsNeox5FQ1eWgQ-G6I4ad6sCHb/p.png?size=2048x1536&size_mode=3",
       "description": "¡Programa tu propio juego de deporte!",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/sports/stage/1/puzzle/1"
@@ -470,8 +470,8 @@
     {
       "id": "one",
       "name": "Crear una cuenta de Google",
-      "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
-      "image":"https://uc2f1ff7a2785542eb3e3eb0aa92.previews.dropboxusercontent.com/p/thumb/AA5yZayoHZqTYVUD5oniizkliKdjwc3kZm8D0PSFKITzbucVIDpR4r6ogEB2phPX139kJM-pjbFp18At1oZuubL1EikxIwnjk1KqUYMzL-BFOc1lHvsJaGz1i57B3yCTamVfWtmTftAEO2f_W8JU9MIPco2pJI2gwdNMzLZbNwDzFZmrHuwZOaJl5J5BnDo1ZJsVqZpKMUrlONEO5RoDKfPLyfbhXQhF_fjn7U73jjJy8-BJdC4PaUxKxv_0iX_BmhI50sRiP5V4_IIF7QX1oyMsjrfoGmZX-EjqPIuGsDhbnox6IC8RfVIeQO9Mfco79Nek_1PGJuPuutLmiIvaDHGnZTSrhx0-d3XAFld37zKvqOXBPdL8b5Ef27S02NCM7G0/p.png?fv_content=true&size_mode=5",
+      "logo":"https://uce5ab3a6aa1a37bbc53868456a2.previews.dropboxusercontent.com/p/thumb/AA7-egf1hImNioiBuudkaTj_cMh6b220cGbyKQJ--r4hhX-vy1lgKkESRPvqmH9V_wQ11_xYCGV25D7l5XMaDIRi5_JN2O-03pjjT8hh1yBHrdTxJW4r_OgUaubiSLH5c68X1PTKFpkU2_fDEEChZFEqjRQOS-4FP8GUbudQu_ndnpUrvERvVzMNc08g4oAQN3W5PIdihbCyk_fjfKeNRVga6wsg_8N9oWeKFuJdOEcb1CM9aikTXagDM7hUSmgwnAaXOPfyZ3J67EOpT0S0u40q0lN5s8PddW-tzvQfVFz5tB2UevY2EGlcdeGoGcncMqoouS9-hSCCXtV7KpsJQhhl5lyRe7Jg15WoNk0_HQX_BgxngS-Zfpb8Uz583wGJVBPxjPD5VH8dFyqkJWF1xTDO/p.png?fv_content=true&size_mode=5",
+      "image":"https://ucd60a310d27e0576c993bdd9b51.previews.dropboxusercontent.com/p/thumb/AA6ky7gTyFa9cmyWsja-aoLufUmYojpxccFak3lFdGTVsvrT_z5gDI8S3yPltRKdN9_1vyoQ0faNEUR6tnOv19o-7qMex8QdWD8Mmrr-WOeU5BwtsA0kAhehv_tg6cT9r890e585Na2RNuPYzbYLNHMv1IBgPBTObHDVgqbb-K7GvTzAh74ym_JPbBIUGfO6swArOU6a-HDMv2Yl7aqY1MiS1DPi7wKjpaStxUgC5ukGT04AvPcL56ITn3yHfLqDU9B2an96YYPHGNgu0HSF_7Cj3OI9aBymCTJnC6sw754xbQmQISUKL2hfATuQBLvZF6Xdb1rBN-pzxB-Q2ZXz6eYjpi366P6ZJj6QCwEWS478MePYRrxOLxvd64pgXnUZo7w/p.png?fv_content=true&size_mode=5",
       "description": "En este video Profe Suzy va a explicar cómo puedes crear una cuenta de Google.",
       "level": "Fácil",
       "url": "https://youtu.be/dEwY4wAoaXk"
@@ -479,8 +479,8 @@
     {
       "id": "two",
       "name": "Aplicaciones de Google",
-      "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
-      "image":"https://uc68699953afc0851bb9ad0857e2.previews.dropboxusercontent.com/p/thumb/AA4Ck9Dgi2tuhsXPFsKmClh1uKHEeFmmpwFGHf79MKg26MqNr9atc6zLM1wO1f7X7OX0RqNgmgDiUBv0x-uFhmVv7qs5jTB8tDgLu5yPk-gNJlXA_YP0gGSvijDSOro8xHd2oeD2TYX3ZBxADIHNeHW6sZXjrVO0Fk9pu0hxfmmYEXyjcfzdGBWLwxLhve16k-SRUkwxC41H4z-8S1v_AP6Jbpdcpo0QTw-EHvfRrVElszvjg5LYoVsEtEUSWoOBlKJ1jupB5VPx5VjJ_dKuFRpi7RcXPRp0tFsr76oyoUBxpYfOJom7KNBp-F6lCXfMcRo0PT28xwkJjPlRdnfJy2nZVuqCHjlEzVYhSGEw1l-L2q-F-GrQn35-4D-MwQOIW6Y/p.png?fv_content=true&size_mode=5",
+      "logo":"https://uce5ab3a6aa1a37bbc53868456a2.previews.dropboxusercontent.com/p/thumb/AA7-egf1hImNioiBuudkaTj_cMh6b220cGbyKQJ--r4hhX-vy1lgKkESRPvqmH9V_wQ11_xYCGV25D7l5XMaDIRi5_JN2O-03pjjT8hh1yBHrdTxJW4r_OgUaubiSLH5c68X1PTKFpkU2_fDEEChZFEqjRQOS-4FP8GUbudQu_ndnpUrvERvVzMNc08g4oAQN3W5PIdihbCyk_fjfKeNRVga6wsg_8N9oWeKFuJdOEcb1CM9aikTXagDM7hUSmgwnAaXOPfyZ3J67EOpT0S0u40q0lN5s8PddW-tzvQfVFz5tB2UevY2EGlcdeGoGcncMqoouS9-hSCCXtV7KpsJQhhl5lyRe7Jg15WoNk0_HQX_BgxngS-Zfpb8Uz583wGJVBPxjPD5VH8dFyqkJWF1xTDO/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc7847638b7e47ac4b6278a2f813.previews.dropboxusercontent.com/p/thumb/AA4E0AP78UfXfnQTz6mxewRht4pv6yJV88DyuAwa1l7W2sql1F4CJu90IgwdObotyKaIoFCVx9GPvRVw98a0UD86yD4ZMTZA7WZYukkfUvUSEoLqreBg8NY3iZSx53Z_NNzkb-t4Qo7ORq4ATtlc3jpd7dEH_g-zxnsERWXuPyY6HfeamqVKdnF4baHXB35CixPjynipSRnyTi4BHuZcyTNmCofKqpdvgCa5lFz45QjZr4DqiHAbAKV8kOonlnGdz511xBzKTNHpNKevp9oi3LL3mD2mUMoSBpnSY_byFITVAwhMqaYob9DbAmyIZPbjClzI8z8X8rmr6TyK1zH6MdWAuLrT6r9RCs8_hvfaKccSoJ15KIWVZot0KLnXnV3_oxQ/p.png?fv_content=true&size_mode=5",
       "description": "En este video Profe Suzy va a explicar algunas cosas sobre las aplicaciones de Google.",
       "level": "Fácil",
       "url": "https://youtu.be/zPz8WYsoHD8"
@@ -488,110 +488,114 @@
     {
       "id": "three",
       "name": "Usar Gmail",
-      "logo":"https://www.dropbox.com/s/d9ksf7m30pqbbpm/google.png?dl=0",
-      "image":"https://www.dropbox.com/s/rug7uvzv23muaiv/gmail.png?dl=0",
+      "logo":"https://uce5ab3a6aa1a37bbc53868456a2.previews.dropboxusercontent.com/p/thumb/AA7-egf1hImNioiBuudkaTj_cMh6b220cGbyKQJ--r4hhX-vy1lgKkESRPvqmH9V_wQ11_xYCGV25D7l5XMaDIRi5_JN2O-03pjjT8hh1yBHrdTxJW4r_OgUaubiSLH5c68X1PTKFpkU2_fDEEChZFEqjRQOS-4FP8GUbudQu_ndnpUrvERvVzMNc08g4oAQN3W5PIdihbCyk_fjfKeNRVga6wsg_8N9oWeKFuJdOEcb1CM9aikTXagDM7hUSmgwnAaXOPfyZ3J67EOpT0S0u40q0lN5s8PddW-tzvQfVFz5tB2UevY2EGlcdeGoGcncMqoouS9-hSCCXtV7KpsJQhhl5lyRe7Jg15WoNk0_HQX_BgxngS-Zfpb8Uz583wGJVBPxjPD5VH8dFyqkJWF1xTDO/p.png?fv_content=true&size_mode=5",
+      "image":"https://ucda4d25a806d1f678b292aa0396.previews.dropboxusercontent.com/p/thumb/AA5K8sGHOdhBUZ4CWFn_QVklxfFluugxsqlR1zTn9ifjH42PNduAoOG_G9KNV_Iccmq7HyVepGaPa2pmwm5Txg1OxcXB1Co1_cyWGIi6oEYAH1CrMJoStzAVuTNVI5ptH0200ZNBT8O_g3P18RbAAZ5EAa0iziYpsY1o3Fge4jDLSVANreD4r4X66WnyFprsJV11li_pOiwCa4tsmd3ik9zzmLNeoPOqnzphJRU1PJA-1wM9RzxHzuP_scl0sPN3zOGNSEEV5Y_33gIQP7M9Pf4BFmhOV9_RI25lh_08xnJNxdsb80DDM4Sl2Wb1QQYbD325NA3LApsgd7UtbIN6LBCSaSth24Y6lmz_rKd78YDqmyCL-cpKzwoipmuRrayDP_E/p.png?fv_content=true&size_mode=5",
       "description": "En este video Profe Suzy va a explicar algunas cosas sobre Gmail.",
       "level": "Fácil",
       "url": "https://youtu.be/lrkKCaLFKv8"
-    },
+    }
+    ],
+    "googlepresentations": [
     {
-      "id": "four",
+      "id": "one",
       "name": "Crear diapositivas",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/y0iabwokg0jvvc0/crear%20diapositivas.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc2896b9052672601e99b085e384.previews.dropboxusercontent.com/p/thumb/AA4rp-98-JRD8S-XJcZuE6sfizs6Ra_o0vclIzV04OMV71DLV6gpHF1RvlK02XU_jJdy9aadtpNmRGVIfKOVcQZLZ5RS7A2BKgQ4veTGL29xIZELI0UK0fggeGE7Hvp6A5AaJRF8BgAqae-9Knu2it3nQuVtX_3MKQW3z2bVN6HbL9SM3jHw3qz7ZLnbGKoyVRx1bQ0jrJ4Xe5IH9WIOIkQ4KaoSNs_874h73QZ8re_4G1SoLnZHYL_Ag2_-CkZgmQ4K5KFj_A6OgY1oRGvJSh4qY9jz5BGaREFG6RnFj0JYAhBwlEghMFKF-4WFQEOm330fLPm-LhO8xBOx73DpDtCA-AHwaMVgfYl7iS7g8FeWikpICN8xwGp_xKWlCjw5aSA/p.png?fv_content=true&size_mode=5",
       "description": "En este video Profe Suzy va a explicar cómo puedes crear diapositivas en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://youtu.be/UTSotX_Saa4"
     },
     {
-      "id": "five",
+      "id": "two",
       "name": "Insertar imágenes",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/6q52gatic5ewr6u/insertar%20im%C3%A1genes.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uce666b7a6c275e9cffc110d55f1.previews.dropboxusercontent.com/p/thumb/AA7vrE_afDJL2xdhGEcm7minFAbL8ROiOHpaos-LsL9OlL7M1w-Re7jSdQGHrt2YFv4IbyrmvPF9WubR2l0G6VKBJWeTkqJJzgtX0FqyDKbLNRapVhrYdCIANSWcO1xNPChaZSmc0cFsOyuHRBfhxG1pon3RHuuv12Lnwi03fzBv1GSAdZ4EGmum40mjgIdFvlPmwO6FZ3Wflw-7oCMoxrY6Zy2nR3ePY-E1Q3B-8awIvJYaLXIo96IRMxEIYcVPHJDtZvcN-PS0qIQOxdXfY4Mk_XGybHbUhM08PhPQuf4xxaapYtzAetF1GZqXjTclYbCEWkcMSwJVYDxj1dgCRK0HFQJzL54eF13q_OLiHxI-UgGdi1dw6q05FZbX7B-nc8qaPnILMyru0Bo8e1n2oicO/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://youtu.be/EDb1SY1Toxk"
     },
     {
-      "id": "six",
+      "id": "three",
       "name": "Usar temas",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/dlj1y8953t351g4/usar%20temas.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc41649513646e8e7ee55d521cf0.previews.dropboxusercontent.com/p/thumb/AA4ajmHCO17cbuHsWMqa3fZHKW7QQlYlq7RGUyNcIj_jyZwnmzGD6kKYcAHdIN2c4Mr880nwGa46qIoBOXcug266Nm1-5O9OEyY5wijFGY9JIwNQ3DDcKbIc7TBseDNbFcwwtY_ngp0kqxy9GyfzjXAltrgR9PZf8uzlXu8RYDh2Dpe1hZ4hvoUMoAoumxiu1KPK30OSuDfMifpr1U0zmk7ikspGQidMYckY-Ftejzfzta1dzR9N0JoddgCdaWSk9sFDGCTm5MXd0KCQ4Oazh-zntQcepEhovlWYzcTM199wT9sjH_PcS2X8dXihw2HcVbMBf-n6RIlZSDHaMzmfCfBFSeuwZnixO71ZNscPoMoTOui8NcAIJfznJoDVc_fz7YA6S-jPbZPshQostXyeM1e_/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes usar temas en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "seven",
+      "id": "four",
       "name": "Usar transiciones",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/p9rhqz7d6gd2vht/usar%20transiciones.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uce4882c72d1a1e66b4d5f13c1d5.previews.dropboxusercontent.com/p/thumb/AA71mbSxyEV-PzATTZ6oqpD4JVUHuIQ2Hnzu1lf-aVeHHj5MAs2Ri1UyiWvI2dsXc_9ntBXVcv_UuGXIRhlVrM-qo2jbaYdO4_fwVKeZtOPX_17ZwsTjlRQKjkWqvd-jB3OHlTvp0RI3_Xk-GNQ9-mqB_DFtBPSToq9oZ2l8tlMvW1iIBaoFJtOmOeA_NDHZf_uS96clyO-RFTOlH5G9LkwJIB_A-12xijh5SbQcQSMF82HjYGAEWLhxUGE7mookLNWOYBNUJCGmX5C_g3xMfaI6h8zSyT7TYw6zcf5A4wDUgJsiDUg2IHkfVNOSD0cbOezP5rfeiTIBcyweiTaqSk5aCp-GzzOygfS-D8wSBshXyvnv0YPtkU5yomOskfFD3FTQZ7gyXcvb1vZdBs4TN-cR/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes usar transiciones en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "eight",
+      "id": "five",
       "name": "Editar texto",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/3qorzx2mspdx8fu/editar%20texto.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uca766a6d339160a9a451af4655a.previews.dropboxusercontent.com/p/thumb/AA4fVGPqrhy6YxFL5ZIzahEoT0_0TJIZ_ml5MWZo8rjcHiTVNdjDNVBpcM00SQX-SY_U7N_EIdv0ADvTv6qQhpDQFrzBnVW6vvC9n7k_Afq-d37nvMNZ4y2rorf-168FMLJ_B-8fJHph6nb9FwHPlKD-42wyU3u4NTFyAmmhfj_7KYg1PeLjk6hN0EdE6ltNCK9_qnFZrix28r-O3L0idEQiwmhbXZx7IiP7Eocyf6C72Q8o4zAd3YUAFBxyGtlPVQi401Bp1Uekf1pa6FXM2mo6mh9LQ3-9NPLlIJOqZA9JujTgzfFNK6k36FAm6dOa0d57JsbyolNLeDQTp9srsX0i-cysJruAW9V-Ldcn4mSOC7yftlAjlobrtEOFsoDvAhzXgf1vDbvsjxTPc_iSLo4Q/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes editar texto en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "nine",
+      "id": "six",
       "name": "Explorar",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/ir32cjxd645phci/explorar.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc276df94e80724c5f5e5b13e8fc.previews.dropboxusercontent.com/p/thumb/AA5KfCKVQhqgb6fm1hVWVyt-eAQ2wSj64zQ5BSctONx7uYMCaCKaP0BR_8xzB_FJAX3GmGJC7JePJE5JQQulh6Hmn8S9VU9Kan9TDTt9rDpJp_IAP2CAhQKk57OJjRttDgBoKES6Ra2vqkCl9CWeIabquKkQ7fcabdyHsE64oe07PkFz5E-vqmh5SCKU69OqmwqUePdsggDoxQ1RwlWnJ9ezOG7zdFRR-2_0fJ2s9aZB3zIbwcNxR4hOTI8juV_jdPVmbq8BImBPoMeiH59S6YLCaUPdD4KIXo8lztZBfrzEsBGeAJzwF5dHnzPaEeHO2hefRVpn8Xt9bERln6ZUEhWQQpAurlOwIAmVdTM6-bmAwDrn8m2_568UBu4uI46LP8SLjWIHQVNdTYiPBDPczZLn/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón de explorar en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "ten",
+      "id": "seven",
       "name": "Presentación completa",
-      "logo":"https://www.dropbox.com/s/rmu38okgw2wf40y/google-presentations.png?dl=0",
-      "image":"https://www.dropbox.com/s/2jdu5vdfnfuare6/presentaci%C3%B3n%20completa.png?dl=0",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://ucbaa7b78617b14bf5b2d74744d2.previews.dropboxusercontent.com/p/thumb/AA4h_3X5I6JSD0RslVN7_BmDPbsapjMfMcyo5plAlrKYL9aZpnM84PKGwpCZYSBsmJbNFaOHXj-om2uvHLgmew2azmNChJ_ACOKketsH3-r36vrGG9pJ55iNE1w4ll6fEP3ql48HLzB-A2hk4Il7OaIoYyI8wIRJCpAdvkGrMz3GFP4FQVi3BRXC5phXK8GTg4bZtdVOGAMSfRYcJ3uXM1njoMUX8HeywKzDXwKfRAA3SG078NRdGlRjg8oZeRsqquxsL7RirvjdYljoBZZ3-w2lfxxnTVJ-JDLB-EIgUnjcsnjycb6NnukbZ_WgOqv9bPg1zUYQJfWwS9eMyL3Ar78aYJZ4BOt8HuLrs5IKd3SSScr8GSLIIWlJS95-rAGkM_k809ReBymMMkFVYYgVYyxf/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a crear una presentación completa en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
-    },
+    }
+    ],
+    "googledocs":[
     {
-      "id": "eleven",
+      "id": "one",
       "name": "Salto de página",
-      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
-      "image":"https://www.dropbox.com/s/l98mccn5guofcas/salto%20de%20p%C3%A1gina.png?dl=0",
+      "logo":"https://uce9f7f03361878c997f946f4f4b.previews.dropboxusercontent.com/p/thumb/AA69aszWphD8_u6QiucF83tDe0P3WG2TkNPfxCyehBwmPK2LvGl8mxOJXvLu8AS7VbvMFuwJDsQ1v8hdsmIyWUusJi7yIWzWsAs_lYvhzE4WyCefxsxHYHkeNtrwilVpVcsYI1cBtPwCbtgLlNovJtvChfea-mBPp_oWZewIGMo-tfhbTDVPFtz8z0pheqpS8HKIeB7FZIQGay_cMYVc_jX-Sgi-gzeYWzX0Z6E6olwpTixsAjskJS-BlcDSwMQkewWuxMg7qZXAYNEjzoN27nTuVVcWZmJQpQlsX5PzAsrpmLrDmOFyRRFcE2qedk9LsvWBpCWoMQf_pDd2pspl4nXKLJmqYi_u-UUpeDNJY_r7jgA4O2ZKX1WgCDidB_-TrXE/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc12f987955173b4266592620c5f.previews.dropboxusercontent.com/p/thumb/AA7ebXsxFr-W3JDbjwt2Cr1ZtaRAWkC4Fye2uxKp1TomRz0OfHqNndMSXFDTiZ2RVJMjTyyYAjzGauWJunaInpnFqJQMQCrw-j68gys6B4Ev4dgfnR0OtxufGm-p7Qob9FxBZ9M_gfCMhbKJfEn3nQbjSNn7ntC4qwoZoM-bNA_p_IrQMsz14LUQKW2CQlhK6MYZ3KYjSh5j6Qw_gOTP57L0NjoDuoddWOPfwYeymua2XGxPoHw_twarUUA7PGdZ7wMrsGyQVWirTk8WuqNfslTGV8ux0noHuDly9o1c0UHGkcAEsAp7q6NijdpM2iJjSbaU2sXGpwbPaMhFzSAUeSwxNSKWqmkuGaJuGjnA1w-jZOhhrmF9KNguRu13Ffvq-GGdsZ7l3xPQgbgT8OSg89-3/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes hacer un salto de página en Google Documentos.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "twelve",
+      "id": "two",
       "name": "Insertar imágenes",
-      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
-      "image":"https://www.dropbox.com/s/li43uocoxh07gzd/insertar%20imagenes%20gd.png?dl=0",
+      "logo":"https://uce9f7f03361878c997f946f4f4b.previews.dropboxusercontent.com/p/thumb/AA69aszWphD8_u6QiucF83tDe0P3WG2TkNPfxCyehBwmPK2LvGl8mxOJXvLu8AS7VbvMFuwJDsQ1v8hdsmIyWUusJi7yIWzWsAs_lYvhzE4WyCefxsxHYHkeNtrwilVpVcsYI1cBtPwCbtgLlNovJtvChfea-mBPp_oWZewIGMo-tfhbTDVPFtz8z0pheqpS8HKIeB7FZIQGay_cMYVc_jX-Sgi-gzeYWzX0Z6E6olwpTixsAjskJS-BlcDSwMQkewWuxMg7qZXAYNEjzoN27nTuVVcWZmJQpQlsX5PzAsrpmLrDmOFyRRFcE2qedk9LsvWBpCWoMQf_pDd2pspl4nXKLJmqYi_u-UUpeDNJY_r7jgA4O2ZKX1WgCDidB_-TrXE/p.png?fv_content=true&size_mode=5",
+      "image":"https://uca09462a613438b57ac797a2ccd.previews.dropboxusercontent.com/p/thumb/AA76vMZca04R3nRYRhogqClO6SlP7-Vgptz6fDdQ7Dq3s63ECrgAOv8nLLJmKLf4G9dv3I-RK2V4VCU2Li-xrAB2yXujS7tTOz4nG_EPoPktwdlFJpqnlW4qdwHlVPcz48Sa2Qnr7Z5qOIkm68kgIOswgUEXP9fJu5yUcWIfNtJLyk9KQhxGFAyIPs8Cs0BhDfIn58WOrlKATV4O20srT-OZsJazWKPUvKMQZ3G750PTGA_BXcTgIZSbnlWz-2eVnhVf3aVUUl48Gx7EEtF_OxZy0Ulkt2gDZ0IAopywuzrElQZJtR5CRt16qDYaQ7H-1JXz2G5DZvNrnhrvN-VCnS2Zquuiyvxt48CmYLw69YDwhxOyHVXjt-MbErtt0aY3tXKjOHPYPdqOsWdoeqsDEbUo/p.png?fv_content=true&size_mode=5",
       "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Documentos.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "thirteen",
+      "id": "three",
       "name": "Explorar",
-      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
-      "image":"https://www.dropbox.com/s/mehrlrd42ptyv94/explorar%20gd.png?dl=0",
+      "logo":"https://uce9f7f03361878c997f946f4f4b.previews.dropboxusercontent.com/p/thumb/AA69aszWphD8_u6QiucF83tDe0P3WG2TkNPfxCyehBwmPK2LvGl8mxOJXvLu8AS7VbvMFuwJDsQ1v8hdsmIyWUusJi7yIWzWsAs_lYvhzE4WyCefxsxHYHkeNtrwilVpVcsYI1cBtPwCbtgLlNovJtvChfea-mBPp_oWZewIGMo-tfhbTDVPFtz8z0pheqpS8HKIeB7FZIQGay_cMYVc_jX-Sgi-gzeYWzX0Z6E6olwpTixsAjskJS-BlcDSwMQkewWuxMg7qZXAYNEjzoN27nTuVVcWZmJQpQlsX5PzAsrpmLrDmOFyRRFcE2qedk9LsvWBpCWoMQf_pDd2pspl4nXKLJmqYi_u-UUpeDNJY_r7jgA4O2ZKX1WgCDidB_-TrXE/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc4fc70a1ed749d958315281a9c7.previews.dropboxusercontent.com/p/thumb/AA68G3tZ9z0YG5TCa0O27JOiE2onNoavqPOYoazz8rRpOIeKjmiHDosfhyxDeB1WItV0JBGiW_f0v7AnTy7ZbCFJNV4VQAhMVXXW_SFY5I4I5RbdNzWnKEvjt_Pi6Fql7oWsLl315RHTgDhj-TYOspT0sDlaLOKtuShTQWnCwpl49FyZ3rMTt_P1_CU5GbkUUblwolWKms1V3AKnUwoDcitTNVyDNb5EmjFq2_lBhW1mE5xnNmwxeoflW6VEp7jEmKcv3ppvvLj49s1uX3hG5U1C8DohK_0lMMGTE7fSPvHu54GceHvsQiwUJ65Ij5RJ-Qeg3MwCQHnn4H74KVWEMJV3TPkg6Fq727IA3IzJ25fdsQZcS2PMhqpC_SPIh45fDV-tqWwLEKZYlE-CF_LqQYyU/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón explorar en Google Documentos.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     },
     {
-      "id": "fourteen",
+      "id": "four",
       "name": "Fuente de letras",
-      "logo":"https://www.dropbox.com/s/uhlvpljgvws66dy/google-docs.png?dl=0",
-      "image":"https://www.dropbox.com/s/w0ll7a5ighvtqxo/fuente%20de%20letras.png?dl=0",
+      "logo":"https://uce9f7f03361878c997f946f4f4b.previews.dropboxusercontent.com/p/thumb/AA69aszWphD8_u6QiucF83tDe0P3WG2TkNPfxCyehBwmPK2LvGl8mxOJXvLu8AS7VbvMFuwJDsQ1v8hdsmIyWUusJi7yIWzWsAs_lYvhzE4WyCefxsxHYHkeNtrwilVpVcsYI1cBtPwCbtgLlNovJtvChfea-mBPp_oWZewIGMo-tfhbTDVPFtz8z0pheqpS8HKIeB7FZIQGay_cMYVc_jX-Sgi-gzeYWzX0Z6E6olwpTixsAjskJS-BlcDSwMQkewWuxMg7qZXAYNEjzoN27nTuVVcWZmJQpQlsX5PzAsrpmLrDmOFyRRFcE2qedk9LsvWBpCWoMQf_pDd2pspl4nXKLJmqYi_u-UUpeDNJY_r7jgA4O2ZKX1WgCDidB_-TrXE/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc1e8c5617d20b91c427b709c927.previews.dropboxusercontent.com/p/thumb/AA6Jbr87w0l8EAskyuE9BW147RN8gNbMSThkupR5t4yvzJYRmspu_CAKG_HmhAZUwjFOC8ZKHME-Bzgh1xmEK2xKppiBNhYp8dh4156wvfMQil0o6o7FUbelvXFXjsSgfN0geAZpuSTjjTAB01_IMB3mRWHalr3Bf0dMiUqefVvMQfWLJUwZbG6o-wNerNt3uixwszAplfhjtHmIYxtgLqldD8FyXXmNL3q05Ud0NExourN_vgZnY2F8IRkyBpsA-gJZ9-rBpxr1AwxE8djMid7VS1MJSMgF20wk_XsgGyYaI4_e8VtVnAD8Ry7gkFSg2mEaZxCqYFfLeJXQtfyH4svv987XfBjR05FjkneydtI07ubrzk4ej6g30_Uxz-v0HUCSXsI1Nh5rF0ZrzF6rKkNL/p.png?size=2048x1536&size_mode=3",
       "description": "En este video Profe Suzy va a explicar cómo puedes cambiar fuentes de letras en Google Documentos.",
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     }
-  ]
+    ]
 }
