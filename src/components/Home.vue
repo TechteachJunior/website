@@ -53,19 +53,19 @@
          </section>
       </main>
       <!--This is what it's really about!-->
-      <ChatBox class="fixed-bottom mb-5"/>
+      <!-- <ChatBox class="fixed-bottom mb-5"/> -->
    </div>
 </template>
 
 <script>
-   import ChatBox from '../components/ChatBox'
+   // import ChatBox from '../components/ChatBox'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
    import MenuOptions from '../components/MenuOptions'
    export default {
       name: 'Home',
       components: {
-         ChatBox,
+         // ChatBox,
          Courses,
          CoursesBegin,
          MenuOptions
