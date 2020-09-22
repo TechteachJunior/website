@@ -2,7 +2,7 @@
   "begin":[ 
   {
     "id": 1,
-    "name": "¿Cómo comenzar?",
+    "name": "¿Cómo comenzar en Scratch?",
     "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
     "image":"https://uc0284e5911a2dbf67b91f99102e.previews.dropboxusercontent.com/p/thumb/AA6MI79iAx0B_-olI5asJ1HCA1PBKy3cfM-2iUZmDhOk7jcnx9mktvqDcnWdp6uWTHOy4p_xYyj5lNGeFXjYf8KdWBP6-2UXJELqZaAjtT_GWjSWLZxkfwlfoijpQKjwJCdcjFcVVhuEBcFmDdZzY8LGeVdFLmwBGM6o4AUh65a2gUWKODIswzViEcPguCr5U64e7go8EJM6po8hSKkbf7FPJd_4NbjK6MwbZB5mQC2morkL6d8h749gEDN2zQRIa3jmy3Qj_Um2gVP4FLjlf7TkBp0jOhWuGtU_l0yhiZLEtjyscfjgxR-c7aqw2d02Kjj9_EK2uVZGnRQwWh02XJQOXUbr7Gi9yMgqkKXrxCY7zPG_li4Rz5xZAA0HnE9R_caa_lk15e8CqufBLILjqA9I/p.jpeg?fv_content=true&size_mode=5",
     "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
@@ -15,69 +15,131 @@
     "name": "Crea una cuenta en Google",
     "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
     "image":"https://uc2948f16bd2eb07e3b9211310af.previews.dropboxusercontent.com/p/thumb/AA6eby74qSligaGo5N7qLQysum0WiPztFhtj8fYL__hyXVODqj7KkyMJrOw2RLG9PyZFrv_W7vDVEdxNikDmT5XWwGLdfs0wCNoo1An_PnDfE89eJSvLx6vA0SF6IElsD6VHqyVqKYAfX73MBvympiT1buQCtV2n9Vj-LTkC-ueeoTUua9OyTvWK3n7-AWMwLy7rMLjLD7HykhG95IiJmtkumyslmBxutv1KL90gARc659QwX4BdKXGmPOx_E2449dQwEhrfSatePVhNambmrskAHoBUL5vF3EMFbdnWAh3oZq15nXfQYRzVGxAqUhknISWfm3YgOoF8tImvBm_-Yu8ubdQ_mRWAuL9BlBmklygsJmUsqjZfTQ48_G3qsk3XBv0/p.png?fv_content=true&size_mode=5",
-    "description": "Lorem ipsum lore lol",
+    "description": "Crea tu propia cuenta en Google para poder utilizar sus aplicaciones. Si tienes menos de 13 años necesitarás permiso de tus padres para crearla.",
     "level": "Fácil",
     "url": "https://www.youtube.com/watch?v=dEwY4wAoaXk&feature=youtu.be",
     "type": "https://ucb5ac8ee75e8f1b8c4cfa96d17e.previews.dropboxusercontent.com/p/thumb/AA5CEbwDFGzYbgsPCVSGLx7xDbDFgNwBBM5uCCHE4ctRCjJHed2qEi9-wy6cg84N78UMKrkIOo1p-EJ-8bgDKpf8dA2nFl2Ivt42rXOm1qlv1hrQc1Hlni6yQ4m06BPODYAEzJbzzzQtLvaQJ3admkINcEWvD_0Rr8SFWi8jNAz-O7WV1Vsmb_4r2FiOw9pfVoCzSXAFdgsXWO3n8iqxeT_GWSyejbpfizfQVD28kNtJIcwGC_utwIwNqUCPJO1UHScad1g6njOtFjARumic2okHO-fpNf1vR-NnlFKpY0FbGjbo5W4JHJkzw7lLbh19DZPgWVtIglYL4m0dWXwkSLYanNnsf8-SwXnRmIMzi5IwzovNbygvC30nZOqTzfJ_jAI/p.png?fv_content=true&size_mode=5"
   },
   {
     "id": 3,
-    "name": "Fiesta de baile 1",
+    "name": "Fiesta de baile en Code.org",
     "logo":"https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
     "image":"https://ucef9b1ea22cf516054d90437975.previews.dropboxusercontent.com/p/thumb/AA7jCNXc2Tjmeexx_wNnI7z9vfOg7eOsmjbtTimdb0Bw5EV9KADrzxgvsPgerp5RWbRcCkVaTfucxR4VBfIf-VzrL88vEw0Sj3yO0u3YMqyBy2wICK-dmpwE4ne0sGO0Rbla_ViZs1X4IeGP43AIV1CQrya0cEJmGQvyjd84qJwFggoD39X_mlB1ee3X5OtOo4bWjAdqzGI2p12EUCZs0s5Fd1Vi34hQySp-oYt3CeczhwoMvGEo4QGGIS2vvo8ZV3c6rALZEeMHGx7VyAlYGGMjyHUNfyLWc78OTTL-3np_ucJAqwbqc-4ZCMTy4MIfughGp9IXWe9G3feTRCiTlXypbD9S6NQCz8hJ1MYqRB3jlQRxwNXA_wTTqAkXC_c-DlV6mMQqc4BiQxXSZCifsS86/p.jpeg?fv_content=true&size_mode=5",
-    "description": "Lorem ipsum lore lol",
+    "description": "Empieza a programar en la página code.org. ¡En esta primera clase creas una fiesta de baile!",
     "level": "Fácil",
     "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1",
     "type": "https://uce5e6e3241e42650934e587e68b.previews.dropboxusercontent.com/p/thumb/AA6T2s0CgWLsK-xbWdCh3pwvU63lG45ZV37ZCaWGSA_CSOAXeMwaxfUvTQU9DxgteGEQ-DZyA8QkVtVqR1ADR05joXvaVtmscxnKnQpgmbqCit2xKIs8endToVq95yU3jvMKUt_tehFjZ5bSNnAQcv9RmyiQLkIY29LZOgCTojqTuUzsqA7FM3UbqUN0jDTjJ4S4u13R-aHSKk1RydNuq_IfHfSoX8UfK7HNnCtspS2SSj2xqokORNzb_KHVfq7I2eCKwbRgSEYEmzo-DWEIhcYwN7EcwcaGmAkgXSCy9772btQNHy-J-h3H3Rcra-tYy8S902h7Yq5nR3uT9gOEHyYznPSv-hEARfFFzuUsuK7XB2Xen-XCeP_hmVZv0pk7HWo/p.png?fv_content=true&size_mode=5"
-  },
-  {
-    "id": 4,
-    "name": "Gmail",
-    "logo":"https://uc150611967b9957c88a72fc6257.previews.dropboxusercontent.com/p/thumb/AA4_n7XoQEE3CSnsDUDaVBm39JiL7oKkLU1tB7LIB3wKYLqk-yD5Gvgt27uZUtU8jBarR8HkNzPDAMuUNPgoig3K5gJBQuLT4BvdgJhDsCN_BT5Qq1-3SIf0Hiz_nbg1OfvMB9eGSo4w6-85G9CxuS7wtx_S0LRC5IdADbUKSYA2UOyGLyXvGB_3ZR7lIXEEvTufjBaLIcGLTSRzqIrt1mKVpejUnoqMgM214dJ3rJEpJA98g2bYCZ97r2HaUrmhfUaaUupH0D_07yop3qKlRXuraWs8o_6pVwMmqfoGtjs2v9uvnbocIpcWEFM-v63wk21rYAYwDNjDkfe6jHnBJMcnCDKw9KWreuo2z-Q7ksnp-xlLOSgUwtqQgdWk_9uen9k/p.png?fv_content=true&size_mode=5",
-    "image":"https://uc2948f16bd2eb07e3b9211310af.previews.dropboxusercontent.com/p/thumb/AA6eby74qSligaGo5N7qLQysum0WiPztFhtj8fYL__hyXVODqj7KkyMJrOw2RLG9PyZFrv_W7vDVEdxNikDmT5XWwGLdfs0wCNoo1An_PnDfE89eJSvLx6vA0SF6IElsD6VHqyVqKYAfX73MBvympiT1buQCtV2n9Vj-LTkC-ueeoTUua9OyTvWK3n7-AWMwLy7rMLjLD7HykhG95IiJmtkumyslmBxutv1KL90gARc659QwX4BdKXGmPOx_E2449dQwEhrfSatePVhNambmrskAHoBUL5vF3EMFbdnWAh3oZq15nXfQYRzVGxAqUhknISWfm3YgOoF8tImvBm_-Yu8ubdQ_mRWAuL9BlBmklygsJmUsqjZfTQ48_G3qsk3XBv0/p.png?fv_content=true&size_mode=5",
-    "description": "Lorem ipsum lore lol",
-    "level": "Fácil",
-    "url": "https://www.youtube.com/watch?v=lrkKCaLFKv8",
-    "type": "https://ucb5ac8ee75e8f1b8c4cfa96d17e.previews.dropboxusercontent.com/p/thumb/AA5CEbwDFGzYbgsPCVSGLx7xDbDFgNwBBM5uCCHE4ctRCjJHed2qEi9-wy6cg84N78UMKrkIOo1p-EJ-8bgDKpf8dA2nFl2Ivt42rXOm1qlv1hrQc1Hlni6yQ4m06BPODYAEzJbzzzQtLvaQJ3admkINcEWvD_0Rr8SFWi8jNAz-O7WV1Vsmb_4r2FiOw9pfVoCzSXAFdgsXWO3n8iqxeT_GWSyejbpfizfQVD28kNtJIcwGC_utwIwNqUCPJO1UHScad1g6njOtFjARumic2okHO-fpNf1vR-NnlFKpY0FbGjbo5W4JHJkzw7lLbh19DZPgWVtIglYL4m0dWXwkSLYanNnsf8-SwXnRmIMzi5IwzovNbygvC30nZOqTzfJ_jAI/p.png?fv_content=true&size_mode=5"
   }
   ],
-  "courses":[ 
-  {
-    "id": 1,
-    "name": "Crea animaciones que hablan",
-    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-    "image":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bde0257f-9903-48c9-aa47-35d7b1a72644/animacion_que_habla.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200830T175427Z&X-Amz-Expires=86400&X-Amz-Signature=ab7b5cdac855d05bc5939721f77141059a8f4b3617e1162fc4e7a0906c697050&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22animacion_que_habla.jpg%22",
-    "description": "Lorem ipsum",
-    "level": "Fácil",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=animations-that-talk"
-  },
-  {
-    "id": 2,
-    "name": "Imagina un mundo",
-    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-    "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
-    "description": "Lorem ipsum lore lol",
-    "level": "Intermedio",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
-  },
-  {
-    "id": 3,
-    "name": "Imagina un mundo",
-    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-    "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
-    "description": "Lorem ipsum lore lol",
-    "level": "Intermedio",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
-  },
-  {
-    "id": 4,
-    "name": "Imagina un mundo",
-    "logo":"https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
-    "image":"https://scratch.mit.edu/static/assets/0e7c63d93e28be97a36696f8a1528c4c.jpg",
-    "description": "Lorem ipsum lore lol",
-    "level": "Intermedio",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
-  }  
+  "courses":[
+    {
+      "id": "scratch-four",
+      "name": "Anima un nombre",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
+      "image": "https://uc48c9fd7a34af26ecc243f14777.previews.dropboxusercontent.com/p/thumb/AA4sxuhCSUZFHs6WFiQoRywLo6X0UjvoMlK_TkoXSYFU_gQzfArMQricVHOwcTlU-bG701SLBaIHfnz-JR3Ds7uWBTrE0PJ5Dcx05qjSu8EY0Lrhn5yIXWuV-04S25yh9PtYsJi3zFsf97okk_zU9bO4Onb7KUcEkEkpKXj5FYecESr5zzgELQTTjnD92XlEU5A0FbW1pULxnL-FCLW_6OXGwf0_eMQKSCZ1L8C6QLFGcR5ymAh8zasMFNY6TmNrTfQ6Ht1CFBQmx0pyWdErsi48ny5lRFXhBl0QWbFtlFtNNlQ9dbORKPv4jaCKlPU14edFc4qYkYBnJUWGMynp0Lm5gzBD6PMx9pgJQcrFdsYl43HAJez5iyCq73R5K9gbHmGTQOpU9MeOzGH4FB1FgKwO/p.jpeg?size=2048x1536&size_mode=3",
+      "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=name"
+    },
+    {
+      "id": "scratch-fourteen",
+      "name": "Usar las flechas",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
+      "image": "https://uc9a8654cf114471fb5c0c9b4570.previews.dropboxusercontent.com/p/thumb/AA7lyciZu_Eerf7Xam5s0sVP0e6zgcUZBbCMfe2f8CpHTk_Ifj0-9DxtytX7h2GIiJthJcaePEAo3KF0w56FeN-YpeuDy4eLtGqPG7-TQVXvqu0CwBPbNy5G9-zc71W0HnJKzkNn1oBIt1eOkiC9oI8sg1b_UdAS5YW9ZOIRqaAmzgK8J926H5TVaRSDYpxrep4bFfLqqtGc8QlzYGMw10btoeD0gTOw918jbqrraSvkLPrviZJe6O5p7XjgGcmd_p9TDtYJ0wwK17M3kG3bNOa1aCjfLLGaXddMYxS9DG6mE2ncJNgbhUjO-Q6werde5qkxSq3ZWpM5P_7AHIacB6SQ7SuwBufp7WOHzcDhyPcMf0DY4nsBw1loLvGsOFzeexjlw_9QbsWA5bFGN-eYbM6c/p.jpeg?size=2048x1536&size_mode=3",
+      "description": "¿Quieres hacer mover a tus objetos? En esta clase aprendes a elegir la dirección del personaje utilizando las flechas.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys"
+    },
+    {
+      "id": "one",
+      "name": "Crear diapositivas",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc2896b9052672601e99b085e384.previews.dropboxusercontent.com/p/thumb/AA4rp-98-JRD8S-XJcZuE6sfizs6Ra_o0vclIzV04OMV71DLV6gpHF1RvlK02XU_jJdy9aadtpNmRGVIfKOVcQZLZ5RS7A2BKgQ4veTGL29xIZELI0UK0fggeGE7Hvp6A5AaJRF8BgAqae-9Knu2it3nQuVtX_3MKQW3z2bVN6HbL9SM3jHw3qz7ZLnbGKoyVRx1bQ0jrJ4Xe5IH9WIOIkQ4KaoSNs_874h73QZ8re_4G1SoLnZHYL_Ag2_-CkZgmQ4K5KFj_A6OgY1oRGvJSh4qY9jz5BGaREFG6RnFj0JYAhBwlEghMFKF-4WFQEOm330fLPm-LhO8xBOx73DpDtCA-AHwaMVgfYl7iS7g8FeWikpICN8xwGp_xKWlCjw5aSA/p.png?fv_content=true&size_mode=5",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear diapositivas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/UTSotX_Saa4"
+    },
+    {
+      "id": "googlepresentations-two",
+      "name": "Insertar imágenes",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uce666b7a6c275e9cffc110d55f1.previews.dropboxusercontent.com/p/thumb/AA7vrE_afDJL2xdhGEcm7minFAbL8ROiOHpaos-LsL9OlL7M1w-Re7jSdQGHrt2YFv4IbyrmvPF9WubR2l0G6VKBJWeTkqJJzgtX0FqyDKbLNRapVhrYdCIANSWcO1xNPChaZSmc0cFsOyuHRBfhxG1pon3RHuuv12Lnwi03fzBv1GSAdZ4EGmum40mjgIdFvlPmwO6FZ3Wflw-7oCMoxrY6Zy2nR3ePY-E1Q3B-8awIvJYaLXIo96IRMxEIYcVPHJDtZvcN-PS0qIQOxdXfY4Mk_XGybHbUhM08PhPQuf4xxaapYtzAetF1GZqXjTclYbCEWkcMSwJVYDxj1dgCRK0HFQJzL54eF13q_OLiHxI-UgGdi1dw6q05FZbX7B-nc8qaPnILMyru0Bo8e1n2oicO/p.png?size=2048x1536&size_mode=3",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/EDb1SY1Toxk"
+    },
+    {
+      "id": "googlepresentations-three",
+      "name": "Usar temas",
+      "logo":"https://uc45dba8fdfacdbaac92d996e7f0.previews.dropboxusercontent.com/p/thumb/AA5VeP_kPPRnVe2gz1wX-qc2gS8BoDiTO2iTHcA2i4LU3Us1YniYY-bmBB-9ogzV3u3X9wbD27zXyFUlM-qW53vuuYA8TxF8zNZTp_FEoSH65gFG9PrP5sn6TQR33quFwZeQ8lsWE-iDPGIUkawiX7_euBr8E15dHz-tKg6VuS6W0WwJZllM5AijY1yQofn3f6mbAQPsxmQJM4cyN4trKRxJO1T_kfLpOLMn0IasAPszMZ6BmnUsXyJpIGlTRtp3kyhbtemsUyIORVPpQXhjmAVReoIccKy6ZYAAUJxUW59nRiHdjKL2J4RQ_1O2ztzNMFgHVDMLoM5qqujgHxk1r3lEn7j0aGVJWc0ziyt_rZOaGFABqijYC4giDn31eXGpq7Q/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc41649513646e8e7ee55d521cf0.previews.dropboxusercontent.com/p/thumb/AA4ajmHCO17cbuHsWMqa3fZHKW7QQlYlq7RGUyNcIj_jyZwnmzGD6kKYcAHdIN2c4Mr880nwGa46qIoBOXcug266Nm1-5O9OEyY5wijFGY9JIwNQ3DDcKbIc7TBseDNbFcwwtY_ngp0kqxy9GyfzjXAltrgR9PZf8uzlXu8RYDh2Dpe1hZ4hvoUMoAoumxiu1KPK30OSuDfMifpr1U0zmk7ikspGQidMYckY-Ftejzfzta1dzR9N0JoddgCdaWSk9sFDGCTm5MXd0KCQ4Oazh-zntQcepEhovlWYzcTM199wT9sjH_PcS2X8dXihw2HcVbMBf-n6RIlZSDHaMzmfCfBFSeuwZnixO71ZNscPoMoTOui8NcAIJfznJoDVc_fz7YA6S-jPbZPshQostXyeM1e_/p.png?size=2048x1536&size_mode=3",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar temas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "scratch-sixteen",
+      "name": "Sensor de video",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
+      "image": "https://ucdaf88663b31e6b93f6d0891a12.previews.dropboxusercontent.com/p/thumb/AA4sTcS68mPOk4rpmjpDEokdQTGkazEchefdZUH3aecj_Akbv0_YcaeoBZDoqFFomyFd4RQevoK06jGw0kKnrpYbB0IH-5WglkFhbCniT5v6llQKIOwQQAV1MWWuf-3-6B6UvzGHZnunarz0cLjoildX4U00GR1j1A6MRQr6-Q9hj_1A_ITFPqvpaPmecdYCN3ipAPqnm52Oi_rZqRDZYyqrby2Egp6z81esA5JgVO3RHadfRnuJrl3EZpDzUjeVMIrW-b0ILfHNzkOw-JkM0MpdkmJ3exZiBQPNLbF2NdeOUzOCgk_8aw044WfUvTuDZ2UFcuhz0SwYBfycstazbSoHBk4GJJzz_woGJ1pdKshBmxE43rMRaNrTHqyOHKrpbgQYNgPfTEbekHinnlpsNE_G/p.jpeg?size=2048x1536&size_mode=3",
+      "description": "¿Quieres ser parte de tu programa en Scratch? Eso es posible con tu webcam. En esta clase aprenderás cómo añadir tu propio video.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=video-sensing"
+    },
+    {
+      "id": "codeorg-two",
+      "name": "Código Flappy",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
+      "image": "https://uc27f9a2a97f7756d7c6a797aa84.previews.dropboxusercontent.com/p/thumb/AA6f7FNvImDjQ2UJZrHJZ1G7N8bGEjVV8GchAw-nHncMpu9mAXiXznjEMT7iYH9t1WqMj9jaMhmPNRgjXMW40bEGO4juBmQqxTt31uPFQAKAKQGtk5BWFsZyzDWInoFKkuaR38FqqUoA1X1Rj11veZ5JnkzshHEGBoX0qXhynrF-rfdgfqLSLkqnGLzF9sluP8RctEXmT_xqwkF4z5aps4kCQkQ_jqbc4jB2K-kKoI-jvzG9SguRSeiRMUiYJQ7maozKniPFK1qU2jO989GKd1bEHgCAAWlTy1A2i9iao_za0pSCtRtRimy6z_YpRM1G5DTw8OMa9I6J1lVqc-tCQuj46udQ4jWltiPiN-_Gz1KjicfGbR2Nbc0n1uF9-qbt9yu7shELtMZ8v8aMlJo2az6L/p.jpeg?fv_content=true&size_mode=5",
+      "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/flappy/1"
+    },
+    {
+      "id": "codeorg-three",
+      "name": "Star Wars",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
+      "image": "https://uc68295617439207b367be1a7e1d.previews.dropboxusercontent.com/p/thumb/AA4DuMESXT2Am2i8TUMjfpD37_P7pp72UXEjrImstI15BRmTN6Esgub8uyjVRb7HvMpLMRytKhlokyzrIrpwNP20Lwq5brxUVM9sEvwTTAjExF4r8JyCabF1eskg7S9l5gY6FvmpXf22jfYw-N9rRvum0UmX3IjC11w2i6cbWV5tlal6FKtFRagesPzwvKYNg-eqvL6YkRSe2VEzyFExIqzOMSuehBZxmzMQonuKfIsRwIOUbxfdHcsi5ZRGqvfq1fHftJYfRnAuiU7-ejIzSSSMxq7eFm7o8kye15QqbQcYgsKARBRaGsXAk6cUcQkPOOW8w3A8MLkATXUEoOjTKjAZgGzJ9IZI9vol-0y7rT_KlAERQy4YMgesY_-mMgCi_4xoFrmzp8eQ7Nyadofi5Dhp/p.jpeg?fv_content=true&size_mode=5",
+      "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1"
+    },
+    {
+      "id": "codeorg-four",
+      "name": "Aventurero de Minecraft",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
+      "image": "https://ucbdebd42c3eefbeed2ed194ffcd.previews.dropboxusercontent.com/p/thumb/AA7YRA4PRSFlAro92dy5dJ-w7Zx4juYz2XieccxGX6YSL1F7tBwBFmjFJ_L2AmXxkWwdYcVwqDDAvQjwrzQv2bp1uYJ_Ldu4xZmHdD4OFpQKnTamyuIMcQZOABuVmGgXbmcf7LsbCNY1XGASOqH6kr065v1tmoM1WD7FTLj_VAS7COeQga71f9N2DLPxWf2WuhuZaDbrPMBM8Ha3QVigD0KNx5DPzBAhym1MvGuKogOz7QkHA8I02ooxrB9HlVpkt_nLbPHmKFRgf8c-liBJe7dVy3rHhlUzLJbtwIhdrRIV1piPmxRRYRXwKjJm4JAnL9AmWo71lkxCmUoKxD01guzaenMhqEH1a0zOhVUU5CRhguhAF9wSdB9E-xHW3cB2FvvKAGfW33nfYtUMkNTBVSrv/p.png?fv_content=true&size_mode=5",
+      "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/mc/stage/1/puzzle/1"
+    },
+    {
+      "id": "scratch-five",
+      "name": "Crea música",
+      "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
+      "image": "https://uce41c87ec871c0c78d7b970e725.previews.dropboxusercontent.com/p/thumb/AA7WULvwqvv1f1mfQyl-noanwnD2O7NZP-28Xa2EgbZoDMwLwILgyfkqEo8xsX5h0clS_oIOZorL_TuqyqCMGWTEI6i8gWPE5QbrfizpJynQHI8zvB1t54EL_JhE1zc6xjFpEBLE3GUFGRU5jFksYJm9WrLXtTdsWzi3cYTVhAdCHBMzF85UhqMIr7gYPnN5fP0BiU8dRrrj9BF3TOrMCwbPwpnQTaMHI-8RVZxWmouXGQukBVEu7vapMtq1JyDQ1dy561zbyXDN7u3Ssg-mfRihGJtvdiuV63CS9kvCuZ_LtHHY-RLZUFkQGuBYZgPZmqQ2Z4hCr-Zo2dncRlh8_BFOmmO3tuRT_tYZ96rGPvq9-lsnVEd8qSBCWVfzq_idZKQIL5V5KIzD4H_nZaEJicjX/p.jpeg?fv_content=true&size_mode=5",
+      "description": "Utiliza Scratch para crear música. ¡Todo es possible, hasta una banda de gatos! ¿Qué vas a crear?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=music"
+    },
+    {
+      "id": "codeorg-eight",
+      "name": "Juego de Disney",
+      "logo": "https://uc23826e6aea92d5d60855d9d7c3.previews.dropboxusercontent.com/p/thumb/AA7xP8TGqskFQT3R-RQoR3vlgf1tmNuyMU5vLw0MSCgZeiKyK0BZvdpeJZj9Yu1DEm4UV5z5nIRL3bwUGd2ebGBqVgu4qvtt9brhm1vDTvvDp0v24W4ACcjJ9hgGfqxLMIC1AMYH-1JcXX3AOQHzuRlBhMSI5mk30gh_UvdixNPmFopBDKfKZg06Iwo4YMbBNGDnVJFmbgVceYqnnLxmz_gl9dW1r1MoivmaGWBcIo6s_QB3mi1MSQpLavcnmWOzEmIrXNXAWKURgB0pz68oMWaNnmoJugmxe_SL3bzdHLpSvLEmZDS90L_F5I9Hp3xBJhWVpHp_ji14R5g6V5e3YzA87sCZwwGntkAEkSZ_PYwW_kpa3H_r-SWlK67yNKSMxvY/p.png?fv_content=true&size_mode=5",
+      "image": "https://uc8b16187df02be93402074fb1a7.previews.dropboxusercontent.com/p/thumb/AA7N9_Umc0x2l7oy5piYHezkouiAEiKl6RAtPGdjIZs7PUEhDXhfWk4cN-wSzMplPJmk1jzhlmbQrstKKp-U6Q6ni4mqxvQD1ohUEs-aB3o2sudk6fReFNbby2jGtJGP_2vsHCbH3kAycWY7nFdF-IDFZYwuTelkGmCPEC8nPvbsXJfELF_32CYfJyPHJ6h19aY_DF80yk6w9sIuw4MCImJHMclYEp9hyIc0thtPNJoNweTUb8-DMSBlRV3cw_6tDIw9oiAytgR3P3HJR_TL04CrT_txMbVFddPIfqVofh8pGBMV35PiKMThUYdh4cqlXQfG2lBAFogr8812gMcRu0ktmGLLD68Z22OvOVT5a0KViHdu4vBYbNtki3Ry6FQ5jn7aSUoOlQZC_pAxwOj0HsCx/p.jpeg?size=2048x1536&size_mode=3",
+      "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1"
+    },
+    {
+      "id": "googledocs-one",
+      "name": "Salto de página",
+      "logo":"https://uce9f7f03361878c997f946f4f4b.previews.dropboxusercontent.com/p/thumb/AA69aszWphD8_u6QiucF83tDe0P3WG2TkNPfxCyehBwmPK2LvGl8mxOJXvLu8AS7VbvMFuwJDsQ1v8hdsmIyWUusJi7yIWzWsAs_lYvhzE4WyCefxsxHYHkeNtrwilVpVcsYI1cBtPwCbtgLlNovJtvChfea-mBPp_oWZewIGMo-tfhbTDVPFtz8z0pheqpS8HKIeB7FZIQGay_cMYVc_jX-Sgi-gzeYWzX0Z6E6olwpTixsAjskJS-BlcDSwMQkewWuxMg7qZXAYNEjzoN27nTuVVcWZmJQpQlsX5PzAsrpmLrDmOFyRRFcE2qedk9LsvWBpCWoMQf_pDd2pspl4nXKLJmqYi_u-UUpeDNJY_r7jgA4O2ZKX1WgCDidB_-TrXE/p.png?fv_content=true&size_mode=5",
+      "image":"https://uc12f987955173b4266592620c5f.previews.dropboxusercontent.com/p/thumb/AA7ebXsxFr-W3JDbjwt2Cr1ZtaRAWkC4Fye2uxKp1TomRz0OfHqNndMSXFDTiZ2RVJMjTyyYAjzGauWJunaInpnFqJQMQCrw-j68gys6B4Ev4dgfnR0OtxufGm-p7Qob9FxBZ9M_gfCMhbKJfEn3nQbjSNn7ntC4qwoZoM-bNA_p_IrQMsz14LUQKW2CQlhK6MYZ3KYjSh5j6Qw_gOTP57L0NjoDuoddWOPfwYeymua2XGxPoHw_twarUUA7PGdZ7wMrsGyQVWirTk8WuqNfslTGV8ux0noHuDly9o1c0UHGkcAEsAp7q6NijdpM2iJjSbaU2sXGpwbPaMhFzSAUeSwxNSKWqmkuGaJuGjnA1w-jZOhhrmF9KNguRu13Ffvq-GGdsZ7l3xPQgbgT8OSg89-3/p.png?size=2048x1536&size_mode=3",
+      "description": "En este video Profe Suzy va a explicar cómo puedes hacer un salto de página en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    }
   ],
   "scratch":[
     {
@@ -94,7 +156,7 @@
       "name": "Crea animaciones que hablen",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc799d48771e4359023b9b41c660.previews.dropboxusercontent.com/p/thumb/AA6K8hljKZGABS-dDt-JyF0zT9nTPzz79bIzMgZcRnntBV9elm3h5ca-qzZdlVlp_EFCPhFb5Zo2eJ6RhkkDFPDgb2LrnZyH07-D7KKNTBCvsVLd4P9hltCOA9F2TXeSvUzhN2ovtRGhuOSzeDgqKL0eTrAbNhvDPFGfdLWs902IIPj6U6s6Y39MJX6gPS1O7o6Cr3jDq9u5deNbVQgCz7J0lIZdq7LWJWVWSOvM-Ca6iBr_d-Gy1VaU9Jmg1ClSJYpxibDW78xVtJEBWUZE92RRrYz3bTRPKrxXb_HQqpLL4Sv1pUoML5flWdnMoJqfh3W1q1lsw4nnKVVZk0dI-9KCJmJbMNuTEvIRxHHUd0fOam-UhvsAxUELGk9oZIE0Ag4/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "¿Quieres crear una animación donde tus personajes hablan? ¡Esta es tu clase! Haz que tus personajes hablen en voz alta.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animations-that-talk"
     },
@@ -103,7 +165,7 @@
       "name": "Cuentos que hablen",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucbd6f4487114a6fc8d08ab32015.previews.dropboxusercontent.com/p/thumb/AA4Z8RokD_h8nfrrHiHjgR0Aa0zoXZplHU0WTTMQBWJ0Kau21xTC5J1Not8eIOzpP4SaVGrS2pZdZbtIEyGvt3BXO4ejGW2Ej8oN0lDCkhOV8gEOS5HdLDQ0aT_6WW2Rv9AxeXI3LrXb1HK0bRf8U4WnfJCp6kaGVv3GpL9MwUYT0hey2Nl5SfPdSPHB9Guti9rUpN5GckTi8NISD_LYwHsuUZZVs6aaMhHmFPBsgmWRDWmFT6aL5Cba6u3RQYxyzwoIEmSBe_LRUCWcX_qqHTYLAvMZnvHkmKf_iW4KmkFNDI90ocPWiag1lj308nlueRLfGeroSkgI-Q76DFVu1z4u06YsSr-JMyyZJBiDYe0jU7N_c495W0NgWWQGE43KL-OYEO0ds0V90N7qRYBpKfHm/p.png?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "Tus personajes pueden tener una conversación escrita en Scratch. En esta clase aprendes cómo hacer que tus personajes hablen en texto.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=talking"
     },
@@ -112,7 +174,7 @@
       "name": "Anima un nombre",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc48c9fd7a34af26ecc243f14777.previews.dropboxusercontent.com/p/thumb/AA4sxuhCSUZFHs6WFiQoRywLo6X0UjvoMlK_TkoXSYFU_gQzfArMQricVHOwcTlU-bG701SLBaIHfnz-JR3Ds7uWBTrE0PJ5Dcx05qjSu8EY0Lrhn5yIXWuV-04S25yh9PtYsJi3zFsf97okk_zU9bO4Onb7KUcEkEkpKXj5FYecESr5zzgELQTTjnD92XlEU5A0FbW1pULxnL-FCLW_6OXGwf0_eMQKSCZ1L8C6QLFGcR5ymAh8zasMFNY6TmNrTfQ6Ht1CFBQmx0pyWdErsi48ny5lRFXhBl0QWbFtlFtNNlQ9dbORKPv4jaCKlPU14edFc4qYkYBnJUWGMynp0Lm5gzBD6PMx9pgJQcrFdsYl43HAJez5iyCq73R5K9gbHmGTQOpU9MeOzGH4FB1FgKwO/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Lorem ipsum lore lol",
+      "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=name"
     },
@@ -121,7 +183,7 @@
       "name": "Crea música",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uce41c87ec871c0c78d7b970e725.previews.dropboxusercontent.com/p/thumb/AA7WULvwqvv1f1mfQyl-noanwnD2O7NZP-28Xa2EgbZoDMwLwILgyfkqEo8xsX5h0clS_oIOZorL_TuqyqCMGWTEI6i8gWPE5QbrfizpJynQHI8zvB1t54EL_JhE1zc6xjFpEBLE3GUFGRU5jFksYJm9WrLXtTdsWzi3cYTVhAdCHBMzF85UhqMIr7gYPnN5fP0BiU8dRrrj9BF3TOrMCwbPwpnQTaMHI-8RVZxWmouXGQukBVEu7vapMtq1JyDQ1dy561zbyXDN7u3Ssg-mfRihGJtvdiuV63CS9kvCuZ_LtHHY-RLZUFkQGuBYZgPZmqQ2Z4hCr-Zo2dncRlh8_BFOmmO3tuRT_tYZ96rGPvq9-lsnVEd8qSBCWVfzq_idZKQIL5V5KIzD4H_nZaEJicjX/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "Utiliza Scratch para crear música. ¡Todo es possible, hasta una banda de gatos! ¿Qué vas a crear?",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=music"
     },
@@ -130,7 +192,7 @@
       "name": "Crea una historia",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc34c1e407caa509a4d6725d9701.previews.dropboxusercontent.com/p/thumb/AA4zS-f8bjpnQoAw895pRHwA4gri1mL98SpxoxhjCKM5z-qiI07a5pRyDGmXqIG5f1GFfRKNq3jAdSSyRIMlyJSKI_r-xUgz4O593GB7a9vE3FbMnbLUCq8mBcpI_NcO3_CSOXW79MqfSLf4-2Aex6NvjhmDUNmDOii09Eq5FPRDMg3vHUCUtJ3cqllX_JWBc3Hrfo5sTvPd-jLFIHVa1VjrLq7BHGy47VZyMhGsUjhxHAX_f5-BDPmsUiI2eTWkg6q0nlsTH86q83-KiFPPr_Yund3wcEIoNLABLa-Pa5oNYFrEqnjvA9zAR108cpjRdGYOwAUnQm5xyO4AiicluOy9BECnOmRkSn6XywAduePvBCR60JGxNuiv9Nh_nGbG7xEjOLjAcfUS4e0DZciy5Roc/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "Crea tu propia historia en Scratch. ¡Todo es possible!",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story"
     },
@@ -139,7 +201,7 @@
       "name": "Juego de pong",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc7929de46c230905a09b5748e9f.previews.dropboxusercontent.com/p/thumb/AA62me86YQz2lKkuvLyP5o0bcNiy9q7MZ2Nr-R1yLzAbIDLDQ8nsWZ4P8Quu3oZ18PZKj3TAUNqlhgxQ8d-pAdoZdrLSgt-4PXnyQXTret3HFsICp8_WvJ4tCuZ92wBevrbPufn_qVG-Sivf09SPjaNtpSK3fwnzQZ4cEyTb7V9B37sdEbBF_8ZObEPe3-IpeikMczVFc6-AD3Izb8JrGl5czJV4V7ToXRLwlooK7017fptCPRoDdjaBlIgI-s6Lz_ewAiLnDdecvvA-ANFq6r-KF8OtjibV_brVwEuYtnQSPvz_tp4wOtuqmGrN7HFO4ctxhTqO1qz7GQkTlJbLIABI6XdTn6oN59nBhRxwF93KHWrYOrb7F0KtEud16FisBdLF7RSM57xJbvBRQGBbpjQv/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "El juego de pong es super divertido para jugar, y aún más para programarlo. ¡En esta clase lo vas a hacer!",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=pong"
     },
@@ -148,7 +210,7 @@
       "name": "Cambiar tamaño",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucccee37b13ac7f34971b2ee2ce1.previews.dropboxusercontent.com/p/thumb/AA7F3jxWYtzIxENmNYIYxQfOMipelSuriHHdVY3pJtKHiU1EdpksN4Prc8THmuzBvFyk6KzCk76N8GbeTJtU4eZKxtEKWrsgHisRMhafKJHHbVOvDOVMLK1fnIosm-UugFVGU0Ttec9MRtQWfxgMDNbXBoLWSpIQ77qqHwT9sGIucBRpM-1jjvaPFy7LPsjjSANTXjMDK9WHyrJF7DDqCUS5ZymVkESyySEQ6DgyZNpcSP3mpoqfrJ6cMjYBIpup0BtYBDbdRD5iLxHpcAW2WP0h5Vk_IYI8JhVbPQkbAVudlP6DFvOKe02xHBDSOdJHoQCGWLoeU1o2r0Sr0LV-e1TMfiT1AFqaUm3bdc4wnbBde9rCAie5FkLnmu8VK9IbryxBDVFZ-JXe_Fh9tkuBvA2b/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "Aprende cómo hacer crecer y reducir el tamaño de un objeto.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=change-size"
     },
@@ -157,7 +219,7 @@
       "name": "Deslizar alrededor",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucf70440c4b8d9f9d0c51408a0c6.previews.dropboxusercontent.com/p/thumb/AA7I7FVCR1v3yQsIm8EvJQjsfnx5gJk-LWLZSeAzVUAxMVLLzSd542vn9h5f7BibUqZDZBp6M3Y7ApWIoIhRBBBqa87REOURwbz-VfxNR8VxVlGYaCOHqugdu-PnLcI5_thiCFmxDvDNQFk73mA25FnA3snG45jP04Uyh9qgImH4pe5rDrgjXdGJwDsaGteBKT4BSbmZBgYOW9AydBmxTvYOHHMYGV53bQAikGE3_FGOPm1YSgFQFh2n4qDeM-9BOKYDfSJLwb83_BtgIrGiRLNiY9Qw5HGZ7lvN4CH3838vqWYdRqLSH91wHLzHATfES7YAQzsclp_Id7masr1Yi7j9mIA5-7KBXJM5u3ZA9qh1am-26velOdTH0Yg1cLwqdR9j7TmlUREuiEhmlBSvhZff/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Cambiar de posición",
+      "description": "En esta clase vas a ver cómo hacer que tu personaje se mueva por todos lados. ¿Será que se maree?",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=glide-around"
     },
@@ -166,7 +228,7 @@
       "name": "Grabar un sonido",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc739c50c1dae81595960918bc8c.previews.dropboxusercontent.com/p/thumb/AA7dFONBZvWE2_58Y_8-spzkheWMZTLbzlAkE0p0A20NIXGD-R9_F5qpCrXm2yAntX4p9OHVyYdig03yysOad4Dfe60c2_ns1vK40EjuGZroxYKp0cLxlXQnrhx68U17BacwrFGiQurMlAPnzg-QsRl9h9kp7vreMWZKkVestkzppe40Q7tWQV_b0OlqzCystVUCBCU13P9VZJ8rkHEt0GEm2O3fI93XkB0arme1YzxzkdXEsjhGLmQ0HQS5HAA0nR12XWanZwCK8oAMsyL4wdivbJGuGXCm-n26MfdejlkPu7CnBYMI_3L5cNr5jGYxqPF3Wgcy3xrU45qZwvpbRqJDwZzZe9pcSQXrGF4xx9HhQOEUxTu7kzOYgrQqBO8j0o51BWe5CLULyhufTgLiIEBB/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "¿Sabías que puedes grabar tu propio sonido en Scratch? ¡Si! Eso aprenderás en esta clase.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=record-a-sound"
     },
@@ -175,7 +237,7 @@
       "name": "Hazlo girar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucf503d07d1a20683fa9ac8c386b.previews.dropboxusercontent.com/p/thumb/AA4CKswAnpuIEkHfKdPzHYwCXm_vyWvOne-Jp3O0coEJNDRZXDHW_ZX6nkFkkYqNSh8b28wgZyZXVkO0yqhw2svSo1aElvv-3xJnBjWQ0F0GaSKAApJEVfxMN61XfaOsgK3PAaclXX-c_t_AMFnNxsPrwChOHz5qgL-SY1MpTyTQP_VIa-L8mgBM1xxMyFlG9u1K_3SM9mqW8iLRdmNNsaEfdPej5_VY20MK0GiCGeLJhG7Qmeqo4fg8RYvNRSeY6AoFFRbRI-EToQcMvwX9joyIqa_1Q7nFp8kQ4c273iXtCQfNstapWiCtjFa_56j6jFpPXS-KihN0no9smAsjSVBS8ckHuzf2PgqxoYt-ZtLmHsRdCYexb1wlVfnNqx34jSqUczM7AokZ6hMLd8c5ZbF_/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Gira a tu personaje",
+      "description": "Gira a tu personaje. ¿A ver si le puedes hacer girar 10 veces?",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-spin"
     },
@@ -184,7 +246,7 @@
       "name": "Ocultar y mostrar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucab5e9001513788aa4521067ce8.previews.dropboxusercontent.com/p/thumb/AA4EGzZOSny9iuas77ZJQ6S7986wGDOEcdVpCenaNPSKZR-UGC8ow0VEYcoIAmIEsRl12GS41WYi65IbnxO0dNSvZhEB1v_JBejrsK3-8mKbcajjSp6GX1p2LlbW-qSnQGbXukeh3t0nyVgZK3S4T_4Ch-5Ct_UgGdqbMB31Gk6uXNAHKMAd5Uhr1SIJbW-kW1NF2TU9qIgguvFe7A_xQZJ58peuEpOOxigGBQhztJHnVLy3eWzxZHjQTj4N0gfdUjc91pvKDiXpgVHskAeg6E2IkZubWm6SveMm6sajATd5DGe9P35wIs5y5P5bgN7t_Lob0eXfL5fjfWb5djf8_bAxCkx_Ks-BtwMhj4s1bzNy3JIDweeddG0D6-uD-fbO1FBnso72x0akr7CIV_19RJ2p/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "Una cosa divertida que te ayudará en tus juegos y cuentos en Scratch es hacer ocultar y mostrar a los objetos. Eso aprendes hacer en esta clase.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=hide"
     },
@@ -193,7 +255,7 @@
       "name": "Anima un objeto",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc7d02e4332fb49569ce5110c653.previews.dropboxusercontent.com/p/thumb/AA4GsMp4X5KzndZVxkZqy_u5dEryR56tydlzM4MZ1Ny54ZJpkQJXCHwu_u1ILbefIQlPvwW0E1QV7JYj2DW78evztKwOwG5pKY1UWnm3NVaJ8wbUpvbZ3GTk2KtoIrWYVMtdwqK2C0u5r3vzt--dvhPbLhYEp8NYruPl08PjTloz0VKsL8EjrMhRQ18J3koiTsgqnhWFDa43Y7o0uGP8mk_fbfo57NbFuuUE6mbLFeAQxeF01acRhLh7cE03Y8-BWzE4-M-237UWYHJKooMCffwnPdnidc9ukbVZw3A2Dmvm7sK0M1yhzma_8M0LSpboIQydCbRqATpn2wFBCRo4kcTZP2UUiXp1Vea8Z-OIX7s9uO9rBN89AAkB-UwWe0I3ps1_Sfi9mqbzUmbZWsJmHfub/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Cambia de animación al objeto y aprende a utilizar la animación deseada ",
+      "description": "¿A ti te gusta quedarte en mismo lugar siempre? Nooo.... A los objetos en Scratch tampoco. ¡Elige un sprite y hazlo mover!",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-sprite"
     },
@@ -202,7 +264,7 @@
       "name": "Usar las flechas",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc9a8654cf114471fb5c0c9b4570.previews.dropboxusercontent.com/p/thumb/AA7lyciZu_Eerf7Xam5s0sVP0e6zgcUZBbCMfe2f8CpHTk_Ifj0-9DxtytX7h2GIiJthJcaePEAo3KF0w56FeN-YpeuDy4eLtGqPG7-TQVXvqu0CwBPbNy5G9-zc71W0HnJKzkNn1oBIt1eOkiC9oI8sg1b_UdAS5YW9ZOIRqaAmzgK8J926H5TVaRSDYpxrep4bFfLqqtGc8QlzYGMw10btoeD0gTOw918jbqrraSvkLPrviZJe6O5p7XjgGcmd_p9TDtYJ0wwK17M3kG3bNOa1aCjfLLGaXddMYxS9DG6mE2ncJNgbhUjO-Q6werde5qkxSq3ZWpM5P_7AHIacB6SQ7SuwBufp7WOHzcDhyPcMf0DY4nsBw1loLvGsOFzeexjlw_9QbsWA5bFGN-eYbM6c/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Aprende a elegir la dirección del personaje con las flechas",
+      "description": "¿Quieres hacer mover a tus objetos? En esta clase aprendes a elegir la dirección del personaje utilizando las flechas.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys"
     },
@@ -211,7 +273,7 @@
       "name": "Añade efectos",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucee53add148e08b9c9a2526d481.previews.dropboxusercontent.com/p/thumb/AA47pJTCjPSjD4Z00zSmJJPtSiOf5pnpJ-Hwbc1AxIYsf8KX9wxa5ApUeT4KNjCRr0NzbaIHtpFF-qGu0olvF6KKoQG0_tH_qUc_l7RtfDVhI-r8TTLx70qpIP7CPt2B2dDJUPDPwXAdx_pSleNNztxNVeBBdTjrxL5AomNyps6VuZlgrbk8PvfPXIviu7Yl9gvMXRhuHHyhG0XRIIA_3c64KZVxiVOaZWECgcvrNx1H0CnKWUXR8fN8WdntWQlDFi5SuJ4FKNkUhSpU2-_70-N8P84ufEEYPUNX7Cibcu3XlbHIUlEfn0Anm8h3aTFJZi4ZX_ocV87Jq59DmKgBEJldUDB2VzPc_HKFxP899LFdsEdj3JXidn6kIF8cXgG2TVbIM7L9McitiybIodDlCku_/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Aprende a añadir efectos a los objetos ",
+      "description": "Aprende a añadir efectos a los objetos. Esto podrás utilizar en todos tus juegos, cartas y cuentos.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-effects"
     },
@@ -220,7 +282,7 @@
       "name": "Sensor de video",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://ucdaf88663b31e6b93f6d0891a12.previews.dropboxusercontent.com/p/thumb/AA4sTcS68mPOk4rpmjpDEokdQTGkazEchefdZUH3aecj_Akbv0_YcaeoBZDoqFFomyFd4RQevoK06jGw0kKnrpYbB0IH-5WglkFhbCniT5v6llQKIOwQQAV1MWWuf-3-6B6UvzGHZnunarz0cLjoildX4U00GR1j1A6MRQr6-Q9hj_1A_ITFPqvpaPmecdYCN3ipAPqnm52Oi_rZqRDZYyqrby2Egp6z81esA5JgVO3RHadfRnuJrl3EZpDzUjeVMIrW-b0ILfHNzkOw-JkM0MpdkmJ3exZiBQPNLbF2NdeOUzOCgk_8aw044WfUvTuDZ2UFcuhz0SwYBfycstazbSoHBk4GJJzz_woGJ1pdKshBmxE43rMRaNrTHqyOHKrpbgQYNgPfTEbekHinnlpsNE_G/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Divertido al crear e interactuar, corto y facil de seguir",
+      "description": "¿Quieres ser parte de tu programa en Scratch? Eso es posible con tu webcam. En esta clase aprenderás cómo añadir tu propio video.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=video-sensing"
     },
@@ -229,7 +291,7 @@
       "name": "Agrega un objeto",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc40803c6ab7acf217055faf3411.previews.dropboxusercontent.com/p/thumb/AA4mjuJWiadZ0FUVrLYOvYNUgM7i33G_EE4SPNHDqTQxu8p2kIBHB3ffRLZXWWELGXrBQWHc84DAkMf49d3NVILdXGKV8EHzAZWi9smHxCWuJmjbwLTinLn_hN8iazGVSBYfdNK_V6VPnd1NttLXAllwIIevaSi-jpm3gOPOXOk5a4RsBtKPkw3_v-qIJZb2m-shnUq_wflyCrhu-RUL-s8-3CKbf6ojzhrPVjqRfQLddUDepbATQi6NFqujBOyfH74o7kKNjI2UmjIgr0sRm2nStLBhCNFAfJ_GLTk8tkPc3NG2mMqYmPLUzNJmvdPjLD3jp69ibsQP6X0cAPdzl5raiJTgNL6P5VsITo1P2yLZLU0y1j6h_J5mP3HajO42YSw7sFSdEC3aqYJjgDUQVhm6/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Elige un personaje",
+      "description": "Elige un personaje de las opciones que Scratch te da. ¿Cuál eliges vos?",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-sprite"
     },
@@ -238,7 +300,7 @@
       "name": "Agrega un fondo",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc5a8b1aa128c4be01665b459458.previews.dropboxusercontent.com/p/thumb/AA5AFIhRBJ7n0PwXINFQgm-ocOV6o5SwbUE-JVJ5VI_34zKbnqa9axVktsuzJP1AFhKv2Wh0EvAxdyeIz2HyhT4vI1xYWzlkQVMIJFwkFea9ZRxQqr60q-Omh7LT83NdUIxVnWJfUUAbjP-zkoJSTUDMW4F0PQxwtMy9GC0g6UE5N6KpGax0y4xmxqDKdAuEGLvlux5pPi09yhI6akImwpo13JUnHijKogs8_O-0kNy3vIRzVqHzwQIJe8eNeR3Pb4w_1yz6ewu8YnzAVPSlmpEd7e6JyxbJzOr1FLxte4ABj9mN2khwfoE9ruI0rli7cjjC8vfKBW3d6iuQJUJuzPuTuJx37uUcIZH9jd306MTTC60JN7oEvw2EhO09k5Rb3sPNJlc7YRI8p-A3tC-Nbthq/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Elige un personaje",
+      "description": "Haz tu programa en Scratch más interesante con un fondo divertido.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-backdrop"
     },
@@ -247,7 +309,7 @@
       "name": "Imagina un mundo",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc691e33deb08fb6bdafb7d21446.previews.dropboxusercontent.com/p/thumb/AA7WF03fVjZv3XOBUdSpiaNliFiyG2Pu6EGb4As9CmEpz5cxC_y7mR1ZhRcS9wJAl8z_B8y_h4l6Z3wyQnjsapWGTnKmexowDmLKV6jdC4c0Wrq735penOsiTKWPx0i6IaY_Pq5A5V1resSbi-nJQNR3BKihza5mouhOg8ZBNNSyd7LsQ5FaVG2phsUPlAgaH0UbuCvczrXAWgA4TTnoJThMNAD7Q76UQUPEeHb2gIvTO4ZdrNtqG7iIcHVFtVHbbN1RJvvCMV1rrp1A2siRcBXVspdnZMIdttq3_VO3Tf8URZtlEhNrJiwsh3hB9FV7CBpk8eWLo-GLnuwSQ0SdyOmW1WfERgYvNBuLOg4Ux9z82fFBPmP4sDBic0ia1PKnYsZWuWukRi-9k3enSl5y-7_Y/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Lorem ipsum lore lol",
+      "description": "Imagina un mundo donde todo es possible. Un león tocando gitarra o una escuela volando. ¡En esta clase vas a crear el mundo de tu imaginación!",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
     },
@@ -256,7 +318,7 @@
       "name": "Programa una caricatura",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc2225a127150b70b8ffcf92678d.previews.dropboxusercontent.com/p/thumb/AA7ZJyHSf3PXBs9JZANGQNMb-9cTi-CTfGcj2hbfuFWhN_7CqGqnri4AsNvRpD2FbVJkBsDJO_f7cNWug4juXaWIZwrUtl3xNNs7Vwuk4rJCs_JYQ7GsojImzuxaEgt-WaS4CyLPEBhnR9zlNgI-RL9M9m5yxVZpyEwzABdOPo2_b5A5B12VJVQIUn5ta8dQ0NoK3JawFW0kgWzNyG530EHGVUCwRl0tYzC7RQQD0y46SFFap9ge1R50a1nUNQt_egZGxJALnqs-KvhyGVz5fTUiYt9_84BS8wA7JkOYjhcB2bUPaKcd0dRgfT-fCd-3FTqtr_-hqtogsihfkS4rg2DI1i6hWuIOSXcnZUCAy577NYz8TylcPoW39H2IG0quMy9Ocofi2UIO2FULoTSvznzu/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "¿Alguna vez has querido tener aventuras con tu caricatura? En esta clase vas a programar tu propia caricatura.",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/331474033/editor?tutorial=code-cartoon"
     },
@@ -265,7 +327,7 @@
       "name": "Haz un juego de perseguir",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uccf7f5ffcdfaafabfba7e293409.previews.dropboxusercontent.com/p/thumb/AA4qPTdltJh5l1o8eLp0JOaCKOvDfTOdH-pbhWN0hvHhfnBE9Er5BLz2tiqoLecNCvB6Cq2kn1C3PQmZl3urZAKTuujzpr0gA7rPbV4aauBM5lODmKpzGW8RUKI1n4uTDzCPop1vxIJj7VxF4mOwYHNo9mfXV95moNw7rnKiAuAE8s8YHVor8iOzN7PuTeEEli2cWNJhK1QHVlx9gufQj7uRh7oObfTSbOEjGMNfWjdcm2D2LJN4AwMjgeF6T-DxgrY3qbTuf0neFi6WEH6SkdxlhbeeQChAQgu8jIw-v1QfWi0UbiC06le53f0NUZ3ioN4ujKvvo1t6j_9pmSQd7qgk__nk-HE_mdQX6RAh4vrR-NdQ5sehQ67TVd-I6RUgxqjrB0_5XQY6biwGgbCZfpVF/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Lorem ipsum lore lol",
+      "description": "Es muy divertido crear tu propio juego. En esta clase vas a crear tu propio juego de perseguir.",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=chase-game"
     },
@@ -274,7 +336,7 @@
       "name": "Anima un personaje",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uce9f81f0d1b8dca21f1d71362b6.previews.dropboxusercontent.com/p/thumb/AA7k--avMjfSs7p0csLXdF1v6nL6ZN1Z9j4V6IXfz3f32euZ5PDkwtNJb-kiOhLLGeUB_UYJPvjRq224LD7vjvRR1aC_4dL9HRsfMsEqLMfNDjFFTCGNsy4dcDoGQzT4djqQ1Pmw_dD4xC7TaYwuNr6jDUsEOyzdiX6BSSA0L-ElKyNUkUs4viP-Jm9HL8BSTMy9rmhn5nFxBo7eI8F14yoXyPvz7TLZTePcRibjvqsTcEtfTLOe7E92EX4ggfijXNnXs6BYgl0j2XXQo7I8mGnv_kZZDlK8yJl51jvceMTPwHH4tyS3Z1k3ggiKY5t_lIpUfdynI3mggDZxNQNP13OHVEP7CRrwzZnXlmdAZiQlihHyc1fxpkk0sUXmlwoNOw4q53spomRAOkrPtC9ZRUcp/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Lorem ipsum lore lol",
+      "description": "Aprende a animar un personaje y ¡lo podrás utilizar en todos los juegos, cuentos y cartas que vas a crear en Scratch!",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character"
     },
@@ -283,7 +345,7 @@
       "name": "Haz un juego de cliquear",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc335218fcc5dee5c4b34a1e8f42.previews.dropboxusercontent.com/p/thumb/AA7G6saObX294hNJhVf_k7hfb-NhcV6L6Slp5EKYShOO18cgqcPDdXLg5JqH5wa3jmo6nnjz0vnpOaH38AMjqK9aiyXXYbxFzMw92AQugpQdSTQFiViarwQ8allCjzFtIQY7R0CIR2xTLQVr5qkFqR0NDEMO_ChDWWWIIrwPPevFYHglAKxE2s8xqW3i_PD_fYVuOCSafAcOlt-5h46BK9L77dO9CYwTYyqpmLjDVSHeWR2MbsM3qN60aUXC-p0s-hWC85jkV9PQCnShUJ9VOt8ZWG4-Q2AZtj19w0fGBM35NQesSZiXa475OWEXT_qms3100qEXFPUwnsUlbdbOt_6fPE4xXPlk0KDnGd0FBCwwKg2a9LfW-8l78SccAYdHxiwmuvgHpl8Jg3mX2AoE4AhX/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "¿Te gustan los juegos? En esta clase vas a crear un juego de cliquear.",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=clicker-game"
     },
@@ -292,7 +354,7 @@
       "name": "Hazlo volar",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc82f0740b7318bc529dd5fab33f.previews.dropboxusercontent.com/p/thumb/AA6KSRoTCw_IxKRY4PTTVflYcfbfZY4W079su2fqfFGTZ-W1P2uOop2TSyaLsxll_1HYb5CWu3ZjiRmrFSPmiwxkQqAtjwlgfSSITSZ6riJgoTM6pp4TNuJCEV2JS85kOMBDtZZhB8VuoUc1reXZOLjBKYeTU39RxAH5MGSgp43ec3KAyxhLee-j83YFyggCwfEIhmTI-AiWjvKgWuTGDI8ejt903DDjIl2GDcFUCTdrsafYwhmQJGsX-IbP0bt-u7Me0zpLin3tyaceqWxUwLqlOm1lreXFrHzWyu5bNzOqkeMgVHeqBmS7EDrJUADXGi7-aPMfOI8G9gkVPyb4-sZPNCDxtFXKxkrIVhmyTmoHVdWc9_g7_Fe9_8LcW2uo6b9FiwO6Y3qLnthzTJWTWp5P/p.jpeg?size=2048x1536&size_mode=3",
-      "description": "Lorem ipsum lore lol",
+      "description": "Crea un juego súper divertido donde vas a hacer volar a un gato. ¡El gato no puede chocar con los edificios!",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-fly"
     },
@@ -301,7 +363,7 @@
       "name": "Anima un juego de aventura",
       "logo": "https://uc089139768048de22d1fa3a0f2d.previews.dropboxusercontent.com/p/thumb/AA4aL_7NX-rqVDbn9B4zXCojI8E2a7r8uuk6jPXfz8nCyfxk6158pYZoBBygT0Ch0uGHe0gahOj3mPxZT-mPnnMdBWu8P1UmnEa5J_fTeByZrlkgrPttbwyH-nhWnT8sP7Th2fwx1m5_0urwVDraDl7wXH9PkScGxsLbDu4NHTkt-7TetqTlGtk-Kd8vReNbFzN-R4IYCCCK0X51z1EqZK4-FedPewenz0J1jC13HfE_a9unCSKNO3my5-K1x4iPbncE4jYlaoBrb06WNHD1yUUjSfU6jCfBWMW00jsX1dV7TqIW2-PPL1nDCOwIiiHJWKITibPjfGaabfmXYreTMbIMGzc_a6dQZ-jmtsrRsl_YdQ-N7NEKbcGx0tQ4Tm9Xr90/p.png?fv_content=true&size_mode=5",
       "image": "https://uc1e9af959d19954950ddd7ab27e.previews.dropboxusercontent.com/p/thumb/AA40c2DKgDqyD7u8Fo_NnCCYKP-e1iuQiFYO9ya99JU3c-sUwG-Jf_X0Lv5_VZIfyVWQJGmAUfPq6Ny7-PCyWT_LtFWdgvoYnjxsugRtasDRZkIdBG-KCmyP9_hau_AVaBVqICZeROyc5jFvEiJDCHTYJ1WqMW2HC7nboomlGiST6MsVlBNSGMr5dXMvMoQ-5J7LOG8Sgnq2FrUV4wwpsgp2bGKSyUJRIs5GHlMBn0SZ-4tywWmxk_B3X34rUBpbwiiwt4hD3_bH0GPYKhINldnsE7GBGVIV8QhIE9QcZV8RYnUT9rQyzWCyOM2DJcV0si73s1IUVdC4yv1OUHdLLDsPE1ouL7ftF1_ve2nbXPthdm3sUR2ABtJY1AZe-yXacKPzIX-ly0URrgr5WGSVZF56/p.jpeg?fv_content=true&size_mode=5",
-      "description": "Lorem ipsum lore lol",
+      "description": "¡Vamos de aventura! Anima tu propio juego de aventura.",
       "level": "Intermedio",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-an-adventure-game"
     }

@@ -16,6 +16,15 @@
     components: {
       Header,
       Footer
+    },
+    watch: {
+      message: {
+        immediate: true,
+        handler: function (to) {
+          // Show correct title in tab (defined in routes.js)
+          document.title = to.meta.title || 'TechTeach Junior'
+        }
+      }
     }
   }
 </script>
@@ -31,10 +40,10 @@
   $red: #e84855;
   $black: #212529;
 
- 
+
   .container-fluid{
     padding: 0 !important;
-  } 
+  }
   .title {
     padding: 1rem 2rem;
     display: flex;
@@ -114,7 +123,7 @@
       font-size: 2.6667em;
     }
   }
-  
+
   #menu-learning-option {
     background-color: $light;
     padding: 2rem 0;
@@ -153,7 +162,7 @@
         line-height: 150px;
       }
     }
-  } 
+  }
   .course-level {
     color: $purple;
     font-weight: 700;
@@ -250,7 +259,7 @@
         background-color: $purple-light;
         border-color: $purple-light;
         color: $blue;
-      } 
+      }
     }
   }
   .btn-secondary {
