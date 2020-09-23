@@ -1,11 +1,11 @@
 <template>
    <div class="container-fluid" id="coursesPage">   
       <main role="main">
-        <div class="sub-header"><h1>Google</h1></div>
+        <div class="sub-header"><h1>Videos tutoriales de cursos acerca de Google Drive</h1></div>
         <section role="section">
           <article id="googleCourses">
             <div class="title">
-              <img class="img-fluid course-logo-header" src="../assets/images/logos/google.png"><h2>Google Drive</h2>
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/google.png"><h2>Google</h2>
             </div>
             <div class="content">
               <CoursesGoogle />
@@ -53,11 +53,14 @@
   $purple-light: #A5B4E5;
   $yellow: #F8EB7C;
   $light: #FAF6F6;
+  $coral: #ff8552;
+  $red: #e84855;
+  $black: #212529;
 
   #coursesPage {
     .sub-header {
       padding: 2rem 2rem;
-      background-color: $yellow;
+      background-color: $purple;
       @media (min-width: 992px) {
         padding-top: calc(90px + 2rem);
       }
@@ -65,7 +68,7 @@
         font-family: 'Cabin Sketch', cursive;
         font-weight:  400;
         font-size: 2.6667em;
-        color: $blue;
+        color: $yellow;
       }
     }
     .course-logo-header {
@@ -73,7 +76,7 @@
       margin-right: 15px;
     }
     .content {
-      background-color: $purple-light;
+      background-color: $coral;
       padding: 2rem 0;
     }
   }

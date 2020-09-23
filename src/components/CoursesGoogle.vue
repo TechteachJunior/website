@@ -1,5 +1,5 @@
 <template>
-  <ul class="d-flex flex-wrap scratch-list">
+  <ul class="d-flex flex-wrap google-drive-list">
     <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-6 col-xl-3">
       <a v-bind:href="courseData.url" target="_blank">
         <div class="card">

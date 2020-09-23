@@ -1,7 +1,7 @@
 <template>
    <div class="container-fluid" id="ProgramCourses">   
       <main role="main">
-        <div class="sub-header"><h1>Program courses</h1></div>
+        <div class="sub-header"><h1>Cursos de programación</h1></div>
         <section role="section">
           <article id="scratchCourses">
             <div class="title">
@@ -55,7 +55,7 @@
         font-family: 'Cabin Sketch', cursive;
         font-weight:  400;
         font-size: 2.6667em;
-        color: $blue;
+        color: $purple;
       }
     }
     .course-logo-header {

@@ -48,7 +48,7 @@
     padding: 1rem 2rem;
     display: flex;
     align-items: center;
-    color: $purple;
+    color: $blue;
     h2 {
       font-weight: 700;
     }
@@ -73,8 +73,11 @@
         }
       }
       .logo-text {
-        color: $light;
+        color: $yellow;
         font-weight: 700;
+        .logo-title {
+          font-size: 1.5rem;
+        }
       }
       &.navbar {
         @media (min-width: 992px) {
@@ -86,10 +89,18 @@
       &.navbar-light .navbar-toggler {
         background-color: $purple-light;
       }
+      .nav-item {
+        @media (min-width: 992px) {
+          padding: 0 1rem;
+        }
+      }
       .nav-link {
         color: $light !important;
         font-weight: 700;
-         border-bottom: 2px solid transparent;
+        border-bottom: 2px solid transparent;
+        @media (min-width: 992px) {
+          font-size: 1.5rem;
+        }      
         &:hover, &:active {
           border-bottom: 2px solid $yellow;
         }
@@ -101,6 +112,9 @@
       }
       .dropdown-menu {
         background-color: $purple-light;
+         @media (min-width: 992px) {
+          font-size: 1.5rem;
+        }  
         a {
           color: $blue;
           font-weight: 700;
@@ -237,40 +251,14 @@
       }
     }
   }
-  .modal {
-    font-size: 1.2em;
-    .course-logo {
-      max-width: 40px;
-      float: left;
-    }
-    .modal-body {
-      .course-image {
-        img {
-          max-width: 250px;
-        }
-      }
-    }
-    .btn-secondary {
-      border-radius: 0;
-      background-color: $blue;
-      border-color: $blue;
-      color: $light;
-      &:hover {
-        background-color: $purple-light;
-        border-color: $purple-light;
-        color: $blue;
-      }
-    }
-  }
-  .btn-secondary {
-    border-radius: 0;
-    background-color: $blue;
-    border-color: $blue;
-    color: $light;
+  .btn-default {
+    background-color: $purple-light !important;
+    border-radius: 0 !important;
+    min-width: 400px;
+    font-weight: 700 !important;
+    font-size: 1.5rem !important;
     &:hover {
-      background-color: $purple-light;
-      border-color: $purple-light;
-      color: $blue;
+      background-color: $light !important;
     }
   }
   a {

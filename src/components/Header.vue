@@ -5,8 +5,8 @@
           <router-link to="/" class="logo d-flex align-items-center" aria-label="Tech Teach Logo">
             <img class="img-fluid" src="../assets/images/logos/tech-teach.png" style="width: 60px;">
             <div class="d-flex flex-column logo-text ml-3">
-              <div>{ TechTeach }</div>
-              <div><small>Aprende a programar y diviertete</small></div>
+              <div class="logo-title">{ TechTeach }</div>
+              <div class="logo-slang">Aprende a programar y diviertete</div>
             </div>
           </router-link>
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
