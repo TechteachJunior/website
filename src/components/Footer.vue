@@ -5,6 +5,8 @@
       <span class="youtube"><a href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank"><i class="fab fa-2x fa-youtube"></i></a></span>
       <span class="email"><a href="mailto:info@techteachjunior.com?Subject=Hola Tech teachers"><i class="fas fa-2x fa-envelope"></i></a></span>
     </div>
+    <div class="w-100 mb-2"></div>
+    <div class="text-center copyright"><b>Tech Teach Junior ©</b></div>
   </footer>
 </template>
 <script>
@@ -31,6 +33,9 @@
     }
     span {
       margin: 0 15px;
+    }
+    .copyright {
+      color: $light;
     }
   }
 
