@@ -51,6 +51,10 @@
     color: $blue;
     h2 {
       font-weight: 700;
+      font-size: 1.2rem;
+      @media (min-width: 1200px) {
+        font-size: 2rem;
+      }
     }
   }
   #app {
@@ -72,11 +76,32 @@
           text-decoration: none;
         }
       }
+      .logo img{
+        width: 40px;
+        @media (min-width: 600px) {
+          width: 50px;
+        }
+        @media (min-width: 1200px) {
+          width: 60px;
+        }
+      }
       .logo-text {
         color: $yellow;
         font-weight: 700;
         .logo-title {
-          font-size: 1.5rem;
+          font-size: 0.8rem;
+          @media (min-width: 992px) {
+            font-size: 1rem;
+          }
+          @media (min-width: 1200px) {
+            font-size: 1.5rem;
+          }
+        }
+      }
+      .logo-slang {
+        font-size: 0.6rem;
+        @media (min-width: 1200px) {
+          font-size: 1rem;
         }
       }
       &.navbar {
@@ -90,7 +115,7 @@
         background-color: $purple-light;
       }
       .nav-item {
-        @media (min-width: 992px) {
+        @media (min-width: 1200px) {
           padding: 0 1rem;
         }
       }
@@ -98,7 +123,7 @@
         color: $light !important;
         font-weight: 700;
         border-bottom: 2px solid transparent;
-        @media (min-width: 992px) {
+        @media (min-width: 1200px) {
           font-size: 1.5rem;
         }      
         &:hover, &:active {
@@ -134,7 +159,13 @@
       color: $blue;
       font-family: 'Cabin Sketch', cursive;
       font-weight:  400;
-      font-size: 2.6667em;
+      font-size: 1.5em;
+      @media (min-width: 600px) {
+        font-size: 2em;
+      }
+      @media (min-width: 1200px) {
+        font-size: 2.6667em;
+      }
     }
   }
 
@@ -220,10 +251,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        button {
-          padding: 0;
-          border: none;
-        }
       }
       .card-footer {
         border: none;
@@ -251,12 +278,21 @@
       }
     }
   }
+  #courses {
+    .btn-default {
+      @media (min-width: 992px) {
+        min-width: 400px;
+      }
+    }
+  }
   .btn-default {
     background-color: $purple-light !important;
     border-radius: 0 !important;
-    min-width: 400px;
     font-weight: 700 !important;
-    font-size: 1.5rem !important;
+    font-size: 1rem !important;
+    @media (min-width: 992px) {
+      font-size: 1.5rem !important;
+    }
     &:hover {
       background-color: $light !important;
     }
