@@ -1,7 +1,7 @@
 <template>
    <div class="container-fluid" id="coursesPage">   
       <main role="main">
-        <div class="sub-header"><h1>Videos tutoriales de cursos acerca de Google Drive</h1></div>
+        <div class="sub-header"><h1>Cursos de Google Drive</h1></div>
         <section role="section">
           <article id="googleCourses">
             <div class="title">
@@ -65,8 +65,7 @@
         padding-top: calc(90px + 2rem);
       }
       h1 {
-        font-family: 'Cabin Sketch', cursive;
-        font-weight:  400;
+        font-weight:  700;
         font-size: 2.6667em;
         color: $yellow;
       }
@@ -76,7 +75,7 @@
       margin-right: 15px;
     }
     .content {
-      background-color: $coral;
+      background-color: $purple;
       padding: 2rem 0;
     }
   }

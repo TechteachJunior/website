@@ -1,11 +1,7 @@
 <template>
    <div>
       <section role="section">
-         <div class="sub-header">
-            <div class="text-center">
-            <img alt="sub-header" class="img-fluid mx-auto" src="../assets/images/sub-header.jpg">
-            </div>
-         </div>
+         <SubHeader />
       </section>
       <main role="main">
          <section role="section">
@@ -56,7 +52,7 @@
 </template>
 
 <script>
-
+   import SubHeader from '../components/SubHeader'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
    import MenuOptions from '../components/MenuOptions'
@@ -64,6 +60,7 @@
    export default {
       name: 'Teach',
       components: {
+         SubHeader,
          Courses,
          CoursesBegin,
          MenuOptions,

@@ -27,7 +27,7 @@
 
   footer {
     background-color: $red;
-    padding: 30px;
+    padding: 20px;
     a {
       color: $light !important;
     }

@@ -47,14 +47,13 @@
   #ProgramCourses {
     .sub-header {
       padding: 2rem 2rem;
-      background-color: $yellow;
+      background-color: $purple-light;
       @media (min-width: 992px) {
         padding-top: calc(90px + 2rem);
       }
       h1 {
-        font-family: 'Cabin Sketch', cursive;
-        font-weight:  400;
-        color: $purple;
+        font-weight:  700;
+        color: $blue;
         font-size: 1.5em;
         @media (min-width: 600px) {
           font-size: 2em;

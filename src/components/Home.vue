@@ -1,11 +1,7 @@
 <template>
    <div>
       <section role="section">
-         <div class="sub-header">
-            <div class="text-center">
-            <img alt="sub-header" class="img-fluid mx-auto" src="../assets/images/sub-header.jpg">
-            </div>
-         </div>
+         <SubHeader />
       </section>
       <main role="main">
          <section role="section">
@@ -59,6 +55,7 @@
 
 <script>
    // import ChatBox from '../components/ChatBox'
+   import SubHeader from '../components/SubHeader'
    import Courses from '../components/Courses'
    import CoursesBegin from '../components/CoursesBegin'
    import MenuOptions from '../components/MenuOptions'
@@ -67,10 +64,11 @@
       name: 'Home',
       components: {
          // ChatBox,
+         SubHeader,
          Courses,
          CoursesBegin,
          MenuOptions,
-         DiscoverMore
+         DiscoverMore,
       }
    }
 </script>

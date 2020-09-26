@@ -45,7 +45,7 @@
     padding: 0 !important;
   }
   .title {
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     display: flex;
     align-items: center;
     color: $blue;
@@ -86,7 +86,7 @@
         }
       }
       .logo-text {
-        color: $yellow;
+        color: $light;
         font-weight: 700;
         .logo-title {
           font-size: 0.8rem;
@@ -136,7 +136,7 @@
         }
       }
       .dropdown-menu {
-        background-color: $purple-light;
+        background-color: $yellow;
          @media (min-width: 992px) {
           font-size: 1.5rem;
         }  
@@ -150,15 +150,15 @@
   .sub-header {
     background-color: $blue;
     @media (min-width: 992px) {
-      padding-top: 90px;
+      padding-top: 86px;
     }
   }
   #question {
     background-color: $yellow;
     h1 {
       color: $blue;
-      font-family: 'Cabin Sketch', cursive;
-      font-weight:  400;
+      font-family: 'Poppins', sans-serif;
+      font-weight:  700;
       font-size: 1.5em;
       @media (min-width: 600px) {
         font-size: 2em;
@@ -178,26 +178,27 @@
       text-decoration: none;
       &.programming-link {
         background-color: transparent;
-        color: $purple;
+        color: $blue !important;
         width: 0;
         height: 0;
         border-left: 100px solid transparent;
         border-right: 100px solid transparent;
-        border-bottom: 150px solid $yellow;
+        border-bottom: 150px solid $purple-light;
         line-height: 150px;
         display: flex;
         justify-content: center;
+        @media (min-width: 992px) {
+          border-left-width: 150px;
+          border-right-width: 150px;
+          border-bottom-width: 200px;
+          line-height: 200px;
+        }
         span {
           margin-top: 1rem;
+          @media (min-width: 992px) {
+            font-size: 1.5rem;
+          }
         }
-      }
-      &.typing-link {
-        background-color: $purple-light;
-        color: $blue;
-        height: 150px;
-        width: 150px;
-        border-radius: 50%;
-        line-height: 150px;
       }
       &.google-drive-link {
         background-color: $purple;
@@ -205,6 +206,16 @@
         height: 150px;
         width: 150px;
         line-height: 150px;
+        @media (min-width: 992px) {
+          height: 200px;
+          width: 200px;
+          line-height: 200px
+        }
+        span {
+          @media (min-width: 992px) {
+            font-size: 1.5rem;
+          }
+        }
       }
     }
   }
@@ -286,7 +297,7 @@
     }
   }
   .btn-default {
-    background-color: $purple-light !important;
+    background-color: $yellow !important;
     border-radius: 0 !important;
     font-weight: 700 !important;
     font-size: 1rem !important;
