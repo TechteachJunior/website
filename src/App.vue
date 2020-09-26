@@ -274,7 +274,7 @@
           height: 0;
           border-left: 20px solid transparent;
           border-right: 20px solid transparent;
-          border-bottom: 30px solid #F8EB7C
+          border-bottom: 30px solid $purple-light;
         }
         .course-type-google {
           background-color: $purple;

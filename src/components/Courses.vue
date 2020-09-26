@@ -1,23 +1,23 @@
 <template>
   <ul class="d-flex flex-wrap">
     <li v-for="courseData in courseDataList" :key="courseData.id" class="col-md-6 col-xl-3">
-      <div class="card">
-        <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" v-bind:src="courseData.logo"><span class=" course-title">{{courseData.name}}</span></div>
-        <div class="card-body">
-          <div class="text-center">
-            <a v-bind:href="courseData.url" target="_blank">
+      <a v-bind:href="courseData.url" target="_blank">
+        <div class="card">
+          <div class="card-header d-flex align-items-center"><img class="img-fluid course-logo" v-bind:src="courseData.logo"><span class=" course-title">{{courseData.name}}</span></div>
+          <div class="card-body">
+            <div class="text-center">
               <img class="img-fluid" v-bind:src="courseData.image">
-            </a>
+            </div>
+          </div>
+          <div class="card-footer">
+            <div class="d-flex justify-content-between align-items-center">
+              <span class="course-type-personalized"><img class="img-fluid" v-bind:src="courseData.type"></span>
+              <span class="course-level">{{courseData.level}}</span></div>
+            <div class="w-100 mb-2"></div>
+            <div class="decription-text text-justify">{{courseData.description}}</div>
           </div>
         </div>
-         <div class="card-footer">
-          <div class="d-flex justify-content-between align-items-center">
-            <span class="course-type"></span>
-            <span class="course-level">{{courseData.level}}</span></div>
-          <div class="w-100 mb-2"></div>
-          <div class="decription-text text-justify">{{courseData.description}}</div>
-        </div>
-      </div>
+      </a>
     </li>
     <div class="w-100 py-3"></div>
     <div class="w-100 mb-4 px-3 text-center">
