@@ -66,8 +66,14 @@
       }
       h1 {
         font-weight:  700;
-        font-size: 2.6667em;
         color: $yellow;
+        font-size: 1.5em;
+        @media (min-width: 600px) {
+          font-size: 2em;
+        }
+        @media (min-width: 1200px) {
+          font-size: 2.6667em;
+        }
       }
     }
     .course-logo-header {
