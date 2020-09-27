@@ -220,7 +220,7 @@
     }
   }
   .course-level {
-    color: $purple;
+    color: $blue;
     font-weight: 700;
   }
   .content {

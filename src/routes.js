@@ -1,5 +1,4 @@
 import Home from './components/Home'
-import Teach from './components/Teach'
 import TypingCourses from './components/TypingCourses'
 import ProgramCourses from './components/ProgramCourses'
 import GoogleDriveCourses from './components/GoogleDrive'
@@ -14,14 +13,6 @@ export const routes = [
          auth: false,
          title: 'Bienvenid@ | TechTeach Junior'
      }
-  },{
-     path: '/teach',
-     name: 'Teach',
-     component: Teach,
-     meta: {
-         auth: false,
-         title: 'Tutores | TechTeach Junior'
-    }
   },{
      path: '/typing-courses',
      name: 'TypingCourses',

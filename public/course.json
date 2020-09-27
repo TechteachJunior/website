@@ -8,7 +8,7 @@
     "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
     "level": "Fácil",
     "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
-    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@
     "description": "Empieza a programar en la página code.org. ¡En esta primera clase creas una fiesta de baile!",
     "level": "Fácil",
     "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1",
-    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
   "courses":[
@@ -40,7 +40,7 @@
       "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=name",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "scratch-fourteen",
@@ -50,7 +50,7 @@
       "description": "¿Quieres hacer mover a tus objetos? En esta clase aprendes a elegir la dirección del personaje utilizando las flechas.",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "one",
@@ -101,7 +101,7 @@
       "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
       "level": "Intermedio",
       "url": "https://studio.code.org/flappy/1",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "codeorg-three",
@@ -111,7 +111,7 @@
       "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "codeorg-four",
@@ -121,17 +121,17 @@
       "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/mc/stage/1/puzzle/1",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "scratch-five",
       "name": "Crea música",
       "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-      "image": "https://uce41c87ec871c0c78d7b970e725.previews.dropboxusercontent.com/p/thumb/AA7WULvwqvv1f1mfQyl-noanwnD2O7NZP-28Xa2EgbZoDMwLwILgyfkqEo8xsX5h0clS_oIOZorL_TuqyqCMGWTEI6i8gWPE5QbrfizpJynQHI8zvB1t54EL_JhE1zc6xjFpEBLE3GUFGRU5jFksYJm9WrLXtTdsWzi3cYTVhAdCHBMzF85UhqMIr7gYPnN5fP0BiU8dRrrj9BF3TOrMCwbPwpnQTaMHI-8RVZxWmouXGQukBVEu7vapMtq1JyDQ1dy561zbyXDN7u3Ssg-mfRihGJtvdiuV63CS9kvCuZ_LtHHY-RLZUFkQGuBYZgPZmqQ2Z4hCr-Zo2dncRlh8_BFOmmO3tuRT_tYZ96rGPvq9-lsnVEd8qSBCWVfzq_idZKQIL5V5KIzD4H_nZaEJicjX/p.jpeg?fv_content=true&size_mode=5",
+      "image": "https://www.dropbox.com/s/ijiqg3tauzqfwcq/crea_musica.jpg?dl=1",
       "description": "Utiliza Scratch para crear música. ¡Todo es possible, hasta una banda de gatos! ¿Qué vas a crear?",
       "level": "Fácil",
       "url": "https://scratch.mit.edu/projects/editor/?tutorial=music",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "codeorg-eight",
@@ -141,7 +141,7 @@
       "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
       "level": "Intermedio",
       "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADsqJBFGF6M4E8otaiSZtkYa/Im%C3%A1genes%20para%20el%20sitio%20web/triangle.png?dl=1"
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     },
     {
       "id": "googledocs-one",
