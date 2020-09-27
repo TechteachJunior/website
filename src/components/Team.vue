@@ -18,7 +18,7 @@
           </div>
           <div class="card-footer">
               <p><b>Mayra Amador</b></p>
-              <p>Nicaragüense viviendo en Madrid, se dedica a la programación Front End. </p>
+              <p>Nicaragüense viviendo en Madrid, se dedica a la programación como desarrolladora Front End. </p>
           </div>
         </div>
     </div>

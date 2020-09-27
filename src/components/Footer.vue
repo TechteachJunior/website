@@ -6,7 +6,7 @@
       <span class="email"><a href="mailto:info@techteachjunior.com?Subject=Hola Tech teachers"><i class="fas fa-2x fa-envelope"></i></a></span>
     </div>
     <div class="w-100 mb-2"></div>
-    <div class="text-center copyright">Tech Teach Junior ©</div>
+    <div class="text-center copyright">TechTeach Junior ©</div>
   </footer>
 </template>
 <script>
