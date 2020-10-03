@@ -74,6 +74,9 @@
       a {
         &:hover {
           text-decoration: none;
+          .logo-text {
+            color: $yellow;
+          }
         }
       }
       .logo img{
@@ -136,13 +139,17 @@
         }
       }
       .dropdown-menu {
-        background-color: $yellow;
+        background-color: $red;
          @media (min-width: 992px) {
           font-size: 1.5rem;
         }  
         a {
-          color: $blue;
+          color: $light !important;
           font-weight: 700;
+          &:hover {
+            color: $yellow !important;
+            background-color: transparent;
+          }
         }
       }
     }
@@ -199,6 +206,13 @@
             font-size: 1.5rem;
           }
         }
+        &:hover {
+          border-bottom: 150px solid $blue;
+          color: $yellow !important;
+          @media (min-width: 992px) {
+            border-bottom-width: 200px;
+          }
+        }
       }
       &.google-drive-link {
         background-color: $purple;
@@ -215,6 +229,10 @@
           @media (min-width: 992px) {
             font-size: 1.5rem;
           }
+        }
+        &:hover {
+          background-color: $blue;
+          color: $yellow !important;
         }
       }
     }

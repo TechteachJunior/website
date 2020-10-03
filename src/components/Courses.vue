@@ -21,10 +21,10 @@
     </li>
     <div class="w-100 py-3"></div>
     <div class="w-100 mb-4 px-3 text-center">
-      <router-link to="program-courses" class="btn btn-default">Más cursos de programación</router-link>
+      <router-link to="program-courses" tittle="Descubre más cursos de programación" class="btn btn-default">Más cursos de programación</router-link>
     </div>
     <div class="w-100 text-center px-3">
-      <router-link to="google-drive-courses" class="btn btn-default">Más cursos de Google</router-link>
+      <router-link to="google-drive-courses" tittle="Descubre más cursos de google" class="btn btn-default">Más cursos de Google</router-link>
     </div>
   </ul>
 </template>

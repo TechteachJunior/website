@@ -1,17 +1,17 @@
 <template>
   <div class="form-container col-10 col-xl-5 mx-auto">
-    <b-form @submit="onSubmit" v-if="show">
+    <b-form @submit.prevent="sendEmail" v-if="show">
       <b-form-group
         id="input-group-1"
         label="Tu correo electrónico:"
         label-for="input-1"
-        description="Ejemplo: techteach@gmail.com">
+        description="Solo lo usaremos para responderte.">
         <b-form-input
           id="input-1"
           v-model="form.email"
           type="email"
           required
-          placeholder="Introduce tu correo electrónico"
+          placeholder="Introduce tu correo electrónico. Ejemplo: techteach@gmail.com."
         ></b-form-input>
       </b-form-group>
 
@@ -39,15 +39,22 @@
         ></b-form-textarea>
       </b-form-group> 
       <div class="text-center">
-        <b-button type="submit" variant="primary">Enviar</b-button>
+        <b-button title="Enviar formulario" type="submit" value="Send" variant="primary">Enviar formulario</b-button>
       </div>
     </b-form>
-    <b-card class="mt-3 d-none" header="Form Data Result">
-      <pre class="m-0">{{ form }}</pre>
-    </b-card>
   </div>
+  <!-- <form class="contact-form" @submit.prevent="sendEmail">
+    <label>Name</label>
+    <input type="text" name="user_name">
+    <label>Email</label>
+    <input type="email" name="user_email">
+    <label>Message</label>
+    <textarea name="message"></textarea>
+    <input type="submit" value="Send">
+  </form> -->
 </template>
 <script>
+  import emailjs from 'emailjs-com';
   export default {
     name:"Form",
       data() {
@@ -61,9 +68,17 @@
       }
     },
     methods: {
-      onSubmit(evt) {
-        evt.preventDefault()
-        alert('Gracias por contactarnos')
+      // onSubmit(evt) {
+      //   evt.preventDefault()
+      //   alert('Gracias por contactarnos')
+      // }
+      sendEmail: (e) => {
+        emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
+        .then((result) => {
+            console.log('SUCCESS!', result.status, result.text);
+        }, (error) => {
+            console.log('FAILED...', error);
+        });
       }
     }
   }

@@ -1,9 +1,9 @@
 <template>  
   <div class="row mx-0 justify-content-center">
-    <div class="col-md-6 col-xl-3 mb-4 mb-xl-0">
+    <div class="col-lg-6 col-xl-3 mb-4 mb-xl-0">
         <div class="card">
           <div class="card-body">
-              <img class="img-fluid" alt="Elena Fuentes" src="../assets/images/team/elena-fuentes.jpeg">
+            <div id="teamFirst" class="image"></div>
           </div>
           <div class="card-footer">
               <p><b>Elena Fuentes</b></p>
@@ -11,10 +11,10 @@
           </div>
         </div>
     </div>
-    <div class="col-md-6 col-xl-3 mb-4 mb-xl-0">
+    <div class="col-lg-6 col-xl-3 mb-4 mb-xl-0">
         <div class="card">
           <div class="card-body">
-              <img class="img-fluid" alt="Mayra Amador" src="../assets/images/team/mayra-amador.jpeg">
+            <div id="teamSecond" class="image"></div>
           </div>
           <div class="card-footer">
               <p><b>Mayra Amador</b></p>
@@ -22,10 +22,10 @@
           </div>
         </div>
     </div>
-    <div class="col-md-6 col-xl-3">
+    <div class="col-lg-6 col-xl-3">
         <div class="card">
           <div class="card-body">
-              <img class="img-fluid" alt="Susy Fuentes" src="../assets/images/team/susy-fuentes.jpeg">
+              <div id="teamThird" class="image"></div>
           </div>
           <div class="card-footer">
               <p><b>Susy Fuentes (aka: Profe Susy)</b></p>

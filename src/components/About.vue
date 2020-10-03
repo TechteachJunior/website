@@ -66,27 +66,69 @@
    #aboutUs {
       background-color: $yellow;
       padding-top: 4rem;
-         padding-bottom: 4rem;
+      padding-bottom: 4rem;
       .container {
-         background-color: $light;
+         background-color: $blue;
       }
       h1 {
-         color: $blue;
+         color: $purple-light;
+      }
+      p {
+         font-size: 1.2rem;
+         color: $light;
+      }
+      a {
+         color: $light !important;
+         text-decoration: underline;
+         &:hover {
+            color: $yellow !important;
+         }
       }
    }
    #team {
       .card {
          border: none;
          border-radius: 0;
-      }
-      .card-footer {
-         background-color: $purple-light;
-         border-radius: 0;
+         .card-body .image{
+            background-size: cover;
+            background-position: center;
+            max-width: 100%;
+            height: 440px;
+            width: 100%;
+            @media (min-width: 560px) {
+               height: 740px;
+            }
+            @media (min-width: 992px) {
+               height: 480px;
+            }
+            @media (min-width: 1200px) {
+               height: 340px;
+            }
+            @media (min-width: 1560px) {
+               height: 540px;
+            }
+            &#teamFirst {
+               background-image: url('../assets/images/team/elena-fuentes.jpeg');
+            }
+            &#teamSecond {
+               background-image: url('../assets/images/team/mayra-amador.jpeg');
+            }
+            &#teamThird {
+               background-image: url('../assets/images/team/susy-fuentes.jpeg');
+            }
+         }
+         .card-footer {
+            background-color: $purple-light;
+            border-radius: 0;
+         }
       }
    }
    #contact {
       .content {
          background-color: $purple-light;
+      }
+      label {
+         font-size: 1.2rem;
       }
    }
 </style>
