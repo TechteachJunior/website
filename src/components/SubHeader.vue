@@ -157,7 +157,7 @@
     span {
       display: flex;
       justify-content: center;
-      color: $purple-light;
+      color: $light;
       @media (min-width: 992px) {
         font-size: 1.5rem;
       }
