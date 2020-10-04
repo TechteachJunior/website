@@ -1,6 +1,6 @@
 <template>
   <div class="form-container col-10 col-xl-5 mx-auto">
-    <b-form @submit.prevent="sendEmail" v-if="show">
+    <b-form @submit="onSubmit" v-if="show">
       <b-form-group
         id="input-group-1"
         label="Tu correo electrónico:"
@@ -42,19 +42,12 @@
         <b-button title="Enviar formulario" type="submit" value="Send" variant="primary">Enviar formulario</b-button>
       </div>
     </b-form>
+    <div class="mt-3 d-none" header="Form Data Result">
+      <pre class="m-0">{{ form }}</pre>
+    </div>
   </div>
-  <!-- <form class="contact-form" @submit.prevent="sendEmail">
-    <label>Name</label>
-    <input type="text" name="user_name">
-    <label>Email</label>
-    <input type="email" name="user_email">
-    <label>Message</label>
-    <textarea name="message"></textarea>
-    <input type="submit" value="Send">
-  </form> -->
 </template>
 <script>
-  import emailjs from 'emailjs-com';
   export default {
     name:"Form",
       data() {
@@ -68,17 +61,9 @@
       }
     },
     methods: {
-      // onSubmit(evt) {
-      //   evt.preventDefault()
-      //   alert('Gracias por contactarnos')
-      // }
-      sendEmail: (e) => {
-        emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
-        .then((result) => {
-            console.log('SUCCESS!', result.status, result.text);
-        }, (error) => {
-            console.log('FAILED...', error);
-        });
+      onSubmit(evt) {
+        evt.preventDefault()
+        alert('Gracias por contactarnos')
       }
     }
   }
