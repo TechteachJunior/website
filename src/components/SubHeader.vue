@@ -1,13 +1,12 @@
 <template>
   <div class="sub-header">
-    <div>
-    <!-- <section class="image-sub-header"></section> -->
-    <img alt="sub-header" class="img-fluid mx-auto" src="../assets/images/animated-subheader.jpg">
-    <div class="rectangle"></div>
-    <div class="triangle"></div>
-    <div class="circle"></div>
-    <div class="rectangle"></div>
-    <div class="circle"></div>
+    <div class="container-animation">
+      <div class="container-circle-first"><div class="circlefirst"><span><b>Jugar</b></span></div></div>
+      <div class="container-rectangle-first"><div class="rectangle"></div></div>
+      <div class="container-triangle-first"><div class="triangle"><span><b>Conectar</b></span></div></div>
+      <div class="container-rectangle-second"><div class="rectangle"></div></div>
+      <div class="container-circle-second"><div class="circle"><span><b>Crear</b></span></div></div>
+      <div class="container-circle-third"><div class="circlefirst"><span><b>Programación</b></span></div></div>
     </div>
   </div>
 </template>
@@ -25,13 +24,58 @@
   $coral: #ff8552;
   $red: #e84855;
   $black: #212529;
-  .image-sub-header {
+
+  .container-animation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
-    background-image: url('../assets/images/TechTeach-banner.gif');
+    background-image: url('../assets/images/confetti.gif');
     background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 700px
+    background-size: contain;
+    background-repeat: repeat;
+    background-color: $blue;
+    height: 400px;
+  }
+  .container-triangle-first {
+    position: absolute;
+    z-index: 5;
+  }
+  .container-circle-first {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    transform: rotate(-25deg);
+  }
+  .container-circle-second {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 35%;
+  }
+  .container-circle-third {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    right: 35%;
+  }
+  .container-rectangle-first {
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    z-index: 4;
+    @media (min-width: 992px) {
+      left: 40%;
+    }
+  }
+  .container-rectangle-second {
+    position: absolute;
+    right: 25%;
+    bottom: 10%;
+    z-index: 1;
+    @media (min-width: 992px) {
+      left: 40%
+    }
   }
   .triangle {
     margin: 0 auto;
@@ -52,6 +96,12 @@
       border-bottom-width: 200px;
       line-height: 200px;
     }
+    span {
+      margin-top: 1rem;
+      @media (min-width: 992px) {
+        font-size: 1.5rem;
+      }
+    }
   }
   .rectangle {
     margin: 0 auto;
@@ -64,19 +114,54 @@
     @media (min-width: 992px) {
       height: 200px;
       width: 200px;
-      line-height: 200px
+      line-height: 200px;
     }
   }
   .circle {
     margin: 0 auto;
     background-color: $purple-light;
     color: $blue;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
-    line-height: 200px;
-    // animation: circle 4s infinite;
+    line-height: 150px;
+    animation: pulse 3s ease infinite alternate, nudgesecond 5s linear infinite alternate;
+    @media (min-width: 992px) {
+      height: 200px;
+      width: 200px;
+      line-height: 200px;
+    }
+    span {
+      display: flex;
+      justify-content: center;
+      color: $light;
+      @media (min-width: 992px) {
+        font-size: 1.5rem;
+      }
+    }
+  }
+  .circlefirst{
+    margin: 0 auto;
+    background-color: $purple-light;
+    color: $blue;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    line-height: 150px;
     animation: pulse 3s ease infinite alternate, nudge 5s linear infinite alternate;
+    @media (min-width: 992px) {
+      height: 200px;
+      width: 200px;
+      line-height: 200px;
+    }
+    span {
+      display: flex;
+      justify-content: center;
+      color: $purple-light;
+      @media (min-width: 992px) {
+        font-size: 1.5rem;
+      }
+    }
   }
   @keyframes rotation {
 		from {
@@ -95,10 +180,6 @@
     from {background-color:$purple;}
     to {background-color: $yellow;}
   }
-  @keyframes circle {
-    from {background-color: $yellow;}
-    to {background-color: $red;}
-  }
   @keyframes pulse {
     0%, 100% {
       background-color: $yellow;
@@ -109,6 +190,19 @@
   }
 
   @keyframes nudge {
+    0%, 100% {
+      transform: translate(0, 0);
+    }
+    
+    50% {
+      transform: translate(0, -100px);
+    }
+    
+    80% {
+      transform: translate(100px, 0);
+    }
+  }
+  @keyframes nudgesecond {
     0%, 100% {
       transform: translate(0, 0);
     }

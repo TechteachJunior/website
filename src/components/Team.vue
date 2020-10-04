@@ -7,7 +7,7 @@
           </div>
           <div class="card-footer">
               <p><b>Elena Fuentes</b></p>
-              <p>Lorem ipsum</p>
+              <p>Holandesa viviendo en Nicaragua, trabaja como programadora y le encanta compartir conocimiento</p>
           </div>
         </div>
     </div>
@@ -28,8 +28,8 @@
               <div id="teamThird" class="image"></div>
           </div>
           <div class="card-footer">
-              <p><b>Susy Fuentes (aka: Profe Susy)</b></p>
-              <p>Lorem ipsum</p>
+              <p><b>Suzy Fuentes (aka: Profe Suzy)</b></p>
+              <p>Holandesa viviendo en Holanda, estudia Ciencias Biomédicas en la Universidad de Maastricht.</p>
           </div>
         </div>
     </div>

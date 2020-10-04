@@ -3,7 +3,6 @@ import TypingCourses from './components/TypingCourses'
 import ProgramCourses from './components/ProgramCourses'
 import GoogleDriveCourses from './components/GoogleDrive'
 import About from './components/About'
-import InstagramPage from './components/InstagramPage'
 export const routes = [
   {
      path: '/',
@@ -44,15 +43,6 @@ export const routes = [
     meta: {
          auth: false,
          title: 'Conócenos | TechTeach Junior'
-    }
-  }
-  ,{
-    path: '/instagram-page',
-    name: 'InstagramPage',
-    component: InstagramPage,
-    meta: {
-        auth: false,
-        title: 'Instagram | TechTeach Junior'
     }
   }
 ];
