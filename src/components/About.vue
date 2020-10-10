@@ -74,8 +74,10 @@
          color: $purple-light;
       }
       p {
-         font-size: 1.2rem;
          color: $light;
+         @media (min-width: 1200px) {
+            font-size: 1.2rem;
+         }
       }
       a {
          color: $light !important;
@@ -96,7 +98,10 @@
             height: 440px;
             width: 100%;
             @media (min-width: 560px) {
-               height: 740px;
+               height: 560px;
+            }
+            @media (min-width: 768px) {
+               height: 450px;
             }
             @media (min-width: 992px) {
                height: 480px;

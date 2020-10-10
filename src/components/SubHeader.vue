@@ -3,10 +3,10 @@
     <div class="container-animation">
       <div class="container-circle-first"><div class="circlefirst"><span><b>Jugar</b></span></div></div>
       <div class="container-rectangle-first"><div class="rectangle"></div></div>
-      <div class="container-triangle-first"><div class="triangle"><span><b>Conectar</b></span></div></div>
+      <div class="container-triangle-first"><div class="triangle"></div></div>
       <div class="container-rectangle-second"><div class="rectangle"></div></div>
       <div class="container-circle-second"><div class="circle"><span><b>Crear</b></span></div></div>
-      <div class="container-circle-third"><div class="circlefirst"><span><b>Programación</b></span></div></div>
+      <div class="container-circle-third"><div class="circlefirst"><span><b>Conectar</b></span></div></div>
     </div>
   </div>
 </template>
@@ -43,19 +43,18 @@
   }
   .container-circle-first {
     position: absolute;
-    z-index: 1;
-    top: 0;
-    transform: rotate(-25deg);
+    z-index: 6;
+    top: 90px;
   }
   .container-circle-second {
     position: absolute;
-    z-index: 1;
+    z-index: 5;
     bottom: 0;
     left: 35%;
   }
   .container-circle-third {
     position: absolute;
-    z-index: 1;
+    z-index: 5;
     bottom: 0;
     right: 35%;
   }
@@ -83,35 +82,40 @@
     color: $blue !important;
     width: 0;
     height: 0;
-    border-left: 100px solid transparent;
-    border-right: 100px solid transparent;
-    border-bottom: 150px solid $purple-light;
-    line-height: 150px;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 130px solid $purple-light;
+    line-height: 130px;
     display: flex;
     justify-content: center;
     animation: borderColor 5s infinite;
     @media (min-width: 992px) {
+      border-left-width: 100px;
+      border-right-width: 100px;
+      border-bottom-width: 150px;
+      line-height: 150px;;
+    }
+    @media (min-width: 1560px) {
       border-left-width: 150px;
       border-right-width: 150px;
       border-bottom-width: 200px;
       line-height: 200px;
-    }
-    span {
-      margin-top: 1rem;
-      @media (min-width: 992px) {
-        font-size: 1.5rem;
-      }
     }
   }
   .rectangle {
     margin: 0 auto;
     background-color: $purple;
     color: $yellow !important;
-    height: 150px;
-    width: 150px;
-    line-height: 150px;
+    height: 110px;
+    width: 110px;
+    line-height: 110px;
     animation: rotation 4s infinite linear;
     @media (min-width: 992px) {
+      height: 150px;
+      width: 150px;
+      line-height: 150px;
+    }
+    @media (min-width: 1560px) {
       height: 200px;
       width: 200px;
       line-height: 200px;
@@ -121,12 +125,17 @@
     margin: 0 auto;
     background-color: $purple-light;
     color: $blue;
-    height: 150px;
-    width: 150px;
+    height: 110px;
+    width: 110px;
     border-radius: 50%;
-    line-height: 150px;
+    line-height: 110px;
     animation: pulse 3s ease infinite alternate, nudgesecond 5s linear infinite alternate;
     @media (min-width: 992px) {
+      height: 150px;
+      width: 150px;
+      line-height: 150px;
+    }
+    @media (min-width: 1560px) {
       height: 200px;
       width: 200px;
       line-height: 200px;
@@ -135,7 +144,11 @@
       display: flex;
       justify-content: center;
       color: $light;
+      font-size: 0.8rem;
       @media (min-width: 992px) {
+        font-size: 1rem;
+      }
+      @media (min-width: 1560px) {
         font-size: 1.5rem;
       }
     }
@@ -144,12 +157,17 @@
     margin: 0 auto;
     background-color: $purple-light;
     color: $blue;
-    height: 150px;
-    width: 150px;
+    height: 110px;
+    width: 110px;
     border-radius: 50%;
-    line-height: 150px;
+    line-height: 110px;
     animation: pulse 3s ease infinite alternate, nudge 5s linear infinite alternate;
     @media (min-width: 992px) {
+      height: 150px;
+      width: 150px;
+      line-height: 150px;
+    }
+    @media (min-width: 1560px) {
       height: 200px;
       width: 200px;
       line-height: 200px;
@@ -158,7 +176,11 @@
       display: flex;
       justify-content: center;
       color: $light;
+      font-size: 0.8rem;
       @media (min-width: 992px) {
+        font-size: 1rem;
+      }
+      @media (min-width: 1560px) {
         font-size: 1.5rem;
       }
     }
@@ -172,9 +194,9 @@
 		}
   }
   @keyframes borderColor {
-    0%   {border-bottom-color: $purple-light;}
-    50%   {border-bottom-color: $red;}
-    100% {border-bottom-color: $yellow;}
+    0%   {border-bottom-color: $red;}
+    50%   {border-bottom-color: $purple-light;}
+    100% {border-bottom-color: $coral;}
   }
   @keyframes rectangle {
     from {background-color:$purple;}
@@ -208,11 +230,11 @@
     }
     
     50% {
-      transform: translate(150px, 0);
+      transform: translate(200px, 0);
     }
     
     80% {
-      transform: translate(-150px, 0);
+      transform: translate(-200px, 0);
     }
   }
   

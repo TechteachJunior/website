@@ -40,7 +40,15 @@
   $red: #e84855;
   $black: #212529;
 
-
+  h1 {
+    font-size: 1.5em !important;
+    @media (min-width: 600px) {
+      font-size: 1.8em !important;
+    }
+    @media (min-width: 1200px) {
+      font-size: 2.6667em !important;
+    }
+  }
   .container-fluid{
     padding: 0 !important;
   }
@@ -127,7 +135,7 @@
         font-weight: 700;
         border-bottom: 2px solid transparent;
         @media (min-width: 1200px) {
-          font-size: 1.5rem;
+          font-size: 1.3rem;
         }      
         &:hover, &:active {
           border-bottom: 2px solid $yellow;
@@ -140,8 +148,8 @@
       }
       .dropdown-menu {
         background-color: $red;
-         @media (min-width: 992px) {
-          font-size: 1.5rem;
+         @media (min-width: 1200px) {
+          font-size: 1.3rem;
         }  
         a {
           color: $light !important;
@@ -166,12 +174,12 @@
       color: $blue;
       font-family: 'Poppins', sans-serif;
       font-weight:  700;
-      font-size: 1.5em;
+      font-size: 1.5em !important;
       @media (min-width: 600px) {
-        font-size: 2em;
+        font-size: 1.8em !important;
       }
       @media (min-width: 1200px) {
-        font-size: 2.6667em;
+        font-size: 2.6667em !important;
       }
     }
   }
@@ -195,6 +203,12 @@
         display: flex;
         justify-content: center;
         @media (min-width: 992px) {
+          border-left-width: 130px;
+          border-right-width: 130px;
+          border-bottom-width: 180px;
+          line-height: 180px;
+        }
+        @media (min-width: 1560px) {
           border-left-width: 150px;
           border-right-width: 150px;
           border-bottom-width: 200px;
@@ -203,6 +217,9 @@
         span {
           margin-top: 1rem;
           @media (min-width: 992px) {
+            font-size: 1.2rem;
+          }
+          @media (min-width: 1560px) {
             font-size: 1.5rem;
           }
         }
@@ -210,6 +227,9 @@
           border-bottom: 150px solid $blue;
           color: $yellow !important;
           @media (min-width: 992px) {
+            border-bottom-width: 180px;
+          }
+          @media (min-width: 1560px) {
             border-bottom-width: 200px;
           }
         }
@@ -221,12 +241,20 @@
         width: 150px;
         line-height: 150px;
         @media (min-width: 992px) {
+          height: 180px;
+          width: 180px;
+          line-height: 180px
+        }
+        @media (min-width: 1560px) {
           height: 200px;
           width: 200px;
           line-height: 200px
         }
         span {
           @media (min-width: 992px) {
+            font-size: 1.2rem;
+          }
+          @media (min-width: 1560px) {
             font-size: 1.5rem;
           }
         }
@@ -309,7 +337,7 @@
   }
   #courses {
     .btn-default {
-      @media (min-width: 992px) {
+      @media (min-width: 1560px) {
         min-width: 400px;
       }
     }
@@ -320,6 +348,9 @@
     font-weight: 700 !important;
     font-size: 1rem !important;
     @media (min-width: 992px) {
+      font-size: 1.2rem !important;
+    }
+    @media (min-width: 1560px) {
       font-size: 1.5rem !important;
     }
     &:hover {
