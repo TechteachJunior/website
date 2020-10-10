@@ -25,14 +25,14 @@
                   <Team />
                </div>
             </article>
-            <article id="contact">
+            <!-- <article id="contact">
               <div class="title">
                 <h2><i class="fas fa-keyboard mr-2"></i>Escríbenos</h2>
               </div>
               <div class="content">
                  <ContactForm />
               </div>
-            </article>
+            </article> -->
          </section>
       </main>
    </div>
@@ -41,13 +41,13 @@
 <script>
    import SubHeader from '../components/SubHeader'
    import Team from '../components/Team'
-   import ContactForm from '../components/ContactForm'
+   // import ContactForm from '../components/ContactForm'
    export default {
       name: 'About',
       components: {
          SubHeader,
-         Team,
-         ContactForm
+         Team
+         // ContactForm
       }
    }
 </script>
