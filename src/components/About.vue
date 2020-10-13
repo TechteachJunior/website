@@ -9,11 +9,11 @@
                <div class="container">
                   <div class="p-3 p-lg-5">
                      <h1 class="text-center"><b>¿Qué es TechTeach?</b></h1>
-                     <p>TechTeach es un proyecto voluntario donde brindamos acceso a l@s nin@s al mundo de programación y computación. </p>
+                     <p>TechTeach es un proyecto voluntario donde brindamos acceso a las niñas y los niños al mundo de la programación y la computación. </p>
 
-                     <p>Hoy en día se puede aprender de todo en linea, sólo hay que saber dónde encontrar los recursos. En esta página presentamos una compilación de recursos buenos y divertidos en español. También tenemos nuestro propio canal en <a href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank">YouTube (TechTeach Junior)</a> donde subimos tutoriales de computación para niñ@s.</p>
+                     <p>Hoy en día se puede aprender de todo en línea, sólo hay que saber dónde encontrar los recursos. En esta página proporcionamos una compilación de recursos buenos y divertidos en español para fomentar este aprendizaje. También tenemos nuestro propio canal en <a href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank">YouTube (TechTeach Junior)</a> donde subimos tutoriales de computación para niñas y niños.</p>
 
-                     <p>Esta idea nació de la experiencia de fisicamente dar clase de programación y computación. Esta página puede ser utilizada para dar clase o individualmente por el/la niñ@. Siempre estamos mejorando y amplificando el contenido y sugerencias siempre son bienvenidas.</p>
+                     <p>Esta idea nació de la experiencia tras dar clases presenciales de programación y computación. Esta página puede ser utilizada para dar clase o individualmente por la niña/el niño. Siempre estamos mejorando y ampliando el contenido, por tanto sugerencias son siempre bienvenidas.</p>
                   </div>
                </div>
             </article>
