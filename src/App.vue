@@ -117,7 +117,7 @@
       }
       &.navbar {
         @media (min-width: 992px) {
-          z-index: 1;
+          z-index: 9;
           width: 100%;
           position: fixed;
         }
