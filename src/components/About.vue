@@ -110,7 +110,7 @@
                height: 340px;
             }
             @media (min-width: 1560px) {
-               height: 540px;
+               height: 470px;
             }
             &#teamFirst {
                background-image: url('../assets/images/team/elena-fuentes.jpeg');
