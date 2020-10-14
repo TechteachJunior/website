@@ -16,16 +16,16 @@
     components: {
       Header,
       Footer
-    },
-    watch: {
-      message: {
-        immediate: true,
-        handler: function (to) {
-          // Show correct title in tab (defined in routes.js)
-          document.title = to.meta.title || 'TechTeach Junior'
-        }
-      }
     }
+    // watch: {
+    //   message: {
+    //     immediate: true,
+    //     handler: function (to) {
+    //       // Show correct title in tab (defined in routes.js)
+    //       document.title = to.meta.title || 'TechTeach Junior'
+    //     }
+    //   }
+    // }
   }
 </script>
 <style lang="scss">
