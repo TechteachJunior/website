@@ -40,7 +40,7 @@
             </article>
             <article id="discoverMore">
               <div class="title">
-                <h2><i class="fas fa-lightbulb mr-2"></i>Descrube más</h2>
+                <h2><i class="fas fa-lightbulb mr-2"></i>Descubre más</h2>
               </div>
               <div class="content yellow-background">
                 <DiscoverMore />
