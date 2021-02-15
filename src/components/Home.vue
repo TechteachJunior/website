@@ -17,7 +17,7 @@
                         </a>
                      </div>
                      <div class="col-12 col-md-8 col-lg-9">
-                        <h1 class="learn-question text-center">¿Qué aprenderemos hoy?</h1>
+                        <h1 class="learn-question text-center mb-4 mb-md-0">¿Qué aprenderemos hoy?</h1>
                      </div>
                   </div>
                </div>
@@ -25,7 +25,8 @@
             <article id="week-options">
                <div class="content pt-0 blue-background">
                   <div class="py-3 px-3">
-                     <p class="mb-0 text-white text-center"><i class="fas fa-comment-dots mr-2"></i><b>¡Hola!, soy Sammi, y esta semana te invito a empezar los siguientes cursos. ¿Te apuntas?</b> </p>
+                     <p class="text-white text-center"><i class="fas fa-comment-dots mr-2"></i><b>¡Hola!, soy Sammi, y esta semana te invito a empezar los siguientes cursos. ¿Te apuntas?</b> </p>
+                     <p class="mb-0 text-white text-center"><small>Comparte tus progresos conmigo en Instagram <i class="fab fa-instagram"></i> - <b><a class="text-white" href="https://www.instagram.com/techteachjunior/?hl=es" target="_blank">techteachjunior</a></b> <i class="fas fa-heart"></i></small></p>
                   </div>
                   <CoursesWeek />
                </div>
