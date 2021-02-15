@@ -1,4 +1,26 @@
-{
+{ 
+  "week":[ 
+  {
+    "id": "one",
+    "name": "Anima un personaje",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+    "image": "https://www.dropbox.com/s/7h8yvafr2dcwnbe/anima_personaje.jpg?dl=1",
+    "description": "Aprende a animar un personaje y ¡lo podrás utilizar en todos los juegos, cuentos y cartas que vas a crear en Scratch!",
+    "level": "Intermedio",
+    "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  },
+  {
+    "id": "sixteen",
+    "name": "La Era de Hielo",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACSBr09_7bx1sPE4JJsobKRa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_iceage.png?dl=1",
+    "description": "¿List@ para una aventura en hielo? Vas a crear tu propio juego en la era de hielo.",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/iceage/stage/1/puzzle/1",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  }
+  ],
   "begin":[ 
   {
     "id": 1,

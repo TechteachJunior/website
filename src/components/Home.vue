@@ -5,22 +5,30 @@
       </section>
       <main role="main">
          <section role="section">
+            <article id="menu-learning-option">
+               <MenuOptions />
+            </article>
             <article id="question">
-            <div class="container">
-               <div class="row align-items-center">
-                  <div class="col-8 col-md-4 col-lg-3 px-5 mx-auto">
-                  <a class="chatbot-link" href="#">
-                     <img alt="chatbot" src="../assets/images/chatbot/SambotNormal-01.svg">
-                  </a>
-                  </div>
-                  <div class="col-12 col-md-8 col-lg-9">
-                  <h1 class="learn-question text-center">¿Qué aprenderemos hoy?</h1>
+               <div class="container">
+                  <div class="row align-items-center">
+                     <div class="col-8 col-md-4 col-lg-3 px-5 mx-auto">
+                        <a class="chatbot-link" href="#">
+                           <img alt="chatbot" src="../assets/images/chatbot/SambotNormal-01.svg">
+                        </a>
+                     </div>
+                     <div class="col-12 col-md-8 col-lg-9">
+                        <h1 class="learn-question text-center">¿Qué aprenderemos hoy?</h1>
+                     </div>
                   </div>
                </div>
-            </div>
             </article>
-            <article id="menu-learning-option">
-              <MenuOptions />
+            <article id="week-options">
+               <div class="content pt-0 blue-background">
+                  <div class="py-3 px-3">
+                     <p class="mb-0 text-white text-center"><i class="fas fa-comment-dots mr-2"></i><b>¡Hola!, soy Sammi, y esta semana te invito a empezar los siguientes cursos. ¿Te apuntas?</b> </p>
+                  </div>
+                  <CoursesWeek />
+               </div>
             </article>
             <article id="learning-options">
               <div class="title">
@@ -57,6 +65,7 @@
    // import ChatBox from '../components/ChatBox'
    import SubHeader from '../components/SubHeader'
    import Courses from '../components/Courses'
+   import CoursesWeek from '../components/CoursesWeek'
    import CoursesBegin from '../components/CoursesBegin'
    import MenuOptions from '../components/MenuOptions'
    import DiscoverMore from '../components/DiscoverMore'
@@ -66,6 +75,7 @@
          // ChatBox,
          SubHeader,
          Courses,
+         CoursesWeek,
          CoursesBegin,
          MenuOptions,
          DiscoverMore,
