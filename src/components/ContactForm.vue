@@ -1,5 +1,7 @@
 <template>
-  
+  <div class="row justify-content-center">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCFtjbgSWzhGxcMDA50mF_RukJOJeRuDUs007dj5VvNWP9Yg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
 </template>
 <script>
   export default {
