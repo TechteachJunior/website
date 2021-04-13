@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Fiesta de baile en Code.org",
-    "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD8ITMj5n2qRwzeQzyOkOP_a/Im%C3%A1genes%20para%20el%20sitio%20web/codeorg-fiesta-de-baile-1.jpeg?dl=1",
-    "description": "Empieza a programar en la página code.org. ¡En esta primera clase creas una fiesta de baile!",
-    "level": "Fácil",
-    "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1",
+    "name": "Código Flappy",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADBnOmS1zY03p5HUfjO6JCsa/Im%C3%A1genes%20para%20el%20sitio%20web/flappy.jpg?dl=1",
+    "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/flappy/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
-    "id": "second",
-    "name": "Anima un nombre",
+    "id": "two",
+    "name": "Hazlo girar",
     "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-    "image": "https://www.dropbox.com/s/djv9u0up2nrfawb/anima_un_nombre.jpg?dl=1",
-    "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADFtB5ZKZqe411-xNJXVZ2ia/Im%C3%A1genes%20para%20el%20sitio%20web/hazlo_girar.jpg?dl=1",
+    "description": "Gira a tu personaje. ¿A ver si le puedes hacer girar 10 veces?",
     "level": "Fácil",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=name",
+    "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-spin",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
