@@ -2,6 +2,7 @@
   <footer>
     <div class="d-flex align-items-center justify-content-center">
       <span class="instagram"><a title="Ir a nuestra cuenta de Instagram" href="https://www.instagram.com/techteachjunior/?hl=es" target="_blank"><i class="fab fa-2x fa-instagram"></i></a></span>
+      <span class="twitter"><a title="Ir a nuestra cuenta de Twitter" href="https://twitter.com/techteachjunior" target="_blank"><i class="fab fa-2x fa-twitter"></i></a></span>
       <span class="youtube"><a title="Ir a nuestro canal de Youtube" href="https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g" target="_blank"><i class="fab fa-2x fa-youtube"></i></a></span>
       <span class="email"><a title="Envíanos un correo" href="mailto:info@techteachjunior.com?Subject=Hola Tech teachers"><i class="fas fa-2x fa-envelope"></i></a></span>
     </div>
