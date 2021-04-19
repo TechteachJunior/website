@@ -17,6 +17,7 @@
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
     "emailjs-com": "^2.6.3",
+    "firebase": "^8.4.1",
     "jquery": "^3.5.1",
     "vue": "^2.6.11",
     "vue-axios": "^2.1.5",
