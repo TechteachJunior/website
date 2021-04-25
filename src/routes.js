@@ -2,6 +2,7 @@ import Home from './components/Home'
 import TypingCourses from './components/TypingCourses'
 import ProgramCourses from './components/ProgramCourses'
 import GoogleDriveCourses from './components/GoogleDrive'
+import MinecraftCourses from './components/MinecraftCourses'
 import About from './components/About'
 export const routes = [
   {
@@ -35,6 +36,14 @@ export const routes = [
     meta: {
          auth: false,
          title: 'Google Drive | TechTeach Junior'
+    }
+  },{
+    path: '/minecraft-courses',
+    name: 'MinecraftCourses',
+    component: MinecraftCourses,
+    meta: {
+         auth: false,
+         title: 'Minecraft | TechTeach Junior'
     }
   },{
     path: '/about',

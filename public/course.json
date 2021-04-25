@@ -57,7 +57,7 @@
     "name": "Minecraft",
     "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
     "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
-    "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en que puedes hacer muchas diferentes cosas creativas. Este video explica como funciona el video juego.",
+    "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
     "level": "Fácil",
     "url": " https://youtu.be/u1NoPGjAG78",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
@@ -708,5 +708,108 @@
       "level": "Fácil",
       "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
     }
+    ],
+    "minecraft":[ 
+      {
+        "id": "one",
+        "name": "Minecraft",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=u1NoPGjAG78"
+      },
+      {
+        "id": "two",
+        "name": "Modo supervivencia",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "¿Estás empezando con Minecraft? ¡El modo supervivencia es súper cool! Este video explica en detalle todo sobre este modo de Minecraft.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=zkZysbbsXrQ"
+      },
+      {
+        "id": "three",
+        "name": "Construye tu casa",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "¿Vas a construir tu primera casa de Minecraft? Tal vez puedes usar este tutorial para hacerlo, será una casa bonita y no cuesta mucho construirla.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=iUF4aUf_vcU"
+      },
+      {
+        "id": "four",
+        "name": "Construcciones bonitas",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "En este tutorial vas a hacer más tipos de construcciones, como una bodega y un pozo. Aprenderás cómo hacer construcciones bonitas para añadir a tu mundo de Minecraft.",
+        "level": "Fácil",
+        "url": "https://youtu.be/rSJX77_ykBs"
+      },
+      {
+        "id": "five",
+        "name": "Decoraciones rosadas",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "¿Necesitas más color en tu mundo de Minecraft? Este video está enfocado en construcciones rosadas muy bonitas. ",
+        "level": "Fácil",
+        "url": "https://youtu.be/fSmS0sq-ivQ"
+      },
+      {
+        "id": "six",
+        "name": "Construye tu jardin",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "Si te gusta la naturaleza este video es para tí. En este video hay 3 ideas para implementar en tu jardín de Minecraft y hacerlo súper bonito.",
+        "level": "Fácil",
+        "url": "https://youtu.be/sJeQJIT5Cew"
+      }
+    ],
+    "csfirst":[ 
+      {
+        "id": "one",
+        "name": "Codifica a tu héroe",
+        "logo": "",
+        "image": "",
+        "description": "¿Quién es tu héroe? Convierte a un héroe cotidiano en un superhéroe.",
+        "level": "Fácil",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/code-your-hero/codifica-a-tu-h%C3%A9roe/introducci%C3%B3n-de-h%C3%A9roe-a-superh%C3%A9roe.html"
+      },
+      {
+        "id": "two",
+        "name": "Un descubrimiento inusual",
+        "logo": "",
+        "image": "",
+        "description": "Inventa una historia y hazlo real en código. ¿Qué historia inventarás?",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/an-unusual-discovery/un-descubrimiento-inusual/un-descubrimiento-inusual.html"
+      },
+      {
+        "id": "three",
+        "name": "Comparte tu pasión",
+        "logo": "",
+        "image": "",
+        "description": "¿Qué te apasiona? En esta clase vas a compartir un mensaje sobre algo que te interesa mucho. ",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n/comparte-tu-pasi%C3%B3n.html"
+      },
+      {
+        "id": "four",
+        "name": "Comparte tu mensaje",
+        "logo": "",
+        "image": "",
+        "description": "Si quieres mejorar el mundo necesitas apoyo de tu comunidad. Crea un proyecto en el que pides a la gente que haga algo para apoyar una causa o problema que es importante para ti. ",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n-anuncio-de-servicio-p%C3%BAblico/anuncio-de-servicio-p%C3%BAblico.html"
+      },
+      {
+        "id": "five",
+        "name": "Anima un nombre",
+        "logo": "",
+        "image": "",
+        "description": "Usa secuencias, eventos y bucles para animar tu nombre. ¡Vas a ver a tu nombre bailando!",
+        "level": "Fácil",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/animate-a-name/animar-un-nombre/animar-un-nombre.html"
+      }
     ]
 }

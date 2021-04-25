@@ -19,6 +19,14 @@
               <CoursesCodeOrg />
             </div>
           </article>
+          <article id="codeOrgCourses">
+            <div class="title">
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/minecraft-logo.png"><h2>CSFirst</h2>
+            </div>
+            <div class="content">
+              <CoursesCsfirst />
+            </div>
+          </article>
         </section>
       </main>
    </div>
@@ -27,11 +35,13 @@
 <script>
   import CoursesScratch from '../components/CoursesScratch'
   import CoursesCodeOrg from '../components/CoursesCodeOrg'
+  import CoursesCsfirst from '../components/CoursesCsfirst'
   export default {
     name: 'ProgramCourses',
     components: {
       CoursesScratch,
-      CoursesCodeOrg
+      CoursesCodeOrg,
+      CoursesCsfirst,
     }
   }
 </script>
