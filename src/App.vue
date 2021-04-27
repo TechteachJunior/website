@@ -278,6 +278,9 @@
     &.yellow-background {
       background-color: $yellow;
     }
+    &.purple-light-background {
+      background-color: $purple-light;
+    }
     a:hover {
       text-decoration: none;
     }

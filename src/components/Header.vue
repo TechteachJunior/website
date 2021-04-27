@@ -16,7 +16,8 @@
             <b-nav-item-dropdown text="Los cursos">
               <b-dropdown-item><router-link to="program-courses">Programar</router-link></b-dropdown-item>
               <b-dropdown-item><router-link to="google-drive-courses">Google</router-link></b-dropdown-item>
-               <b-dropdown-item><router-link to="minecraft-courses">Minecraft</router-link></b-dropdown-item>
+              <b-dropdown-item><router-link to="minecraft-courses">Minecraft</router-link></b-dropdown-item>
+              <b-dropdown-item><router-link to="typing-courses">Typing Club</router-link></b-dropdown-item>
             </b-nav-item-dropdown>
             <li class="nav-item"><router-link class="nav-link" to="/about">Conócenos</router-link></li>
           </b-navbar-nav>

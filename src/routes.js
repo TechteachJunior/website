@@ -46,6 +46,14 @@ export const routes = [
          title: 'Minecraft | TechTeach Junior'
     }
   },{
+    path: '/typing-club',
+    name: 'TypingCourses',
+    component: TypingCourses,
+    meta: {
+         auth: false,
+         title: 'Typing Courses | TechTeach Junior'
+    }
+  },{
     path: '/about',
     name: 'About',
     component: About,
