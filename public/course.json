@@ -642,6 +642,33 @@
       "description": "En este video Profe Suzy va a explicar cómo puedes usar transiciones en Google Presentaciones.",
       "level": "Fácil",
       "url": "https://www.youtube.com/watch?v=i_irYQpQefA"
+    },
+    {
+      "id": "five",
+      "name": "Editar texto",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/s/r9vycddxm7fxjd3/editar%20texto.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes editar texto en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=5DlqeWXUvRA"
+    },
+    {
+      "id": "six",
+      "name": "Explorar",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAC8sqjFvI_We8aNMRJVJ898a/Im%C3%A1genes%20para%20el%20sitio%20web/explorar.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón de explorar en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=4QSKdQsUcps"
+    },
+    {
+      "id": "seven",
+      "name": "Presentación completa",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABGzfodCKlvfzB72rynt-47a/Im%C3%A1genes%20para%20el%20sitio%20web/presentaci%C3%B3n%20completa.png?dl=1",
+      "description": "En este video Profe Suzy va a crear una presentación completa en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=0kKC0O0rLjw"
     }
     ],
     "googledocs":[
