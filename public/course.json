@@ -2,22 +2,21 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Juego de baloncesto",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA1Fi3TYIVry28IT-Kijt_na/Im%C3%A1genes%20para%20el%20sitio%20web/juego_baloncesto.png?dl=1",
-    "description": "¡Vas a crear tu propio juego de baloncesto!",
+    "name": "Programa una caricatura",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAATnZ8RCFw9oN-PS_Y-C3HGa/Im%C3%A1genes%20para%20el%20sitio%20web/programa_caricatura.jpg?dl=1",
+    "description": "¿Alguna vez has querido tener aventuras con tu caricatura? En esta clase vas a programar tu propia caricatura.",
     "level": "Intermedio",
-    "url": "https://studio.code.org/s/basketball/stage/1/puzzle/1",
+    "url": "https://scratch.mit.edu/projects/331474033/editor?tutorial=code-cartoon",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
     "id": "two",
-    "name": "Añade efectos",
+    "name": "Ocultar y mostrar",
     "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-    "image": "https://www.dropbox.com/s/km61ybtdva85vuj/a%C3%B1ade_efectos.jpg?dl=1",
-    "description": "Aprende a añadir efectos a los objetos. Esto podrás utilizar en todos tus juegos, cartas y cuentos.",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD5bq59QAZGBaGi6BGdabdJa/Im%C3%A1genes%20para%20el%20sitio%20web/ocultar_mostrar.jpg?dl=1",
+    "description": "Una cosa divertida que te ayudará en tus juegos y cuentos en Scratch es hacer ocultar y mostrar a los objetos. Eso aprendes hacer en esta clase.",
     "level": "Fácil",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-effects",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
