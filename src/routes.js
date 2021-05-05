@@ -1,7 +1,7 @@
 import Home from './components/Home'
-import TypingCourses from './components/TypingCourses'
 import ProgramCourses from './components/ProgramCourses'
 import GoogleDriveCourses from './components/GoogleDrive'
+import MinecraftCourses from './components/MinecraftCourses'
 import About from './components/About'
 export const routes = [
   {
@@ -12,14 +12,6 @@ export const routes = [
          auth: false,
          title: 'Bienvenid@ | TechTeach Junior'
      }
-  },{
-     path: '/typing-courses',
-     name: 'TypingCourses',
-     component: TypingCourses,
-     meta: {
-        auth: false,
-        title: 'Teclear | TechTeach Junior'
-    }
   },{
     path: '/program-courses',
     name: 'ProgramCourses',
@@ -35,6 +27,14 @@ export const routes = [
     meta: {
          auth: false,
          title: 'Google Drive | TechTeach Junior'
+    }
+  },{
+    path: '/minecraft-courses',
+    name: 'MinecraftCourses',
+    component: MinecraftCourses,
+    meta: {
+         auth: false,
+         title: 'Minecraft | TechTeach Junior'
     }
   },{
     path: '/about',

@@ -23,8 +23,11 @@
     <div class="w-100 mb-4 px-3 text-center">
       <router-link to="program-courses" tittle="Descubre más cursos de programación" class="btn btn-default">Más cursos de programación</router-link>
     </div>
-    <div class="w-100 text-center px-3">
+    <div class="w-100 mb-4 px-3 text-center">
       <router-link to="google-drive-courses" tittle="Descubre más cursos de google" class="btn btn-default">Más cursos de Google</router-link>
+    </div>
+    <div class="w-100 text-center px-3">
+      <router-link to="minecraft-courses" tittle="Descubre más cursos de Minecraft" class="btn btn-default">Más cursos de Minecraft</router-link>
     </div>
   </ul>
 </template>

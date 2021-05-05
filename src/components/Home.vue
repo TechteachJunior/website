@@ -47,6 +47,19 @@
                 <Courses />
               </div>
             </article>
+            <article id="typingClub">
+              <div class="title">
+                <h2><i class="fas fa-keyboard mr-2"></i>Typing Club</h2>
+              </div>
+              <div class="content purple-light-background text-center">
+                 <h3><b>Curso gratis de mecanografía en español</b></h3>
+                 <div class="mb-3">
+                  <img alt="Typing Club Logo" src="../assets/images/logos/typingclub_logo.png">
+                 </div>
+                 <p class="mb-1">Aprender dactilografía online es una habilidad fácil y útil para aprender.</p><p> TypingClub es un curso para mejorar la mecanografía en español.</p>
+                 <a href="https://www.typingclub.com/sportal/program-3.game" target="_blank"><img alt="Typing Club Logo" style="width: 600px" src="../assets/images/typing-club.webp"></a>
+              </div>
+            </article>
             <article id="discoverMore">
               <div class="title">
                 <h2><i class="fas fa-lightbulb mr-2"></i>Descubre más</h2>
