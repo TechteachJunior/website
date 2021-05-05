@@ -21,7 +21,7 @@
           </article>
           <article id="codeOrgCourses">
             <div class="title">
-              <img class="img-fluid course-logo-header" src="../assets/images/logos/minecraft-logo.png"><h2>CSFirst</h2>
+              <img class="img-fluid course-logo-header" src="../assets/images/logos/csfirst.png"><h2>CSFirst</h2>
             </div>
             <div class="content">
               <CoursesCsfirst />
