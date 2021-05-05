@@ -57,7 +57,9 @@
                   <img alt="Typing Club Logo" src="../assets/images/logos/typingclub_logo.png">
                  </div>
                  <p class="mb-1">Aprender dactilografía online es una habilidad fácil y útil para aprender.</p><p> TypingClub es un curso para mejorar la mecanografía en español.</p>
-                 <a href="https://www.typingclub.com/sportal/program-3.game" target="_blank"><img alt="Typing Club Logo" style="width: 600px" src="../assets/images/typing-club.webp"></a>
+                 <div class="col-12 col-sm-8 col-xl-6 mx-auto">
+                  <a href="https://www.typingclub.com/sportal/program-3.game" target="_blank"><img class="img-fluid" alt="Typing Club Logo" src="../assets/images/typing-club.webp"></a>
+                 </div>
               </div>
             </article>
             <article id="discoverMore">
