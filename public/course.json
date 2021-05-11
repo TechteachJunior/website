@@ -12,13 +12,12 @@
   },
   {
     "id": "two",
-    "name": "Diseñador de Minecraft",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/s/u2b2x4z07rlrwoj/disenador_de_minecraft.jpg?dl=1",
-    "description": "¡El juego de Minecraft se congeló! ¿Ayudarás en añadir movimiento al mundo Minecraft otra vez? ",
+    "name": "Un descubrimiento inusual",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAArJ0AAuSeoHG6H1aAfs5ma/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_discovery_icon.png?dl=1",
+    "description": "Inventa una historia y hazlo real en código. ¿Qué historia inventarás?",
     "level": "Intermedio",
-    "url": "https://studio.code.org/s/minecraft/stage/1/puzzle/1",
-    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    "url": "https://csfirst.withgoogle.com/c/cs-first/en/an-unusual-discovery/un-descubrimiento-inusual/un-descubrimiento-inusual.html"
   }
   ],
   "begin":[ 
