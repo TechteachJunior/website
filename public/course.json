@@ -2,21 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Programa una caricatura",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAATnZ8RCFw9oN-PS_Y-C3HGa/Im%C3%A1genes%20para%20el%20sitio%20web/programa_caricatura.jpg?dl=1",
-    "description": "¿Alguna vez has querido tener aventuras con tu caricatura? En esta clase vas a programar tu propia caricatura.",
+    "name": "Fiesta de Baile 2",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
+    "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
     "level": "Intermedio",
-    "url": "https://scratch.mit.edu/projects/331474033/editor?tutorial=code-cartoon",
+    "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
     "id": "two",
-    "name": "Ocultar y mostrar",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD5bq59QAZGBaGi6BGdabdJa/Im%C3%A1genes%20para%20el%20sitio%20web/ocultar_mostrar.jpg?dl=1",
-    "description": "Una cosa divertida que te ayudará en tus juegos y cuentos en Scratch es hacer ocultar y mostrar a los objetos. Eso aprendes hacer en esta clase.",
-    "level": "Fácil",
+    "name": "Diseñador de Minecraft",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/s/u2b2x4z07rlrwoj/disenador_de_minecraft.jpg?dl=1",
+    "description": "¡El juego de Minecraft se congeló! ¿Ayudarás en añadir movimiento al mundo Minecraft otra vez? ",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/minecraft/stage/1/puzzle/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
