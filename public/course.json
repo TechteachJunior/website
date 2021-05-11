@@ -2,13 +2,13 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Fiesta de Baile 2",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
-    "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
-    "level": "Intermedio",
-    "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2",
-    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    "name": "Codifica a tu héroe",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB539tsFkWJvVUFyjOOtSQZa/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_code_your_hero.png?dl=1",
+    "description": "¿Quién es tu héroe? Convierte a un héroe cotidiano en un superhéroe.",
+    "level": "Fácil",
+    "url": "https://csfirst.withgoogle.com/c/cs-first/en/code-your-hero/codifica-a-tu-h%C3%A9roe/introducci%C3%B3n-de-h%C3%A9roe-a-superh%C3%A9roe.html",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1",
   },
   {
     "id": "two",
