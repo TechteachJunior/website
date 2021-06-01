@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Anima un nombre",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAByBF2kK6tPzMv2GAsIgtx0a/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_name_icon.png?dl=1",
-    "description": "Usa secuencias, eventos y bucles para animar tu nombre. ¡Vas a ver a tu nombre bailando!",
+    "name": "Construye tu casa",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPVPw6mSM5qXwoFuDplJAoa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_construye_tu_casa.jpg?dl=1",
+    "description": "¿Vas a construir tu primera casa de Minecraft? Tal vez puedes usar este tutorial para hacerlo, será una casa bonita y no cuesta mucho construirla.",
     "level": "Fácil",
-    "url": "https://csfirst.withgoogle.com/c/cs-first/en/animate-a-name/animar-un-nombre/animar-un-nombre.html",
+    "url": "https://www.youtube.com/watch?v=iUF4aUf_vcU",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
     {
       "id": "two",
-      "name": "Comparte tu pasión",
-      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
-      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADkHI-TKHeAxFUMaZDahIQva/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_pitch_your_passion.png?dl=1",
-      "description": "¿Qué te apasiona? En esta clase vas a compartir un mensaje sobre algo que te interesa mucho. ",
+      "name": "Fiesta de Baile 2",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
+      "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
       "level": "Intermedio",
-      "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n/comparte-tu-pasi%C3%B3n.html",
+      "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2",
       "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     }
   ],
