@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Construye tu casa",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPVPw6mSM5qXwoFuDplJAoa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_construye_tu_casa.jpg?dl=1",
-    "description": "¿Vas a construir tu primera casa de Minecraft? Tal vez puedes usar este tutorial para hacerlo, será una casa bonita y no cuesta mucho construirla.",
-    "level": "Fácil",
-    "url": "https://www.youtube.com/watch?v=iUF4aUf_vcU",
+    "name": "Star Wars",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACU_5RoY4KBw02l_gNaFCaTa/Im%C3%A1genes%20para%20el%20sitio%20web/starwars.jpg?dl=1",
+    "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
     {
       "id": "two",
-      "name": "Fiesta de Baile 2",
-      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-      "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
-      "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
-      "level": "Intermedio",
-      "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2",
+      "name": "Decoraciones rosadas",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxGHKadakT3oUyuv_A-O4ba/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_decoraciones_rosadas.jpg?dl=1",
+      "description": "¿Necesitas más color en tu mundo de Minecraft? Este video está enfocado en construcciones rosadas muy bonitas. ",
+      "level": "Fácil",
+      "url": "https://youtu.be/fSmS0sq-ivQ",
       "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     }
   ],
