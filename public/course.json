@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Star Wars",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACU_5RoY4KBw02l_gNaFCaTa/Im%C3%A1genes%20para%20el%20sitio%20web/starwars.jpg?dl=1",
-    "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
-    "level": "Intermedio",
-    "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1",
+    "name": "Cambiar tamaño",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+    "image": "https://www.dropbox.com/s/8wqizxfe90zcezr/Cambiar_tama%C3%B1o.jpg?dl=1",
+    "description": "Aprende cómo hacer crecer y reducir el tamaño de un objeto.",
+    "level": "Fácil",
+    "url": "https://scratch.mit.edu/projects/editor/?tutorial=change-size",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
     {
       "id": "two",
-      "name": "Decoraciones rosadas",
-      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
-      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxGHKadakT3oUyuv_A-O4ba/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_decoraciones_rosadas.jpg?dl=1",
-      "description": "¿Necesitas más color en tu mundo de Minecraft? Este video está enfocado en construcciones rosadas muy bonitas. ",
-      "level": "Fácil",
-      "url": "https://youtu.be/fSmS0sq-ivQ",
+      "name": "Anima un juego de aventura",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACotEwpnUCZKeFJdVmQpItsa/Im%C3%A1genes%20para%20el%20sitio%20web/juego-aventura.jpg?dl=1",
+      "description": "¡Vamos de aventura! Anima tu propio juego de aventura.",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-an-adventure-game",
       "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
     }
   ],
