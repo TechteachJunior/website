@@ -2,24 +2,24 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Cambiar tamaño",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-    "image": "https://www.dropbox.com/s/8wqizxfe90zcezr/Cambiar_tama%C3%B1o.jpg?dl=1",
-    "description": "Aprende cómo hacer crecer y reducir el tamaño de un objeto.",
+    "name": "Minecraft",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+    "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
     "level": "Fácil",
-    "url": "https://scratch.mit.edu/projects/editor/?tutorial=change-size",
+    "url": "https://www.youtube.com/watch?v=u1NoPGjAG78",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
-    {
-      "id": "two",
-      "name": "Anima un juego de aventura",
-      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
-      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACotEwpnUCZKeFJdVmQpItsa/Im%C3%A1genes%20para%20el%20sitio%20web/juego-aventura.jpg?dl=1",
-      "description": "¡Vamos de aventura! Anima tu propio juego de aventura.",
-      "level": "Intermedio",
-      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-an-adventure-game",
-      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
-    }
+  {
+    "id": "two",
+    "name": "Modo supervivencia",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABgetcj3vZ6ag7Ccad41qtka/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_modo_supervivencia.jpg?dl=1",
+    "description": "¿Estás empezando con Minecraft? ¡El modo supervivencia es súper cool! Este video explica en detalle todo sobre este modo de Minecraft.",
+    "level": "Fácil",
+    "url": "https://www.youtube.com/watch?v=zkZysbbsXrQ",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  }
   ],
   "begin":[ 
   {
