@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Minecraft",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
-    "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
-    "level": "Fácil",
-    "url": "https://www.youtube.com/watch?v=u1NoPGjAG78",
+    "name": "Juego de Disney",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABILeH71Zi1g9nV3ErzVIypa/Im%C3%A1genes%20para%20el%20sitio%20web/Laberinto_Disney.jpg?dl=1",
+    "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
     "id": "two",
-    "name": "Modo supervivencia",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABgetcj3vZ6ag7Ccad41qtka/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_modo_supervivencia.jpg?dl=1",
-    "description": "¿Estás empezando con Minecraft? ¡El modo supervivencia es súper cool! Este video explica en detalle todo sobre este modo de Minecraft.",
-    "level": "Fácil",
-    "url": "https://www.youtube.com/watch?v=zkZysbbsXrQ",
+    "name": "Frozen",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB59AZr1JInA55Q02TUqQKza/Im%C3%A1genes%20para%20el%20sitio%20web/frozen.jpg?dl=1",
+    "description": "¿Estás list@ para entrar a un mundo congelado? En esta clase vas a dibujar con Elsa en patines.",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/frozen/stage/1/puzzle/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
