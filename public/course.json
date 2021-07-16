@@ -2,22 +2,22 @@
   "week":[ 
   {
     "id": "one",
-    "name": "Juego de Disney",
+    "name": "Juego de Gumball",
     "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABILeH71Zi1g9nV3ErzVIypa/Im%C3%A1genes%20para%20el%20sitio%20web/Laberinto_Disney.jpg?dl=1",
-    "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACRYuiFK7kDaXgBa7yhVTKLa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_gumball.png?dl=1",
+    "description": "En esta clase van a crear un juego de Gumball. ¡Buena suerte!",
     "level": "Intermedio",
-    "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1",
+    "url": "https://studio.code.org/s/gumball/stage/1/puzzle/1",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   },
   {
     "id": "two",
-    "name": "Frozen",
-    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
-    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB59AZr1JInA55Q02TUqQKza/Im%C3%A1genes%20para%20el%20sitio%20web/frozen.jpg?dl=1",
-    "description": "¿Estás list@ para entrar a un mundo congelado? En esta clase vas a dibujar con Elsa en patines.",
+    "name": "Comparte tu mensaje",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABWP6lGAwFPVG8N9u11oTcDa/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_public_service_announcement.png?dl=1",
+    "description": "Si quieres mejorar el mundo necesitas apoyo de tu comunidad. Crea un proyecto en el que pides a la gente que haga algo para apoyar una causa o problema que es importante para ti. ",
     "level": "Intermedio",
-    "url": "https://studio.code.org/s/frozen/stage/1/puzzle/1",
+    "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n-anuncio-de-servicio-p%C3%BAblico/anuncio-de-servicio-p%C3%BAblico.html",
     "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
   }
   ],
